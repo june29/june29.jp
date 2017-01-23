@@ -35,3 +35,4 @@ git config --global user.email "${GIT_USER_EMAIL}"
 git add --all
 git commit -m '[ci skip]'
 git push -f origin gh-pages
+exit 0
