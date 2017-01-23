@@ -1,0 +1,7 @@
+languageCode = "ja-jp"
+title = "#june29jp"
+baseurl = "http://june29.jp/"
+theme = "hugo29"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
