@@ -1,0 +1,3 @@
+[submodule "themes/hugo29"]
+	path = themes/hugo29
+	url = git@github.com:june29/hugo29.git
