@@ -33,5 +33,5 @@ cd public
 git config --global user.name "${GIT_USER_NAME}"
 git config --global user.email "${GIT_USER_EMAIL}"
 git add --all
-git diff --quiet --exit-code --cached || git commit -m '[ci skip]'
+git diff --quiet --exit-code --cached || git commit -m 'Update content [ci skip]'
 git push -f origin gh-pages
