@@ -3,6 +3,7 @@ title = "このブログを Hugo で再構築しました"
 date = "2017-01-22T00:00:00+09:00"
 draft = false
 slug = "hello-hugo"
+description = "サイトを Hugo で作り直した話です。さらっとした内容です。"
 og_image = "post/2017/01/22/hello-hugo.png"
 
 +++
