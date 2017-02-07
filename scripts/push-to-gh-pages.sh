@@ -28,6 +28,7 @@ else
   cd ..
 fi
 
+ruby scripts/generate-entries-json.rb
 hugo
 cd public
 git config --global user.name "${GIT_USER_NAME}"
