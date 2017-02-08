@@ -1,3 +1,4 @@
+require 'time'
 require 'json'
 
 result = []
@@ -14,7 +15,10 @@ entry_file_paths.each do |path|
     end
   end
 
-  result << entry_data if entry_data.size == 3
+  next if entry_data.size < 3
+
+  entry_data[:link] = Time.parse(entry_data[:date]).strftime("/%Y/%m/%d/#{entry_data[:slug]}")
+  result << entry_data
 end
 
 File.write('static/entries.json', JSON.dump(result))
