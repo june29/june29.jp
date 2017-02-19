@@ -1,7 +1,7 @@
 +++
 date = "2017-02-18T23:30:00+09:00"
-title = "イベント「東京工業大学CBECエンジニアリングデザインコンペティション2017」で審査員してきた"
-description = "東京工業大学のCBEC(チーム志向越境型アントレプレナー育成プログラム)"
+title = "イベント「東京工業大学CBECエンジニアリングデザインコンペティション」に参加してきた"
+description = "東京工業大学のCBEC(チーム志向越境型アントレプレナー育成プログラム)のエンジニアリングデザインコンペティションに、審査員として参加してきました。"
 og_image = "post/2017/02/18/2017-02-18-titech-cbec-engineering-design-competition-2017-1.jpg"
 draft = false
 slug = "titech-cbec-engineering-design-competition-2017"
