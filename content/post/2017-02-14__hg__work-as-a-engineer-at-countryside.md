@@ -3,7 +3,7 @@ og_image = "post/2017/02/14/work-as-a-engineer-at-countryside.png"
 draft = false
 slug = "work-as-a-engineer-at-countryside"
 title = "イベント「エンジニアとして、地方ではたらく。」に参加してきた"
-date = "2017-02-19T18:29:03+09:00"
+date = "2017-02-14T23:30:00+09:00"
 description = "勤め先のオフィスビルで開催されるイベントに、同僚や母校の後輩が登壇するということで見に行ってきました。"
 
 +++
