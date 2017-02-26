@@ -10,6 +10,8 @@ description = "「第2回エンジニアリングマネージャー勉強会」�
 
 <a href="http://june29.jp/2017/01/11/i-am-a-ctl-of-pepabo-hd/">ペパボの本社事業部のチーフテクニカルリードになりました</a>に書いた通り、2017年1月から社の事業部のひとつのチーフテクニカルリード(通称: CTL)を任せてもらっていて、今年はエンジニアリングマネージメントについての考えも深めていきたいと思っています。なにかを学ぶときに発表の機会を持つのは常套手段ですから、今回のイベントが GMO Yours で開催されると知った瞬間に「トークしたいです」と手を挙げました。
 
+<a href="https://emjp.connpass.com/event/50613/">第2回 エンジニアリングマネージャー勉強会 - connpass</a>
+
 以下、トークで使った資料です。
 
 <script async class="speakerdeck-embed" data-id="5e084cf3df3a4e00b961cbb4052337a3" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
