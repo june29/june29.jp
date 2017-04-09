@@ -18,7 +18,9 @@ draft = false
 <p>ここで、私が直面した現実の問題の話をしよう。あれは今から36万… いや、1万4000日前だったか。まあいい。私にとっては、つい先週の出来事だが、君たちにとっては多分、明日の出来事だ。</p>
 <h4>だれかメッセージ</h4>
 <p>「あるひとつのもの」と、それを取り巻くすべてについて、みんながそれぞれに意見を言っています。</p>
-<p><a href="http://www.flickr.com/photos/june29/5367349000/" title="Messages by june29, on Flickr"><img src="http://farm6.static.flickr.com/5048/5367349000_76a091cce6.jpg" width="500" height="314" alt="Messages" /></a></p>
+
+<a href="http://www.flickr.com/photos/june29/5367349000/" title="Messages by june29, on Flickr"><img src="http://farm6.static.flickr.com/5048/5367349000_76a091cce6.jpg" alt="Messages" /></a>
+
 <ul>
 <li>○○○は、こうあるべきだ。</li>
 <li>△△△は、こういうことを考える必要がある。</li>
@@ -26,7 +28,9 @@ draft = false
 </ul>
 <p>誰かが「こうあるべきだ」と言ったら、別の誰かが「こうあるべきではない」と言えてしまいます。「これを取り入れたら上手くいく」には「いいや、上手くいかない」と言えてしまいます。この状態では、会話を前に進めるのは、とても難しいのです。</p>
 <h4>わたしメッセージ</h4>
-<p><a href="http://www.flickr.com/photos/june29/5366738391/" title="Messages by june29, on Flickr"><img src="http://farm6.static.flickr.com/5088/5366738391_9806b34b2a.jpg" width="500" height="306" alt="Messages" /></a></p>
+
+<a href="http://www.flickr.com/photos/june29/5366738391/" title="Messages by june29, on Flickr"><img src="http://farm6.static.flickr.com/5088/5366738391_9806b34b2a.jpg" alt="Messages" /></a>
+
 <ul>
 <li>わたしは、こうなったら嬉しい。</li>
 <li>わたしは、もっとこういうものを見たい。</li>
@@ -34,7 +38,9 @@ draft = false
 </ul>
 <p>主語が一人称になると、ある人が「こうなったら嬉しい」と言ったときに、他の人は「それ、俺は嬉しくない」ということはできても、ある人の「こうなったら嬉しい」自体は否定することができません。これが大事なことだと思います。「俺は、もっと、別のものが嬉しいな」と、それぞれに出し合う分には、それぞれを共存させて会話を成立させることができます。</p>
 <h4>わたしたちメッセージ</h4>
-<p><a href="http://www.flickr.com/photos/june29/5366738461/" title="Messages by june29, on Flickr"><img src="http://farm6.static.flickr.com/5127/5366738461_72f7fa6568.jpg" width="500" height="340" alt="Messages" /></a></p>
+
+<a href="http://www.flickr.com/photos/june29/5366738461/" title="Messages by june29, on Flickr"><img src="http://farm6.static.flickr.com/5127/5366738461_72f7fa6568.jpg" alt="Messages" /></a>
+
 <p>メッセージを「わたしは」の形にして整理できたら、そこから「わたしたちメッセージ」を見つけていけるでしょう。</p>
 <p>「わたしの、こうしたい」と「ぼくの、ああしたい」を対立させるのではなく、「わたしたちの、ああしたいこうしたい」で「問題」に向き合う形にするのです。そうして、ようやく、そこにいる人たちがチームになれます。</p>
 <h4>実際の現場から</h4>
