@@ -4,7 +4,7 @@ description = "2017年6月29日、勤務先であるGMOペパボの新卒7期生
 draft = false
 og_image = "https://speakerd.s3.amazonaws.com/presentations/3d79d49bcb48453f8d81c376c5fad4d5/slide_0.jpg"
 slug = "develop-your-team-develop-with-your-team"
-title = "これからチーム開発に立ち向かう花ざかりの君たちへ"
+title = "これからチーム開発に立ち向かう花ざかりの君たちへ"
 
 +++
 
