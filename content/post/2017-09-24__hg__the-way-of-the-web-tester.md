@@ -99,4 +99,4 @@ og_image = "post/2017/09/24/the-way-of-the-web-tester-oreilly-japan.png"
 
 ### まとめ
 
-<a href="https://www.oreilly.co.jp/books/9784873118161/">O'Reilly Japan - 初めての自動テスト</a>をいただいたので、読んで感想を書きました。これからやる！という人に向けて手渡したい心強い1冊です。読み口も軽快で楽しく読めるところもいいですね。
+<a href="https://www.oreilly.co.jp/books/9784873118161/">O'Reilly Japan - 初めての自動テスト</a>をいただいたので、読んで感想を書きました。これからやる！という人に向けて手渡したい心強い1冊です。読み口も軽快で楽しく読めるところもおすすめポイントです。
