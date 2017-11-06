@@ -1,5 +1,5 @@
 +++
-date = "2017-11-06T23:30:00+09:00"
+date = "2017-11-06T23:20:00+09:00"
 description = "無理してがんばっている人へ。一息ついてあたりを見渡してみませんか。"
 draft = false
 slug = "people-who-work-hard-unnaturally"
