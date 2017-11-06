@@ -43,7 +43,7 @@ title = "RubyWorld Conference 2017 に参加してきた"
 - <a href="https://speakerdeck.com/moro/joyful-user-foundation-restructuring-with-ruby">Rubyによるたのしいユーザー基盤再構築 - @moro</a>
 - <a href="https://speakerdeck.com/nay3/rubypuroguramagayu-tushi-zu-mi-rubydefalseshou-tuo-kai-fa-wo10nian-hui-sitemite">Rubyプログラマが育つ仕組み - Rubyでの受託開発を10年回してみて - @nay3</a>
 
-ぼくが宿題を思い出せるように便利資料リンク集を置いておきます。あと、会場から撤収する間際に @koic さんと話したことがおもしろくて、しかもそのあとにバスの中で @moro さんとも似たような話になって、ぼくはあの続きをやりたいので都内でお話できたらいいなあ、と！そういうテンションになったので週明けの社内で @kenchan に雑に絡んだりしました。
+あとからでも宿題を思い出せるように便利資料リンク集を置いておきます。あと、会場から撤収する間際に @koic さんと話したことがおもしろくて、しかもそのあとにバスの中で @moro さんとも似たような話になって、ぼくはあの続きをやりたいので都内でお話できたらいいなあ、と！そういうテンションになったので週明けの社内で @kenchan に雑に絡んだりしました。
 
 ### 感謝
 
