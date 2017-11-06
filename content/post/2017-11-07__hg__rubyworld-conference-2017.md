@@ -1,5 +1,5 @@
 +++
-date = "2017-11-06T23:20:00+09:00"
+date = "2017-11-07T00:30:00+09:00"
 description = "2017年11月1日〜2日に島根県松江市で開催された「RubyWorld Conference 2017」に参加してきました。イベントのレポートではなく、参加者であるぼく個人のメモ書きです。"
 draft = false
 slug = "rubyworld-conference-2017"
