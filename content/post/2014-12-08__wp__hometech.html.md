@@ -14,7 +14,7 @@ draft = false
 <h3>家庭について</h3>
 <p>夫マン <a href="https://twitter.com/june29" title="大和田純 公式アカウント(@june29)さん | Twitter">@june29</a> と、嫁ガール <a href="https://twitter.com/mamipeko" title="まみぺこ(@mamipeko)さん | Twitter">@mamipeko</a> の2人からなる家庭です。新米夫婦です。</p>
 <h3>活用ツール、ジャンル問わずざっと書き出し</h3>
-<p><a href="https://www.flickr.com/photos/june29/15964073142" title="IMGP4176 by Jun OHWADA, on Flickr"><img src="https://farm8.staticflickr.com/7481/15964073142_5d952ee92f_z.jpg" width="640" height="426" alt="IMGP4176"></a></p>
+<p><a href="https://www.flickr.com/photos/june29/15964073142" title="IMGP4176 by Jun OHWADA, on Flickr"><img src="https://farm8.staticflickr.com/7481/15964073142_5d952ee92f_z.jpg" alt="IMGP4176"></a></p>
 <ul>
 <li>Mac (ふたりとも)</li>
 <li>iPhone (ふたりとも)</li>
@@ -38,7 +38,7 @@ draft = false
 <h3>ツールの選定に際して</h3>
 <p>幸い、プログラマがいる家庭においては、各種ツールをカスタマイズしたり、ときには独自に機能を拡張したりして、自分たちに合わせて使い方を選んでいけます。そう考えたときに、ツールの Hackability というのはとても重要で、やはり Hackability の高いものを選びたくなります。</p>
 <p>たとえば、ぼくらが連絡用チャットツールとして選んでいる Slack は、とても Hackability が高く、さまざまなツールと連携させたり、好きなタイミングで好きな内容を投稿できたりします。たとえば、5月のエントリにも書いた通り、毎朝その日の天気を投稿するようにしていて、洗濯はどうする〜といった会話に役立てています。</p>
-<p><img width="700" height="468" alt="お天気おねえさん" src="http://new.tinygrab.com/9850fdfb4ba98a52fac262d439f981be8e487faaaf.png"></p>
+<p><img alt="お天気おねえさん" src="http://new.tinygrab.com/9850fdfb4ba98a52fac262d439f981be8e487faaaf.png"></p>
 <h3>今後のテクノロジーの発展に期待すること</h3>
 <p>あと、半年間ほどいっしょに生活してみて、パーソナルコンピュータというのは、本当にパーソナルコンピュータとして進化してきてしまったのだなぁと思います。パーソナル、つまり「個人用」ですね。家に置いてある iPad を使うときにも、誰かのアカウントでサインインしなければいけないわけで。タブレットにしろ、ノートブックにしろ、モバイルにしろ、「使う人はひとりである」という前提に縛られている印象を受けます。一方で、いわゆる家電と呼ばれるような、テレビとか、冷蔵庫とか、洗濯機とかは、ひとりで使おうと複数人で使おうとまるで問題がないんですよね。独り暮らしのときには感じなかったけれど、今はそういったことに気付くようになりました。</p>
 <p>夜ごはんを食べるとき、いっしょになにかしらの映像(テレビ番組だったり、YouTube の動画だったり、DVD だったり)を観ることが多いのですが、このときの「リビングにある大型ディスプレイとしてのテレビ」というデバイスは、「家庭の時間」をつくるのに大きな役目を果たしていると感じます。</p>
