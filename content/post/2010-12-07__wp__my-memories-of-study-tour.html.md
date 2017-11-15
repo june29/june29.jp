@@ -14,9 +14,9 @@ draft = false
 <p>読者の皆さんの母校では、いかがですか。研修旅行はありますか。学校ごとに、少しずつ形式は違うかもしれませんね。他の学校の研修旅行についても聞いてみたいです。</p>
 <h3>研修旅行の思い出</h3>
 <p>研修旅行のとき、ボクは19歳でしたから、それこそ破廉恥な思い出のひとつやふたつくらいはあってもおかしくないのですが、今回はそういうお話は抜きにして、青春っぽい友情物語を書いてみようと思います。</p>
-<p><a href="http://www.flickr.com/photos/june29/5240943050/" title="When I was 19 years old by june29, on Flickr"><img src="http://farm6.static.flickr.com/5048/5240943050_951274afba.jpg" width="500" height="333" alt="When I was 19 years old" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/5240943050/" title="When I was 19 years old by june29, on Flickr"><img src="http://farm6.static.flickr.com/5048/5240943050_951274afba.jpg" alt="When I was 19 years old" /></a></p>
 <h4>ハッピーバースデイ・シュークリーム</h4>
-<p><a href="http://www.flickr.com/photos/june29/93191052/" title="no title by june29, on Flickr"><img src="http://farm1.static.flickr.com/14/93191052_08e6f29dcc.jpg" width="500" height="375" alt="no title" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/93191052/" title="no title by june29, on Flickr"><img src="http://farm1.static.flickr.com/14/93191052_08e6f29dcc.jpg" alt="no title" /></a></p>
 <p>研修旅行の東京での宿泊先は、確か<a href="http://www.shibuya-e.tokyuhotels.co.jp/ja/index.html" title="渋谷エクセルホテル東急">渋谷エクセルホテル東急</a>だったと思います。スクランブル交差点を眼下にして「ああ、都会にきてしまったんだなあ」と思いました。</p>
 <p>旅行先でテンションも上がっていますから、当然、自由時間になると付近をちょろちょろしますよね。ボクは友達と一緒に原宿に行きました。生まれて初めて行った竹下通り。そこに、シュークリーム屋さんがありました。</p>
 <p>「残りわずかでーす！美味しいシュークリーム、いかがですかぁ」と、健気にシュークリームを売るのは、とてもきれいでかわいいお姉さんでした。ボクは、その一生懸命な姿に見とれてしまい、次の瞬間には「残りをすべてください」と言っていました。「えっ、いいんですか！ありがとうございます！」とお礼を言われ、心が満たされていくのを感じながら、だけどそれだけじゃ満足できず、一緒に写真を撮ってもらいました。シュークリーム屋さんは無事にすべてのシュークリームを売り切り、その日の営業を終えました。</p>
@@ -25,10 +25,10 @@ draft = false
 <p>──神は言っている。ここで食べ残す宿命ではないと。</p>
 <p>そうです。神の声が聞こえたのです。その日は、クラスメイトのバースデイであると気が付いたのでした。</p>
 <p>ホテルに戻ったボクは、クラスの男の子たちを集め、柔道部の彼(乙女座)を呼び、言いました。「今日は、こいつのバースデイだから、みんなでお祝いしよう。シュークリームを買ってきた！」そして、みんなで美味しいシュークリームを食べて、楽しい夜を過ごしましたとさ。めでたしめでたし。</p>
-<p><a href="http://www.flickr.com/photos/june29/93191909/" title="no title by june29, on Flickr"><img src="http://farm1.static.flickr.com/16/93191909_79e0dada81.jpg" width="500" height="375" alt="no title" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/93191909/" title="no title by june29, on Flickr"><img src="http://farm1.static.flickr.com/16/93191909_79e0dada81.jpg" alt="no title" /></a></p>
 <p>柔道部の彼(乙女座)は、しきりに「じゅんちゃん、ありがとう。ありがとう」と言っていて、そんなに感謝されても困るぜーと冗談ぽく返しながら、ボクは本当に困っていました。</p>
 <h4>フレッシュ！</h4>
-<p><a href="http://www.flickr.com/photos/june29/93187516/" title="Fresh Ohwada by june29, on Flickr"><img src="http://farm1.static.flickr.com/29/93187516_d2016c69dd.jpg" width="500" height="375" alt="Fresh Ohwada" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/93187516/" title="Fresh Ohwada by june29, on Flickr"><img src="http://farm1.static.flickr.com/29/93187516_d2016c69dd.jpg" alt="Fresh Ohwada" /></a></p>
 <p>これは、ホテルの近くで見つけた<a href="http://www.shibuya.info/S75966.html" title="フレッシュ大和田 - 渋谷 &gt; フルーツ、果物">フレッシュ大和田</a>です。記念にパシャリ。</p>
 <h3>まとめ</h3>
 <p>工業高等専門学校に関する話題ということで、研修旅行について書きました。よかったら、あなたの研修旅行エピソードもお聞かせくださいね！明日の担当は、長野が生んだ歌って踊れるスーパーアイドル、声優の<a href="http://twitter.com/kayno" title="諏訪　京乃　（Kayno Suwa） (kayno) on Twitter">†京乃†</a>さんです！予想を裏切り期待を裏切らないプレイスタイルは、これまでにも幾度となくボクらの心を魅了してきました。そんな彼が魅せる次のイリュージョンに乞うご期待！</p>
