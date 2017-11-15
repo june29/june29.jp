@@ -7,7 +7,7 @@ draft = false
 +++
 
 <p>ここ数年でぼくの身近なところではすっかり定着した感じの、クリスマスシーズンを楽しむブログリレー形式のイベントである Advent Calendar のためのアプリ、その名も <a href="http://www.adventar.org/" title="Adventar">Adventar</a> の開発をお手伝いさせてもらっています！そのお話を書きます。</p>
-<p><img src="http://c714091.r91.cf2.rackcdn.com/9850fdfb4bf702822bb89703259b91a0e0ec165e5c.png" alt="Adventar" width="640" height="465"></p>
+<p><img src="http://c714091.r91.cf2.rackcdn.com/9850fdfb4bf702822bb89703259b91a0e0ec165e5c.png" alt="Adventar"></p>
 <h3>ぼくと Advent Calendar</h3>
 <p>探してみると、過去にはこんなエントリたちを書いていました。</p>
 <ul>
