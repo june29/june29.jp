@@ -1,5 +1,5 @@
 +++
-date = "2017-12-05T00:00:00+09:00"
+date = "2017-12-06T00:00:00+09:00"
 description = "書籍「サピエンス全史」の上巻を読み終えたので、感想を書きます。2017年に読むと、それはそれで感じるものがたくさんあって楽しかったです。"
 draft = false
 slug = "sapiens-a-brief-history-of-humankind"
