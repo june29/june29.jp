@@ -10,6 +10,8 @@ og_image = "post/2017/12/06/book.jpg"
 
 <img src="/post/2017/12/06/book.jpg" />
 
+<a href="https://www.amazon.co.jp/dp/B01LW7JZLC/">サピエンス全史(上) 文明の構造と人類の幸福 サピエンス全史　文明の構造と人類の幸福 | ユヴァル・ノア・ハラリ, 柴田裕之 | 歴史学 | Kindleストア | Amazon</a>
+
 先日の「アメトーーク!」の読書芸人の回で <a href="https://twitter.com/kazlaser">Mr.ビーンbot @kazlaser</a> さんが紹介していて、おもしろそうだったので電子書籍版を買って読んでみた。だいぶおもしろかったのでテンション高めに感想を書きます。
 
 ### 社会に対する興味
