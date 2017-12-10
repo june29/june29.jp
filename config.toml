@@ -1,6 +1,6 @@
 languageCode = "ja-jp"
 title = "#june29jp"
-baseURL = "http://june29.jp/"
+baseURL = "https://june29.jp/"
 theme = "hugo29"
 
 [permalinks]
