@@ -62,6 +62,25 @@ Ethereum の説明の中に耳慣れない言葉が出てきました。スマ�
 
 この性質はしっかりと押さえておくべきだと思います。都度都度で柔軟に扱う必要のない手続きや、事前にすべてのロジックを決めておける対象でなければ、運用中に困ってしまうかもしれませんね。
 
+### Solidity ではじめてみよう
+
+なんとなく雰囲気を掴めた(？)ところで、文章を読まされるのも飽きてきたでしょうから実装寄りの話をしていきましょう。
+
+Ethereum のブロックチェーン上で動作するスマートコントラクトを実装する現時点での有力な選択肢として <a href="https://github.com/ethereum/solidity">Solidity</a> というプログラミング言語があります。まずはこれに触れてみるのがおすすめです。なんとも便利なことに、<a href="https://qiita.com/advent-calendar/2017/ethereum">Ethereum Advent Calendar 2017</a> には Solidity のチュートリアルとして使える記事がたくさんありますね〜。
+
+- 12月2日の記事
+  - <a href="https://qiita.com/amachino/items/8cf609f6345959ffc450">Truffle で始める Ethereum 入門 - ERC20 トークンを作ってみよう - Qiita</a>
+- 12月4日の記事
+  - <a href="https://qiita.com/sot528/items/0decc6f3a6b328f135fb">【Ethereum】実務で使う開発環境 - Qiita</a>
+- 12月6日の記事
+  - <a href="https://tech.pepabo.com/2017/12/06/erc20-token-on-ropsten/">Ropstenのテストネット上でERC20トークンを作成・送付してみる - ペパボテックブログ</a>
+- 12月13日の記事
+  - <a href="http://lotz84.hatenablog.com/entry/2017/12/13/081920">Ethereum上のトークンを送金するWebアプリを作ってDecentralizedな方法で公開してみる - lotz84の日記</a>
+
+ちなみに Ethereum 方面のツール群は Golang、Python、JavaScript で書かれているものが多く、これらの言語が得意な人にとっては手を出しやすいでしょう。
+
+
+
 
 
 ### おわりに
