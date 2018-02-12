@@ -6,7 +6,7 @@ time = Time.now
 date = time.to_date
 
 file_path = "content/post/#{date}__hg__#{slug}.md"
-image_dir = "post/#{date.strftime('%Y/%m/%d')}"
+image_dir = "static/post/#{date.strftime('%Y/%m/%d')}"
 image_path = "#{image_dir}/#{slug}.jpg"
 
 metadata = <<~METADATA
