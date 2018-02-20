@@ -15,11 +15,11 @@ metadata = <<~METADATA
   title = ""
   description = ""
   slug = "#{slug}"
-  og_image = "#{image_path}"
+  og_image = "#{image_path.sub(/^static\//, '')}"
   draft = false
   +++
 
-  <img src="/#{image_path}">
+  <img src="#{image_path.sub(/^static/, '')}">
 METADATA
 
 File.write(file_path, metadata)
