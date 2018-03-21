@@ -15,7 +15,7 @@ draft = false
 
 ### 読んでいて安心した
 
-実のところ、この本を読んで新たに獲得した知識や視点というのはほとんどありませんでした。なので、読んでいる間のぼくの気持ちは「うんうん、そうだよね、めっちゃわかる」という感じでした。ぼくがよくチームメンバーや後輩に言うようなことがたくさん書いてありました。
+実のところ、この本を読んで新たにぼくが獲得した知識や視点というのはそれほど多くはありませんでした。なので、読んでいる間のぼくの気持ちは「うんうん、そうだよね、めっちゃわかる」という感じでした。ぼくがよくチームメンバーや後輩に言うようなことがたくさん書いてありました。
 
 とはいえ、知識や視点をここまできれいにまとめて体系的に語るってのは今のぼくにはできていないことなので、これからエンジニアリング組織論を学びたいという人には、ぼくがいっしょうけんめい語るのを聞かせるよりはこの本をスッと渡す方がいいと思いました。大作です。すばらしい 1 冊だと思います。
 
@@ -57,4 +57,8 @@ draft = false
 
 ### まとめ
 
-ソフトウェア開発に関わっていて「なんだか、うまくいかないもんだなあ」と思っている人がいたら、試しに読んでみるといいんじゃないでしょうか。新たな視点を得ることで「なーんだ、そんなことだったのか」となる問題はたくさんあります。本書は、そんなたくさんの気付きを与えてくれる 1 冊です。それらは、とても体系的に筋道立てて書かれているので、よくわからん精神論や経験談ではない形で読者のもとに届きます。わかりやすく書かれているので、どなたにでもおすすめできます。
+ソフトウェア開発に関わっていて「なんだか、うまくいかないもんだなあ」と思っている人がいたら、試しに読んでみるといいんじゃないでしょうか。新たな視点を得ることで「なーんだ、そんなことだったのか」となる問題はたくさんあります。
+
+本書は、問題の正体を理解するためのたくさんの視点を与えてくれる 1 冊です。それらは、とても体系的に筋道立てて書かれているので、よくわからん精神論や経験談ではない形で読者のもとに届きます。わかりやすく書かれているので、どなたにでもおすすめできます。
+
+<div class="hatena-asin-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B079TLW41L/cameralady-22/"><img src="https://images-fe.ssl-images-amazon.com/images/I/513kY6L-3yL._SL160_.jpg" class="hatena-asin-detail-image" alt="エンジニアリング組織論への招待　?不確実性に向き合う思考と組織のリファクタリング" title="エンジニアリング組織論への招待　?不確実性に向き合う思考と組織のリファクタリング"></a><div class="hatena-asin-detail-info"><p class="hatena-asin-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B079TLW41L/cameralady-22/">エンジニアリング組織論への招待　?不確実性に向き合う思考と組織のリファクタリング</a></p><ul><li><span class="hatena-asin-detail-label">作者:</span> 広木大地</li><li><span class="hatena-asin-detail-label">出版社/メーカー:</span> <a class="keyword" href="http://d.hatena.ne.jp/keyword/%B5%BB%BD%D1%C9%BE%CF%C0%BC%D2">技術評論社</a></li><li><span class="hatena-asin-detail-label">発売日:</span> 2018/02/22</li><li><span class="hatena-asin-detail-label">メディア:</span> <a class="keyword" href="http://d.hatena.ne.jp/keyword/Kindle">Kindle</a>版</li><li><a href="http://d.hatena.ne.jp/asin/B079TLW41L/cameralady-22" target="_blank">この商品を含むブログを見る</a></li></ul></div><div class="hatena-asin-detail-foot"></div></div>
