@@ -3,7 +3,7 @@ date = "2018-03-30T23:00:00+09:00"
 title = "Twitter との 11 年間、GitHub との 10 年間"
 description = "ぼくが Twitter を利用し続けて 11 年、GitHub を利用し続けて 10 年が経ちました。思い出話を書きます。"
 slug = "in-the-last-decade-with-twitter-and-github"
-og_image = "post/2018/03/30/in-the-last-decade-with-twitter-and-github.jpg"
+og_image = "post/2018/03/30/in-the-last-decade-with-twitter-and-github.png"
 draft = false
 +++
 
