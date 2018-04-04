@@ -1,7 +1,7 @@
 +++
 date = "2018-04-05T0:00:00+09:00"
 title = "書籍「ティール組織」を読んで、自分の価値観を見つめ直してみた"
-description = ""
+description = "読み終わって、自分としてどう受け止めたのかも整理できてきたので、感想文を書きました。"
 slug = "reinventing-organizations-the-book"
 og_image = "post/2018/04/05/cover.png"
 draft = false
