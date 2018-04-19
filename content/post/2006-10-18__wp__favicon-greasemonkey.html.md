@@ -14,8 +14,8 @@ draft = false
 </ul>
 <p>faviconはWeb上の個性のひとつですよね．検索結果の一覧を見るときにも過去のブックマークを探すときにも，faviconが見えているだけでサイトを見分けやすくなります．16&#215;16の小さな空間でも，画像なら多くの情報を持つことができます．</p>
 <h3>スクリーンショット</h3>
-<p><a href="http://www.flickr.com/photos/june29/272707500/" title="Photo Sharing"><img src="http://static.flickr.com/104/272707500_0e0aed1dc1_o.jpg" width="500" height="373" alt="favoogle" /></a></p>
-<p><a href="http://www.flickr.com/photos/june29/272707501/" title="Photo Sharing"><img src="http://static.flickr.com/40/272707501_dc712dd2a0_o.jpg" width="500" height="357" alt="favib" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/272707500/" title="Photo Sharing"><img src="http://static.flickr.com/104/272707500_0e0aed1dc1_o.jpg" alt="favoogle" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/272707501/" title="Photo Sharing"><img src="http://static.flickr.com/40/272707501_dc712dd2a0_o.jpg" alt="favib" /></a></p>
 <h3>追記(2006-10-21 23:30)</h3>
 <p>皆さんのブログでこのエントリを取り上げていただきました．話題を発展させてくれてありがとうございます．</p>
 <ul>
