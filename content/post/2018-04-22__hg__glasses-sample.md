@@ -1,7 +1,7 @@
 +++
 date = "2018-04-22T15:00:00+09:00"
 title = "今日のメガネさん"
-description = "その日のどのメガネをかけるかは、自分で決めなくてもいいかなって。"
+description = "その日にどのメガネをかけるかは、自分で決めなくてもいいかなって。"
 slug = "glasses-sample"
 og_image = "post/2018/04/22/glasses-sample.png"
 draft = false
