@@ -18,7 +18,7 @@ original_url = "http://june29.hatenablog.jp/entry/remember-brightkite"
 <p>これは、Brightkite で「もつ電雷」というお店にチェックインしたら @ogijun さんがそれを見て駆け付けてくれた、という、我がチェックイン史に残る重大なイベントが発生したときのツイート。このとき、なんとなくだけれど「位置情報を共有することには価値がある！」と、体験をもってして明言できるようになったのだと思う。</p>
 <p></p>
 <p style="text-align: center;"><br>
-<img width="320" height="447" alt="brightkite" src="http://farm5.static.flickr.com/4032/4348109031_3b6bfcacc9_o.png"><br>
+<img alt="brightkite" src="http://farm5.static.flickr.com/4032/4348109031_3b6bfcacc9_o.png"><br>
 </p>
 <p>…というのも、当時はまだ、自分の現在位置をインターネッッを通じて公言するなんて、まだまだ一部の奇人たちのものであったのだ。「そんなことして、なにか得はあるの？」という問いにはっきりと答えられるようになったのは、Brightkite と<a class="keyword" href="http://d.hatena.ne.jp/keyword/%C2%E7%B0%E6%C4%AE">大井町</a>と @ogijun さんのおかげだった、というわけ。それから徐々に、もっと多くの人が日常的にチェックインをキメるようになっていった。</p>
 <p></p>
@@ -44,7 +44,7 @@ original_url = "http://june29.hatenablog.jp/entry/remember-brightkite"
 <p>ぼくは <a class="keyword" href="http://d.hatena.ne.jp/keyword/Foursquare">Foursquare</a> のロードマップは知らないけれど、4年前のぼくがぼんやりと想像していた「<a class="keyword" href="http://d.hatena.ne.jp/keyword/Foursquare">Foursquare</a> の当面の目標」は、5年ほどの歳月の果てに達成されたのかもしれない。実際のところがどうなのかは、やっぱりわからないけどね。</p>
 <p></p>
 <p style="text-align: center;"><br>
-<img width="320" height="363" alt="foursquare" src="http://farm5.static.flickr.com/4017/4348096709_1968593a23_o.png"><br>
+<img alt="foursquare" src="http://farm5.static.flickr.com/4017/4348096709_1968593a23_o.png"><br>
 </p>
 <p>そんな <a class="keyword" href="http://d.hatena.ne.jp/keyword/Foursquare">Foursquare</a> の尽力もあって、ぼくのまわりでも、特定の場所に対するチェックインという行為は、ずいぶんと知れ渡ったものだと思う。そうして馴染んできて、ある程度は習慣となってきた行為が、今度は奪われてしまうとしたら、その先にはどういった展開が待っているんだろうなあ。</p>
 <p>今後も、<a class="keyword" href="http://d.hatena.ne.jp/keyword/Foursquare">Foursquare</a> や、位置情報の共有と、それらが人々のコミュニケーションや意思決定に与える影響については、考えていくことになりそうだ。</p>
