@@ -33,7 +33,7 @@ draft = false
 <p>あと，先ほど七色のポストと書きましたが，どうせ iPhone Safari で Flash は動作しないので Audio と Video は Dashboard のスクレイピングの時点で無視しています．</p>
 <p>一応，先回りして Dashboard を読み込んでおく作りにはなっていますが，通信の状況によってはバッファが空になっちゃって画面がまっさらになったりするかもしれません．そういうときは，ちょっと一呼吸おくか，それでもダメなら画面の右側を優しくタップしてみてください．通信速度が Reblog 速度に追いつかないときにどうしたらいいか，解決策が見つかっていません．</p>
 <p><img src="http://img.skitch.com/20090125-k22yatkutmgjwp45ukc7qwunse.jpg" alt="iReblog" /></p>
-<p><a href="http://www.flickr.com/photos/june29/3224881817/" title="iReblog by june29, on Flickr"><img src="http://farm4.static.flickr.com/3462/3224881817_314443c952.jpg" width="500" height="333" alt="iReblog" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3224881817/" title="iReblog by june29, on Flickr"><img src="http://farm4.static.flickr.com/3462/3224881817_314443c952.jpg" alt="iReblog" /></a></p>
 <h3>匿名 Tumblelog</h3>
 <p>もともと自分で使うことが目的だったので，自分用の iReblog は自分しか知らない場所に置いてあって，自分の Dashboard から自分の Tumblr へ Reblog しています．</p>
 <p>上述の iReblog は，Tumblr に作成した <a href="http://ireblog.tumblr.com/" title="weReblog">http://ireblog.tumblr.com/</a> のアカウントを利用していて，この子の Dashboard の内容が流れてきて，Reblog するとこの子のポストになります．誰かに試しに iReblog に触れてもらうために作成した共有アカウントなわけですが，匿名 Tumblelog ってのはそれはそれで面白いってことにも気が付きました．</p>

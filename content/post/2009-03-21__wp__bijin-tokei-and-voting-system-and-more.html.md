@@ -8,7 +8,7 @@ draft = false
 
 <p>きのうから <a href="http://twitter.com/kynbit" title="Twitter / kynbit">@kynbit</a> が遊びにきていて，<a href="http://twitter.com/kei_s" title="Twitter / kei_s">@kei_s</a> も交えて悪ふざけナイトを謳歌した．ただただ「面白かった」ってことを未来のために記録しておく．</p>
 <p>ちなみに <a href="http://twitter.com/kynbit" title="Twitter / kynbit">@kynbit</a> なら俺の隣で寝ているよ！</p>
-<p><a href="http://www.flickr.com/photos/june29/3370387724/" title="完食 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3458/3370387724_63882a4b1b.jpg" width="500" height="334" alt="完食" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3370387724/" title="完食 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3458/3370387724_63882a4b1b.jpg" alt="完食" /></a></p>
 <p class="photo-caption">kynbit と食べた中華</p>
 <h3>美人時計</h3>
 <p>誰かが部屋に遊びに来てくれたら，とりあえず <a href="http://www.ustream.tv/" title="USTREAM.TV: LIVE VIDEO Streaming, Free Video Chat Rooms. Watch Shows &amp; Broadcast Live TV, stream videos, web podcasts. Live streaming videos and webcam chat">Ustream</a> しますよね．そんな感じで夜が始まって，IRC でちゃちゃを入れてくれる何人かの人たちと<a href="http://www.bijint.com/" title="bijin-tokei（美人時計）official website">美人時計</a>いいよねーって話になって，いつしかインターネット時代の「この中だったら誰がタイプ？せーので指さそうよ！」タイムに突入していました．</p>

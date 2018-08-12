@@ -42,25 +42,25 @@ draft = false
 <h3>写真で振り返る</h3>
 <p><a href="http://www.flickr.com/photos/june29/sets/72157618326533512/" title="福岡ツアー - a set on Flickr">福岡ツアー &#8211; a set on Flickr</a></p>
 <p>カンファレンス終了後の写真もいっぱい撮れました！福岡を満喫した！</p>
-<p><a href="http://www.flickr.com/photos/june29/3538029691/" title="高専カンファレンス会場 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3659/3538029691_0c27b2b7ca.jpg" width="500" height="334" alt="高専カンファレンス会場" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3538029691/" title="高専カンファレンス会場 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3659/3538029691_0c27b2b7ca.jpg" alt="高専カンファレンス会場" /></a></p>
 <p class="photo-caption">ポスター，会場</p>
-<p><a href="http://www.flickr.com/photos/june29/3538033187/" title="高専カンファレンス開会の挨拶 by june29, on Flickr"><img src="http://farm3.static.flickr.com/2382/3538033187_9b8c97f010.jpg" width="500" height="334" alt="高専カンファレンス開会の挨拶" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3538033187/" title="高専カンファレンス開会の挨拶 by june29, on Flickr"><img src="http://farm3.static.flickr.com/2382/3538033187_9b8c97f010.jpg" alt="高専カンファレンス開会の挨拶" /></a></p>
 <p class="photo-caption">開会の挨拶</p>
-<p><a href="http://www.flickr.com/photos/june29/3538846434/" title="配信職人 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3396/3538846434_c5bafb65fd.jpg" width="500" height="334" alt="配信職人" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3538846434/" title="配信職人 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3396/3538846434_c5bafb65fd.jpg" alt="配信職人" /></a></p>
 <p class="photo-caption">今回の配信職人はまさきくん</p>
-<p><a href="http://www.flickr.com/photos/june29/3538034161/" title="司会席 by june29, on Flickr"><img src="http://farm3.static.flickr.com/2231/3538034161_a422834143.jpg" width="500" height="334" alt="司会席" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3538034161/" title="司会席 by june29, on Flickr"><img src="http://farm3.static.flickr.com/2231/3538034161_a422834143.jpg" alt="司会席" /></a></p>
 <p class="photo-caption">司会はいがいがさん，りちゃさん</p>
-<p><a href="http://www.flickr.com/photos/june29/3538036119/" title="スタンバイ by june29, on Flickr"><img src="http://farm3.static.flickr.com/2270/3538036119_4bf96c5626.jpg" width="500" height="334" alt="スタンバイ" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3538036119/" title="スタンバイ by june29, on Flickr"><img src="http://farm3.static.flickr.com/2270/3538036119_4bf96c5626.jpg" alt="スタンバイ" /></a></p>
 <p class="photo-caption">ドラ娘スタンバイ！</p>
-<p><a href="http://www.flickr.com/photos/june29/3538043459/" title="ざうお by june29, on Flickr"><img src="http://farm4.static.flickr.com/3572/3538043459_d7e430c57e.jpg" width="500" height="334" alt="ざうお" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3538043459/" title="ざうお by june29, on Flickr"><img src="http://farm4.static.flickr.com/3572/3538043459_d7e430c57e.jpg" alt="ざうお" /></a></p>
 <p class="photo-caption">船の上で懇親会</p>
-<p><a href="http://www.flickr.com/photos/june29/3538046647/" title="しゃぶしゃぶ by june29, on Flickr"><img src="http://farm4.static.flickr.com/3579/3538046647_6ccbf4ac32.jpg" width="500" height="334" alt="しゃぶしゃぶ" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3538046647/" title="しゃぶしゃぶ by june29, on Flickr"><img src="http://farm4.static.flickr.com/3579/3538046647_6ccbf4ac32.jpg" alt="しゃぶしゃぶ" /></a></p>
 <p class="photo-caption">お料理も美味しかったです</p>
-<p><a href="http://www.flickr.com/photos/june29/3538862508/" title="南京千両 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3543/3538862508_f3db246299.jpg" width="500" height="334" alt="南京千両" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3538862508/" title="南京千両 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3543/3538862508_f3db246299.jpg" alt="南京千両" /></a></p>
 <p class="photo-caption">とんこつラーメン発祥の地，南京千両のラーメン</p>
-<p><a href="http://www.flickr.com/photos/june29/3538867986/" title="一蘭 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3369/3538867986_dd9ec8502b.jpg" width="500" height="334" alt="一蘭" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3538867986/" title="一蘭 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3369/3538867986_dd9ec8502b.jpg" alt="一蘭" /></a></p>
 <p class="photo-caption">一蘭のラーメン</p>
-<p><a href="http://www.flickr.com/photos/june29/3538081141/" title="冷やし山かけうどん by june29, on Flickr"><img src="http://farm3.static.flickr.com/2207/3538081141_884d511927.jpg" width="500" height="334" alt="冷やし山かけうどん" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3538081141/" title="冷やし山かけうどん by june29, on Flickr"><img src="http://farm3.static.flickr.com/2207/3538081141_884d511927.jpg" alt="冷やし山かけうどん" /></a></p>
 <p class="photo-caption">冷やし山かけうどん</p>
-<p><a href="http://www.flickr.com/photos/june29/3538082325/" title="にわかせんぺい by june29, on Flickr"><img src="http://farm3.static.flickr.com/2299/3538082325_3e69d78834.jpg" width="500" height="334" alt="にわかせんぺい" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3538082325/" title="にわかせんぺい by june29, on Flickr"><img src="http://farm3.static.flickr.com/2299/3538082325_3e69d78834.jpg" alt="にわかせんぺい" /></a></p>
 <p class="photo-caption">「にわかせんぺい」の CM は一見の価値アリ！</p>

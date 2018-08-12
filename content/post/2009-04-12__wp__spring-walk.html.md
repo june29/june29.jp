@@ -7,14 +7,14 @@ draft = false
 +++
 
 <p>土曜日のこと．すっかり暖かくなりましたねー．今日はカメラを持って自転車を走らせて，お散歩に行ってきました．</p>
-<p><a href="http://www.flickr.com/photos/june29/3430467089/" title="白花 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3319/3430467089_f2ea5ee876.jpg" width="500" height="334" alt="白花" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3430467089/" title="白花 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3319/3430467089_f2ea5ee876.jpg" alt="白花" /></a></p>
 <p>火曜日くらいだったかな，会社帰りに通った道の桜と思しき花が思いっきり咲いていて，見とれてしまいました．「週末に写真を撮ろう」なんて呑気に思っていたら，花は，あっという間に散ってしまうのですね．景色ががらりと変わっていました．</p>
 <p>北海道で育ったからなのか，そういった風流に鈍感なだけなのか，春の桜をきちんと見たことがない気がします．お花見も，今年やったのが初かもしれません．去年の4月はもう東京にきていましたが，何しろ5月まで家は決まっていなかったし，何かとバタバタしていたから桜を見た覚えはほとんどありません．</p>
-<p><a href="http://www.flickr.com/photos/june29/3431249184/" title="鳩のデート by june29, on Flickr"><img src="http://farm4.static.flickr.com/3604/3431249184_8b7c8eaec4.jpg" width="500" height="334" alt="鳩のデート" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3431249184/" title="鳩のデート by june29, on Flickr"><img src="http://farm4.static.flickr.com/3604/3431249184_8b7c8eaec4.jpg" alt="鳩のデート" /></a></p>
 <p>写真を楽しむようになってから，季節を意識するようになりました．嬉しい変化です．「今しか撮れないもの」を撮っておきたくなりますね．</p>
 <p>いつも通勤時に通るような道も，改めて足を止めて，色んなところに目をやってみると，たくさんの発見があります．自分が通っている道をしっかりとなぞって確かめてみたくなる感覚．</p>
-<p><a href="http://www.flickr.com/photos/june29/3430465605/" title="花壇 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3610/3430465605_9f691a40a9.jpg" width="500" height="334" alt="花壇" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3430465605/" title="花壇 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3610/3430465605_9f691a40a9.jpg" alt="花壇" /></a></p>
 <p>数種類の花が並んでいる花壇を見ると，最も派手なグループの中にいる，控え目な子に惹かれているのが分かります．ボクはそういうポジションの子が好きなんだな，きっと．</p>
-<p><a href="http://www.flickr.com/photos/june29/3431479902/" title="凜 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3576/3431479902_e038d27006.jpg" width="500" height="334" alt="凜" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3431479902/" title="凜 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3576/3431479902_e038d27006.jpg" alt="凜" /></a></p>
 <p>商店街を通ったとき，パン屋さんから流れてくるメロンパンの匂いが甘すぎて，昔を思い出したりしました．</p>
 <p>夜になると急に寒くなりましたね．これからどんどん暖かくなるんだな．今年は何をして遊ぼうか．</p>

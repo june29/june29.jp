@@ -6,9 +6,9 @@ draft = false
 
 +++
 
-<p><a href="http://www.flickr.com/photos/june29/3947859230/" title="MOO Business Cards 5 packs by june29, on Flickr"><img src="http://farm3.static.flickr.com/2525/3947859230_e47b4e539d.jpg" width="500" height="334" alt="MOO Business Cards 5 packs" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3947859230/" title="MOO Business Cards 5 packs by june29, on Flickr"><img src="http://farm3.static.flickr.com/2525/3947859230_e47b4e539d.jpg" alt="MOO Business Cards 5 packs" /></a></p>
 <p>これまでに5回注文している <a href="http://us.moo.com/en/" title="MOO | Custom Business Cards, MiniCards and Postcards">MOO</a> のビジネスカード，6回目に注文した分も無事に届きました．慣れたものです．</p>
-<p><a href="http://www.flickr.com/photos/june29/4140223309/" title="MOO BUSINESS CARD by june29, on Flickr"><img src="http://farm3.static.flickr.com/2780/4140223309_16b9a922ec.jpg" width="500" height="333" alt="MOO BUSINESS CARD" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4140223309/" title="MOO BUSINESS CARD by june29, on Flickr"><img src="http://farm3.static.flickr.com/2780/4140223309_16b9a922ec.jpg" alt="MOO BUSINESS CARD" /></a></p>
 <h3>カードの写真面とプロフィール面</h3>
 <p>写真面は，いつも <a href="http://www.flickr.com/photos/june29/" title="Flickr: june29's Photostream">Flickr</a> からお気に入りの写真を50枚選んで使います．過去のエントリで「Flickr に set を作っておくとよいよ」ってお話をしました．</p>
 <p><a href="http://june29.jp/2008/11/30/moo-namcard/" title="MOO.comのビジネスカードが届いた！ - 準二級.jp">MOO.comのビジネスカードが届いた！</a></p>
