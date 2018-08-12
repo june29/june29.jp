@@ -10,7 +10,7 @@ draft = false
 <table  border="0" cellpadding="5">
 <tr>
 <td valign="top"><a href="http://www.amazon.co.jp/%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E3%81%AA%E8%A6%8B%E7%A9%8D%E3%82%8A%E3%81%A8%E8%A8%88%E7%94%BB%E3%81%A5%E3%81%8F%E3%82%8A-%7E%E4%BE%A1%E5%80%A4%E3%81%82%E3%82%8B%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%92%E8%82%B2%E3%81%A6%E3%82%8B%E6%A6%82%E5%BF%B5%E3%81%A8%E6%8A%80%E6%B3%95%7E-Mike-Cohn/dp/4839924023%3FSubscriptionId%3D15SMZCTB9V8NGR2TW082%26tag%3Djune29-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4839924023" target="_top"><img src="http://ecx.images-amazon.com/images/I/51A8BTrHYxL._SL160_.jpg" border="0" alt="4839924023" /></a></td>
-<td valign="top"><font size="-1"><a href="http://www.amazon.co.jp/%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E3%81%AA%E8%A6%8B%E7%A9%8D%E3%82%8A%E3%81%A8%E8%A8%88%E7%94%BB%E3%81%A5%E3%81%8F%E3%82%8A-%7E%E4%BE%A1%E5%80%A4%E3%81%82%E3%82%8B%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%92%E8%82%B2%E3%81%A6%E3%82%8B%E6%A6%82%E5%BF%B5%E3%81%A8%E6%8A%80%E6%B3%95%7E-Mike-Cohn/dp/4839924023%3FSubscriptionId%3D15SMZCTB9V8NGR2TW082%26tag%3Djune29-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4839924023" target="_top">アジャイルな見積りと計画づくり ~価値あるソフトウェアを育てる概念と技法~</a><img src="http://www.assoc-amazon.jp/e/ir?t=june29-22&#038;l=ur2&#038;o=9" width="1" height="1" style="border: none;" alt="" /><br />Mike Cohn、マイクコーン、安井 力、角谷 信太郎<br />毎日コミュニケーションズ  2009-01-29</p>
+<td valign="top"><font size="-1"><a href="http://www.amazon.co.jp/%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E3%81%AA%E8%A6%8B%E7%A9%8D%E3%82%8A%E3%81%A8%E8%A8%88%E7%94%BB%E3%81%A5%E3%81%8F%E3%82%8A-%7E%E4%BE%A1%E5%80%A4%E3%81%82%E3%82%8B%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%92%E8%82%B2%E3%81%A6%E3%82%8B%E6%A6%82%E5%BF%B5%E3%81%A8%E6%8A%80%E6%B3%95%7E-Mike-Cohn/dp/4839924023%3FSubscriptionId%3D15SMZCTB9V8NGR2TW082%26tag%3Djune29-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4839924023" target="_top">アジャイルな見積りと計画づくり ~価値あるソフトウェアを育てる概念と技法~</a><img src="http://www.assoc-amazon.jp/e/ir?t=june29-22&#038;l=ur2&#038;o=9" style="border: none;" alt="" /><br />Mike Cohn、マイクコーン、安井 力、角谷 信太郎<br />毎日コミュニケーションズ  2009-01-29</p>
 <p></font><font size="-2">by <a href="http://www.goodpic.com/mt/aws/index.html" >G-Tools</a></font></td>
 </tr>
 </table>
@@ -29,14 +29,14 @@ draft = false
 <p>人は、プロジェクトを通じて成長する。だから、自分たちが成長してもすべての見積りをやり直すことにならないように、時間ではなく規模を見積もる。人は、プロジェクトを通じて成長する。だから、プロジェクト開始時に、プロジェクト終了時までの具体的な計画を立てることはせず、自分たちの成長に合わせて計画を小まめに軌道修正していく。</p>
 <p>つまりは「人間讃歌」ってわけだ。ボクたち作業者は、プロジェクトにとって、決められた動作を変わらずに繰り返す歯車なんかじゃない。成長を続ける存在である。そう言い聞かされている気がして、嬉しいのだと思う。</p>
 <h3>まとめ</h3>
-<p><a href="http://www.flickr.com/photos/june29/5306719625/" title="人間讃歌 by june29, on Flickr"><img src="http://farm6.static.flickr.com/5082/5306719625_2e726aeb7d.jpg" width="500" height="334" alt="人間讃歌" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/5306719625/" title="人間讃歌 by june29, on Flickr"><img src="http://farm6.static.flickr.com/5082/5306719625_2e726aeb7d.jpg" alt="人間讃歌" /></a></p>
 <p>写真に写っているのは、RubyKaigi2009 のときに、かくたにさんが色紙に書いてくれた「人間讃歌」の4文字です。</p>
 <p>「アジャイルな見積りと計画づくり」は読んでいるとテンションが上がってくる、ありがたい一冊です。訳者のひとりである<a href="http://kakutani.com/" title="角谷HTML化計画">かくたに</a>さんや、レビューアのひとりである<a href="http://igarashikuniaki.net/tdiary/" title="igaiga diary">いがいが</a>さんと、同じプロジェクトのメンバーとして過ごしていた日々からは、人間讃歌を歌いながらのプロジェクトの進め方を学んでいるのだと、改めて認識しました。</p>
 <p>ちょうど最近に発売された WEB+DB PRESS Vol.60 には、かくたにさんの記事があって、本書の魅力に触れるには良い機会になっています。おすすめ。</p>
 <table  border="0" cellpadding="5">
 <tr>
 <td valign="top"><a href="http://www.amazon.co.jp/WEB-DB-PRESS-Vol-60-PRESS%E7%B7%A8%E9%9B%86%E9%83%A8/dp/4774144606%3FSubscriptionId%3D15SMZCTB9V8NGR2TW082%26tag%3Djune29-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4774144606" target="_top"><img src="http://ecx.images-amazon.com/images/I/61jdA5pc57L._SL160_.jpg" border="0" alt="4774144606" /></a></td>
-<td valign="top"><font size="-1"><a href="http://www.amazon.co.jp/WEB-DB-PRESS-Vol-60-PRESS%E7%B7%A8%E9%9B%86%E9%83%A8/dp/4774144606%3FSubscriptionId%3D15SMZCTB9V8NGR2TW082%26tag%3Djune29-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4774144606" target="_top">WEB+DB PRESS Vol.60</a><img src="http://www.assoc-amazon.jp/e/ir?t=june29-22&#038;l=ur2&#038;o=9" width="1" height="1" style="border: none;" alt="" /><br />WEB+DB PRESS編集部 <br />技術評論社  2010-12-22</p>
+<td valign="top"><font size="-1"><a href="http://www.amazon.co.jp/WEB-DB-PRESS-Vol-60-PRESS%E7%B7%A8%E9%9B%86%E9%83%A8/dp/4774144606%3FSubscriptionId%3D15SMZCTB9V8NGR2TW082%26tag%3Djune29-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4774144606" target="_top">WEB+DB PRESS Vol.60</a><img src="http://www.assoc-amazon.jp/e/ir?t=june29-22&#038;l=ur2&#038;o=9" style="border: none;" alt="" /><br />WEB+DB PRESS編集部 <br />技術評論社  2010-12-22</p>
 <p></font><font size="-2">by <a href="http://www.goodpic.com/mt/aws/index.html" >G-Tools</a></font></td>
 </tr>
 </table>

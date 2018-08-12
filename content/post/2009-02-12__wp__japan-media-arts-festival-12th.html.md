@@ -7,7 +7,7 @@ draft = false
 +++
 
 <p><a href="http://plaza.bunka.go.jp/festival/2008/" title="平成20年度（第12回）文化庁メディア芸術祭 | 文化庁メディア芸術プラザ">平成20年度（第12回）文化庁メディア芸術祭 | 文化庁メディア芸術プラザ</a></p>
-<p><a href="http://www.flickr.com/photos/june29/3271618817/" title="文化庁メディア芸術祭 受賞作品集 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3525/3271618817_e610fa85b9.jpg" width="500" height="334" alt="文化庁メディア芸術祭 受賞作品集" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3271618817/" title="文化庁メディア芸術祭 受賞作品集 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3525/3271618817_e610fa85b9.jpg" alt="文化庁メディア芸術祭 受賞作品集" /></a></p>
 <p>ふらりと行ってきました．ボクが会場に着いたのが恐らく15時前くらいで，そのときは入場まで30分待ちとなるほどの混雑具合でした．</p>
 <p><a href="http://www.flickr.com/photos/june29/sets/72157613654044544/" title="文化庁メディア芸術祭 第12回 - a set on Flickr"><img src="http://img.skitch.com/20090211-nqfeupmmemj3j4jfh1eswsip6d.png" alt="文化庁メディア芸術祭 第12回" /></a></p>
 <p>1時間半くらいかけて会場全体を歩き回り，存分にシャッターも切ったところで満足しました．作品を見たかったってのはもちろんですが，自分の中では被写体が欲しいって気持ちも大きかったようです．</p>
@@ -16,8 +16,8 @@ draft = false
 <p>「自分は何を面白いと感じるのか」と，しばらく考え続けてきました．今日，文化庁メディア芸術祭を見てきて，これから自分が取り組むべきテーマが，おぼろげながら浮かんできたと感じます．収穫は確かにありました．あとは今後の行動に反映させていくだけです．</p>
 <h3>イベントのあと</h3>
 <p>せっかく友達と合流できたので，そのまま一緒に行動して，別のイベントにも行ってきました．</p>
-<p><a href="http://www.flickr.com/photos/june29/3272353428/" title="チャロー！インディア by june29, on Flickr"><img src="http://farm4.static.flickr.com/3349/3272353428_94f3e8b32c.jpg" width="500" height="334" alt="チャロー！インディア" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3272353428/" title="チャロー！インディア by june29, on Flickr"><img src="http://farm4.static.flickr.com/3349/3272353428_94f3e8b32c.jpg" alt="チャロー！インディア" /></a></p>
 <p>こちらのイベントは撮影禁止だったので写真はありません．残念．自分の意志ではまず行かないような場所だったので，これまた刺激的で面白かったです．ここでも自分を知るヒントがいくつか見つかりました．</p>
 <p>そのあと中華を食べて帰宅しました．</p>
-<p><a href="http://www.flickr.com/photos/june29/3272357956/" title="鐘 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3328/3272357956_0575144c3a.jpg" width="500" height="334" alt="鐘" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3272357956/" title="鐘 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3328/3272357956_0575144c3a.jpg" alt="鐘" /></a></p>
 <p>得るものの多い1日でした！ありがとう！</p>

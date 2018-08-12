@@ -7,7 +7,7 @@ draft = false
 +++
 
 <p>日本語版がスタートした<a href="http://jp.cocomment.com/" target="_blank">coComment</a>を使ってみました．とっても気になるサービスなのでエントリにしておきます．</p>
-<p><a href="http://jp.cocomment.com/" title="coComment - ココメントに参加する" target="_blank"><img src="http://img.simpleapi.net/small/http://jp.cocomment.com/" alt="coComment - ココメントに参加する" width="128" height="128" hspace="4" vspace="4" border="0" /></a> <br /><a href="http://jp.cocomment.com/" title="coComment" target="_blank"><strong>coComment</strong></a></p>
+<p><a href="http://jp.cocomment.com/" title="coComment - ココメントに参加する" target="_blank"><img src="http://img.simpleapi.net/small/http://jp.cocomment.com/" alt="coComment - ココメントに参加する" hspace="4" vspace="4" border="0" /></a> <br /><a href="http://jp.cocomment.com/" title="coComment" target="_blank"><strong>coComment</strong></a></p>
 <blockquote><p>
 coCommentとは？</p>
 <p>coCommentは、コメントで構成されるさまざまなWebコミュニティーを一元管理できる新しいサービスです。ウェブ上には、ブログや写真共有サービスをはじめ、利用者がコメントを書き込めるサイトが無数にあります。しかし、こうしたサイトはバラバラに存在するため、コメントのつながりを追うのが難しく、なかなか他の人と意見交換して楽しむというところには至りません。それを解決するのがcoCommentのサービスです。</p>

@@ -6,7 +6,7 @@ draft = false
 
 +++
 
-<p><a href="http://www.flickr.com/photos/june29/5243505463/" title="ドワーフじいさんのいえづくり by june29, on Flickr"><img src="http://farm6.static.flickr.com/5170/5243505463_e8daa7849f.jpg" width="500" height="334" alt="ドワーフじいさんのいえづくり" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/5243505463/" title="ドワーフじいさんのいえづくり by june29, on Flickr"><img src="http://farm6.static.flickr.com/5170/5243505463_e8daa7849f.jpg" alt="ドワーフじいさんのいえづくり" /></a></p>
 <p>先日購入した<a href="http://www.amazon.co.jp/dp/4577027437" title="Amazon.co.jp： ドワーフじいさんのいえづくり (フレーベル館の秀作えほん): 青山 邦彦: 本">ドワーフじいさんのいえづくり</a>が届いたので、読みました。</p>
 <blockquote><p>
 きむずかしいドワーフじいさんが、いえをつくることになりました。ところがつぎつぎにどうぶつたちがやってきて、「てつだうから、ぼくのへやもつくってよ！」というのです…。</p>

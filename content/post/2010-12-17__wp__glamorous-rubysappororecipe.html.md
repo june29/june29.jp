@@ -6,11 +6,11 @@ draft = false
 
 +++
 
-<p><a href="http://www.flickr.com/photos/june29/3754062374/" title="Ruby逆引きレシピ by june29, on Flickr"><img src="http://farm4.static.flickr.com/3500/3754062374_52a16473df.jpg" width="500" height="333" alt="Ruby逆引きレシピ" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3754062374/" title="Ruby逆引きレシピ by june29, on Flickr"><img src="http://farm4.static.flickr.com/3500/3754062374_52a16473df.jpg" alt="Ruby逆引きレシピ" /></a></p>
 <table  border="0" cellpadding="5">
 <tr>
 <td valign="top"><a href="http://www.amazon.co.jp/%E9%80%86%E5%BC%95%E3%81%8D%E3%83%AC%E3%82%B7%E3%83%94-%E3%81%99%E3%81%90%E3%81%AB%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB-%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF-PROGRAMMER%E2%80%99S-RECIPE/dp/4798119881%3FSubscriptionId%3D15SMZCTB9V8NGR2TW082%26tag%3Dcameralady-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798119881" target="_top"><img src="http://ecx.images-amazon.com/images/I/51d%2BTTZruOL._SL160_.jpg" border="0" alt="4798119881" /></a></td>
-<td valign="top"><font size="-1"><a href="http://www.amazon.co.jp/%E9%80%86%E5%BC%95%E3%81%8D%E3%83%AC%E3%82%B7%E3%83%94-%E3%81%99%E3%81%90%E3%81%AB%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB-%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF-PROGRAMMER%E2%80%99S-RECIPE/dp/4798119881%3FSubscriptionId%3D15SMZCTB9V8NGR2TW082%26tag%3Dcameralady-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798119881" target="_top">Ruby 逆引きレシピ すぐに美味しいサンプル&#038;テクニック 232 (PROGRAMMER’S RECIPE)</a><img src="http://www.assoc-amazon.jp/e/ir?t=cameralady-22&#038;l=ur2&#038;o=9" width="1" height="1" style="border: none;" alt="" /><br />島田 浩二 設樂 洋爾 村田 賢太 前田 智樹 谷口 文威 <br />翔泳社  2009-07-25</p>
+<td valign="top"><font size="-1"><a href="http://www.amazon.co.jp/%E9%80%86%E5%BC%95%E3%81%8D%E3%83%AC%E3%82%B7%E3%83%94-%E3%81%99%E3%81%90%E3%81%AB%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB-%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF-PROGRAMMER%E2%80%99S-RECIPE/dp/4798119881%3FSubscriptionId%3D15SMZCTB9V8NGR2TW082%26tag%3Dcameralady-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D4798119881" target="_top">Ruby 逆引きレシピ すぐに美味しいサンプル&#038;テクニック 232 (PROGRAMMER’S RECIPE)</a><img src="http://www.assoc-amazon.jp/e/ir?t=cameralady-22&#038;l=ur2&#038;o=9" style="border: none;" alt="" /><br />島田 浩二 設樂 洋爾 村田 賢太 前田 智樹 谷口 文威 <br />翔泳社  2009-07-25</p>
 <p></font><font size="-2">by <a href="http://www.goodpic.com/mt/aws/index.html" >G-Tools</a></font></td>
 </tr>
 </table>
@@ -60,6 +60,6 @@ Ruby逆引きレシピに載っているレシピを利用して、何かちょ�
 <p><img src="http://jigokuno.img.jugem.jp/20100119_1668191.gif" alt="バトンなんてなくたって 俺達は繋がってる！" /></p>
 <h3>おまけ</h3>
 <p>惚れさせレシピ225に、実はあたしも出演しています。お手元のレシピ本をどうぞご確認ください。</p>
-<p><a href="http://www.flickr.com/photos/june29/3779451345/" title="Ruby逆引きレシピ by june29, on Flickr"><img src="http://farm4.static.flickr.com/3464/3779451345_2f7e9bc942.jpg" width="500" height="333" alt="Ruby逆引きレシピ" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3779451345/" title="Ruby逆引きレシピ by june29, on Flickr"><img src="http://farm4.static.flickr.com/3464/3779451345_2f7e9bc942.jpg" alt="Ruby逆引きレシピ" /></a></p>
 <p>まずいな〜！睡眠時間を削ってこんなエントリを書いてるのバレたら、心配されちゃってまずいな〜！</p>
 <p><img src="http://jigokuno.img.jugem.jp/20091027_1540250.gif" alt="まずいな〜！こんなに眠眠打破のんでるのバレたら 心配されちゃってまずいな〜！" /></p>

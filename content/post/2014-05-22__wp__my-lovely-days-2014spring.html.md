@@ -7,7 +7,7 @@ draft = false
 +++
 
 <p>どうも、じゅーんです。この春から恋人との共同生活がはじまって、ぼくの生活もいろいろと変化したので、ちょっこしメモを残しておこうかな、と思います。</p>
-<p><a href="https://www.flickr.com/photos/june29/13666138755" title="https://www.flickr.com/photos/june29/13666138755"><img src="https://farm8.staticflickr.com/7198/13666138755_e02288a09d_z.jpg" width="640" height="426" alt="IMGP3459"></a></p>
+<p><a href="https://www.flickr.com/photos/june29/13666138755" title="https://www.flickr.com/photos/june29/13666138755"><img src="https://farm8.staticflickr.com/7198/13666138755_e02288a09d_z.jpg" alt="IMGP3459"></a></p>
 <p>デジタル方面のカスタマイズや工夫はけっこう好きなぼくですが、これまで、ことアナログなテツヅキ的なやつが絡む対象、たとえば公共料金の支払いをひとつとってみても、「ま、いっか」と非効率な方法から抜け出さずにいることが多々ありました。ただ、同居人がいるとなると、ぼくのミスで迷惑をかけてしまうことにもなりかねませんし、工夫できるところは工夫して効率を上げていくと、楽しいことに向けられる時間や気持ちを増やせそうなので、ここ1〜2ヶ月ほどは、そんなことを考えながら、いろいろやってみたのでした。</p>
 <h3>クレジットカード</h3>
 <p>ぼくは、札幌で暮らしていたころの惰性と言えば惰性なのですが、お買い物のたびにヨドバシカメラのゴールドポイントが貯まる<a href="http://www.goldpoint.co.jp/" title="http://www.goldpoint.co.jp/">ゴールドポイントカード・プラス</a>をよく利用しています。ヨドバシカメラにはいろんなものが売っているので、ポイントが無駄になることはほぼありません。今回の引っ越しに際しても、数万円分のポイントを使って、だいぶ安くデジタル機器を調達できたりしました。</p>
@@ -20,7 +20,7 @@ draft = false
 <h3>銀行のウェブアクセス</h3>
 <p>これまで、銀行の口座にウェブからアクセスできるようにしておらず、キャッシュカードと通帳で管理していました。なんか、いつだったか一度、手続きしようとしたんだけれど、必要な書類が見つからなかったのかなんだったのか、とにかく「面倒くさい…」という気持ちになってしまって、遠ざかっていたのでした… アナログ手続きに対する苦手意識が強いせいで今までだいぶ損してきたな……</p>
 <p>と、自分ひとりの「なんか苦手なので」というくだらない理由で非効率な生活を続けるわけにはいかないので、意を決して手続きしました。ヒャー、便利になりましたワァ〜。</p>
-<p><img src="http://photos-e.ak.instagram.com/hphotos-ak-prn/10299599_1504055553155876_1112237350_n.jpg" alt="" width="400" height="400"></p>
+<p><img src="http://photos-e.ak.instagram.com/hphotos-ak-prn/10299599_1504055553155876_1112237350_n.jpg" alt=""></p>
 <p>なんかこんな2段階認証専用装置みたいな、贅沢なデバイスが届いたりもした。</p>
 <h3>奨学金のウェブアクセス</h3>
 <p>これを機にばんばんやったろ〜みたいな気持ちになって、奨学金についても調べていたら、<a href="https://scholar-ps.sas.jasso.go.jp/mypage/top_open.do" title="https://scholar-ps.sas.jasso.go.jp/mypage/top_open.do">スカラネット・パーソナル</a>ってやつを見つけて、返済ステータスとか閲覧できて便利だった。住所変更くらいの処理だったらここから済ませられちゃう。</p>
@@ -32,20 +32,20 @@ draft = false
 <p>Githubへの支払いがマネーフォワード上で、「交際費-&gt;飲み会」に分類されていて楽しい。</p>
 <p>— hmsk (@hmsk) <a href="https://twitter.com/hmsk/statuses/424119002168709120" title="https://twitter.com/hmsk/statuses/424119002168709120">January 17, 2014</a></p></blockquote>
 <p><script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<p><img src="http://new.tinygrab.com/9850fdfb4bc703c3c64782dd5819b34f63301a5803.png" alt="" width="779" height="523"></p>
+<p><img src="http://new.tinygrab.com/9850fdfb4bc703c3c64782dd5819b34f63301a5803.png" alt=""></p>
 <p>たしかに「飲み会」費用になっていて、たしかにこれは楽しい。あと、ぼくは Kindle の漫画をめっちょ買っているんだけど、これは「教養・教育」に分類されているから、得した気分になる。教育費にだいぶ使っている。</p>
 <h3>GitHub Issues</h3>
-<p><img src="http://new.tinygrab.com/9850fdfb4ba2db296d68079426cbefe89bb293d65a.png" alt="GitHub Issues" width="640"></p>
+<p><img src="http://new.tinygrab.com/9850fdfb4ba2db296d68079426cbefe89bb293d65a.png" alt="GitHub Issues"></p>
 <p>生活のアレコレは、積極的に GitHub Issues にのっけて進行している。だいぶいい感じ。</p>
-<p><img src="http://new.tinygrab.com/9850fdfb4b1391f3bb996dbaaabdf0fcfd09604968.png" alt="トイレットペーパーの収納場所について考える" width="640"></p>
+<p><img src="http://new.tinygrab.com/9850fdfb4b1391f3bb996dbaaabdf0fcfd09604968.png" alt="トイレットペーパーの収納場所について考える"></p>
 <p>すごくいいと思う。</p>
 <h3>Dropbox</h3>
 <p>これはまぁ、いっしょに住むようになる前から使っていたもので、ファイルを共有するならあると便利です。</p>
 <h3>Slack</h3>
 <p>最近になって、メインのコミュニケーションチャンネルを LINE から <a href="https://slack.com/" title="https://slack.com/">Slack</a> に変えました。LINE もすごく好きなんだけれど、ただただ「インテグレーションしたい…！」って想いが強くて、Slack を試してみたところ意外と定着した、という感じです。</p>
-<p><img src="http://new.tinygrab.com/9850fdfb4ba62bae0d6a5036b52794b36432119a32.png" alt="Slack with GitHub" width="700" height="660" /></p>
+<p><img src="http://new.tinygrab.com/9850fdfb4ba62bae0d6a5036b52794b36432119a32.png" alt="Slack with GitHub" /></p>
 <p>先に書いた GitHub Issues とはもちろん連携させていて、Issues の進行からチャットが自然にはじまるのは大変よい。</p>
-<p><img src="http://new.tinygrab.com/9850fdfb4ba98a52fac262d439f981be8e487faaaf.png" alt="お天気おねえさん" width="700" height="468" /></p>
+<p><img src="http://new.tinygrab.com/9850fdfb4ba98a52fac262d439f981be8e487faaaf.png" alt="お天気おねえさん" /></p>
 <p>あと、大田区のお天気おねえさんが毎朝9時にお天気をお知らせしてくれる。これを受けて「傘を持ってでかけようね」とか「今日はお洗濯できないね」とか、生活に関して身のあるやりとりをできるようになった。今のところ勝利感あります。</p>
 <p>ぼくはどのプロジェクトに関わっていても「自分たちの日々を、自分たちで変えていける」っていう状況を重視したくて、そのためには、こういう手を加えて工夫できるツールはいいですよね。その要件を満たすものとして、Slack を選びました。クライアントアプリとして、Mac のやつも iPhone のやつもちゃんとあるので、着席中でも移動中でもばっちりです。いぇい。</p>
 <h3>炊事・洗濯・掃除</h3>

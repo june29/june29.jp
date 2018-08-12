@@ -23,7 +23,7 @@ draft = false
 
 ぼくはちゃっかりしているので篠原さんのサインをゲットしちゃいました。かわいい Ethereum マークつきです！
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/june29/40767332591/in/dateposted-public/" title="2018-03-12 22.44.39"><img src="https://farm5.staticflickr.com/4773/40767332591_621bac07e4_b.jpg" width="1024" height="768" alt="2018-03-12 22.44.39"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/june29/40767332591/in/dateposted-public/" title="2018-03-12 22.44.39"><img src="https://farm5.staticflickr.com/4773/40767332591_621bac07e4_b.jpg" alt="2018-03-12 22.44.39"></a>
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### 暗号通貨好き好き軍団 〜速・続・バーンでSKY〜 by あんちぽちゃんさん

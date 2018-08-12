@@ -8,7 +8,7 @@ draft = false
 
 <p><a href="http://gihyo.jp/magazine/wdpress/plus/978-4-7741-5002-4" title="Emacs実践入門―思考を直感的にコード化し，開発を加速する（WEB+DB PRESS plusシリーズ）｜gihyo.jp … 技術評論社">Emacs実践入門―思考を直感的にコード化し，開発を加速する（WEB+DB PRESS plusシリーズ）｜gihyo.jp … 技術評論社</a></p>
 <p>読みました！いやー、これでぼくの寿命も確実に伸びました。本当に感謝です。著者さまにお会いする機会があったら日本の食べ物を食わしてやりたいんですが構いませんねッ！</p>
-<p><a href="http://www.flickr.com/photos/june29/6864594606/" title="Emacs実践入門 by june29, on Flickr"><img src="http://farm8.staticflickr.com/7191/6864594606_c32840b50e_z.jpg" width="640" height="428" alt="Emacs実践入門"></a></p>
+<p><a href="http://www.flickr.com/photos/june29/6864594606/" title="Emacs実践入門 by june29, on Flickr"><img src="http://farm8.staticflickr.com/7191/6864594606_c32840b50e_z.jpg" alt="Emacs実践入門"></a></p>
 <h3>Emacsとあたし</h3>
 <p>15歳で入学した高専の演習室で意味も分からないまま Mule を使っていたんだっけか… 当時は「えっ、ファイルの保存からして分からんし」みたいな印象の悪い出会いだったかもしれません。付き合いだけはけっこう長かったりするのですが、手に馴染む道具として使いこなせるようにはぜんぜんなっていなくて、カスタマイズにもぜんぜん手を出せずにいて、何度か「よし、Emacs と向き合おう！」と思うもすぐに挫折する、という体験を繰り返してきたのが、他でもないぼくです。</p>
 <p>そんなぼくが、1冊を頭からお尻まで楽しく読むことができて、読み終わってすぐに init.el の再構築をはじめて、なんだか、これまで挫折した道をようやく突破できた気になっています。これは感謝せざるを得ない… ありがとうございます！</p>

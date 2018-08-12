@@ -38,7 +38,7 @@ draft = false
 <p>&mdash; 大和田純 公式アカウント (@june29) <a href="https://twitter.com/june29/status/638483408667054080">August 31, 2015</a></p></blockquote>
 <p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <p>あと、社内 Slack の運営用チャンネルにツイートを流し込むようにしていて、ここで参加者の方が困っている様子などを観測できたので、そのまま運営スタッフ同士で会話できて便利でした。今後も、参加者が50人規模くらいまでのイベントであれば、同じようにしたいなと思います。</p>
-<p><a data-flickr-embed="true" data-header="false" data-footer="false" data-context="false"  href="https://www.flickr.com/photos/21733281@N00/21035068312" title="Untitled"><img src="https://farm1.staticflickr.com/644/21035068312_14014898ab_z.jpg" width="600" height="500" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+<p><a data-flickr-embed="true" data-header="false" data-footer="false" data-context="false"  href="https://www.flickr.com/photos/21733281@N00/21035068312" title="Untitled"><img src="https://farm1.staticflickr.com/644/21035068312_14014898ab_z.jpg" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 <h3>こぼれ話</h3>
 <p>「論理削除…… ウッッ」という流れがあったので、すべてのトークが終わったあとの懇親会では「レイルズつらい話あるある」というか、他にもつらいことはいっぱいあるぞ…！と盛り上がって楽しかった。レイルズ地獄百景「イニシャライザーズ地獄」「シェアードイグザンプル地獄」「レイルズアドミン地獄」は笑って聞いていたけれど笑い話じゃなかった。あと、会話の途中で「松田スペシャル」というフレーズが耳に飛び込んできて、名字にスペシャルをくっつけるともはやプロレス技だな、と思いました。</p>
 <p>Rails 2 時代に活躍したレジェンドみたいなライブラリたちを fork してメンテナンスし続けて活用するの、NARUTO でいうと大蛇丸が、BLEACH でいうと涅マユリがやりそうなことで、過去のモノにはちゃんと「ありがとうございました」って礼をして、ちゃんと次に進んでいきたいものですね。</p>

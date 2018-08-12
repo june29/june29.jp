@@ -11,7 +11,7 @@ draft = false
 <p><a href="http://www.itmedia.co.jp/enterprise/articles/0812/02/news011.html">Focus on People：Mozilla Labの至宝が語る未来のFirefox (1/2) &#8211; ITmedia エンタープライズ</a></p>
 <p>ITmedia の<a href="http://blogs.itmedia.co.jp/geek/">西尾さん</a>，前回に続き色々とありがとうございました．感謝です．</p>
 <p>Aza さんの話は面白かったよー．MacBook にサインをもらっちゃいました．Aza さん曰く「サインを頼まれたのは初めてだよ．高校のとき，ヒマだったから作ったサインなんだ」って．日本の男子中高生の発想と大差ありませんね！親近感を覚えました．</p>
-<p><a href="http://www.flickr.com/photos/june29/3048861765/" title="Aza! by june29, on Flickr"><img src="http://farm4.static.flickr.com/3162/3048861765_178e0ef41e.jpg" width="500" height="333" alt="Aza!" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3048861765/" title="Aza! by june29, on Flickr"><img src="http://farm4.static.flickr.com/3162/3048861765_178e0ef41e.jpg" alt="Aza!" /></a></p>
 <p>事前に Mozilla Labs の活動を見聞きしたり，他の人たちの「Aza に会ってきた！」エントリを読んで，この業界の重鎮みたいな人をイメージしていたんだけど，Aza さんは24歳で小柄で日本語達者なナイスガイだった．</p>
 <h3>インタビュー</h3>
 <p>誰かにインタビューして，それを記事にするだなんて，もちろん初めてのことで，上手くできたかどうかは分からない．お話があってから，実際に Aza さんに会うまでの丸2日間くらい，色んなことを考えた．Aza さんの過去のプロダクトについて調べてみたり，言葉としては知っているけれど，中身をちゃんと知らないものについて調べてみたり．人に何かを伝えるための文章を書くってのは大変だ．こんなことを毎日続けている記者さんは偉大ですね．</p>
@@ -36,4 +36,4 @@ draft = false
 <p>さて，まとまらないけど，こぼれ話はこんな感じです．</p>
 <h3>謝辞</h3>
 <p>Aza さん，楽しいお話をお聞かせいただき，ありがとうございました．Mozilla Japan の担当の方々，スケジュールの調整等，ありがとうございました．通訳の方，Greasemonkey 等の固有名詞が飛び交う中，意思疎通の補助をありがとうございました．西尾さん，素晴らしい機会をありがとうございました．会社の人たち，業務時間中の社外活動を認めてくださり，ありがとうございます．「インタビューどうしよー」というボクの相談に乗っていただいた友人たち，ありがとう．</p>
-<p><a href="http://www.flickr.com/photos/june29/3048859393/" title="mozilla JAPAN by june29, on Flickr"><img src="http://farm4.static.flickr.com/3009/3048859393_ac02f0251f.jpg" width="500" height="333" alt="mozilla JAPAN" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3048859393/" title="mozilla JAPAN by june29, on Flickr"><img src="http://farm4.static.flickr.com/3009/3048859393_ac02f0251f.jpg" alt="mozilla JAPAN" /></a></p>

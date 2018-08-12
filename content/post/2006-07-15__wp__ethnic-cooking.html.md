@@ -16,5 +16,5 @@ draft = false
 <li>表示が「残り4時間55分」になったら火を止める</li>
 </ol>
 <p>出来上がったチャニオンの写真を載せておきます．とても美味しかったです．チャニオンには玉ねぎ3玉分のビタミンB，ビタミンC，食物繊維やミネラルも含まれていて，栄養バランスも抜群です．また後輩に作ってもらおうと思います．</p>
-<p><center><a href="http://www.flickr.com/photos/june29/189542320/" title="Photo Sharing"><img src="http://static.flickr.com/66/189542320_427e280971.jpg" width="500" height="375" alt="チャニオン" border="none" /></a><br />
+<p><center><a href="http://www.flickr.com/photos/june29/189542320/" title="Photo Sharing"><img src="http://static.flickr.com/66/189542320_427e280971.jpg" alt="チャニオン" border="none" /></a><br />
 </center></p>

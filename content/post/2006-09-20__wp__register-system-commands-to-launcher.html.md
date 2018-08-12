@@ -24,6 +24,6 @@ draft = false
 </ul>
 <p>(追記)</p>
 <p>マイコンピュータをbluewindから呼び出すための設定を以下に示します．</p>
-<p><a href="http://www.flickr.com/photos/june29/248077035/" title="Photo Sharing"><img src="http://static.flickr.com/82/248077035_85d888984a_o.jpg" width="380" height="403" alt="bluewindにマイコンピュータを" /></a></p>
-<p><a href="http://www.flickr.com/photos/june29/248077036/" title="Photo Sharing"><img src="http://static.flickr.com/91/248077036_ff84c611d5_o.jpg" width="380" height="403" alt="bluewindにマイコンピュータを" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/248077035/" title="Photo Sharing"><img src="http://static.flickr.com/82/248077035_85d888984a_o.jpg" alt="bluewindにマイコンピュータを" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/248077036/" title="Photo Sharing"><img src="http://static.flickr.com/91/248077036_ff84c611d5_o.jpg" alt="bluewindにマイコンピュータを" /></a></p>
 <p>explorerコマンドに引数「/e,::{20D04FE0-3AEA-1069-A2D8-08002B30309D}」を与えて実現します．</p>

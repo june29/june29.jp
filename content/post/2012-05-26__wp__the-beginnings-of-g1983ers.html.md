@@ -8,7 +8,7 @@ draft = false
 
 <p>かわいい後輩ちゃんから「同年代コミュニティをはじめようと考えているので g1983ers のお話を聞かせてください！」と連絡がありました。</p>
 <p>というわけで、アンサーソングを書いてみたいと思います。</p>
-<p><a href="http://www.flickr.com/photos/june29/4215654235/" title="1983忘年会！2009 by june29, on Flickr"><img src="http://farm3.staticflickr.com/2630/4215654235_d28f32ceef_z.jpg" width="640" height="428" alt="1983忘年会！2009"></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4215654235/" title="1983忘年会！2009 by june29, on Flickr"><img src="http://farm3.staticflickr.com/2630/4215654235_d28f32ceef_z.jpg" alt="1983忘年会！2009"></a></p>
 <h3>そもそもどうして (Why)</h3>
 <p>コミュニティの運営なんてものはなかなか大変で、やらずに済むならやらないでおいた方が楽チンであることは間違いありません。</p>
 <p>じゃあぼくは、そもそもどうして g1983ers をはじめようと思ったのか。どんな衝動に駆られて、ついうっかり「やります」なんて言ってしまったのか。</p>
@@ -30,7 +30,7 @@ draft = false
 <p>初動としても、いきなり ATND にイベントを作成したりせずに「こんなイベントがあったら参加してみたいですか」とブログに書いてみて、様子を見るところからはじめました。</p>
 <p><a href="http://june29.jp/2009/01/18/1983party/" title="1983パーリィをやりたい！ - 準二級.jp">1983パーリィをやりたい！ &#8211; 準二級.jp</a></p>
 <p>ほいで、蓋を開けてみると、このときに反応してくれた人たちの大半は、g1983ers のイベントで知り合って、今もつながりがあるんですよ。これは、あらためて思い返してみると、地味にすごいことだ。この文章をまとめながら、じんわりと喜びを感じています。</p>
-<p><a href="http://www.flickr.com/photos/june29/3205892946/" title="1983の証明 by june29, on Flickr"><img src="http://farm4.staticflickr.com/3430/3205892946_cd14579d60_o.jpg" width="500" height="333" alt="1983の証明"></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3205892946/" title="1983の証明 by june29, on Flickr"><img src="http://farm4.staticflickr.com/3430/3205892946_cd14579d60_o.jpg" alt="1983の証明"></a></p>
 <h4>指をさせる状態にする</h4>
 <p>これについては、ぼくより下の世代の方が、もっと上手にやるんだろうなあ、と思いつつ。</p>
 <p>たとえば「公式ハッシュタグを指定する」とか「Webサイトをつくる」とか、そういうことです。ぼくらの「ハチサン(俗称)」も、本当は「g1983」という名前にしたかったのですが、Twitter に「ゲームショップ1983の中の人」のアカウントがあって、これが @g1983 という名前だったので、避けることにしたのでした。</p>
@@ -39,7 +39,7 @@ draft = false
 <p>過去の催しのことは、ちょくちょくブログに書いてきました。</p>
 <p><a href="http://june29.jp/tag/g1983ers/" title="Entries tagged with : g1983ers - 準二級.jp">Entries tagged with : g1983ers &#8211; 準二級.jp</a></p>
 <p>だいたい「忘年会」と「お花見」は、毎年開催していて、あとは g1983ers のイベントじゃないのだけれど、g1983ers で知り合った人たちをメインに「JK撮影会」を開催したり、といったところですかね。</p>
-<p><a href="http://www.flickr.com/photos/june29/5824327293/" title="Untitled by june29, on Flickr"><img src="http://farm3.staticflickr.com/2663/5824327293_58b99c26a5_z.jpg" width="640" height="428" alt="Untitled"></a></p>
+<p><a href="http://www.flickr.com/photos/june29/5824327293/" title="Untitled by june29, on Flickr"><img src="http://farm3.staticflickr.com/2663/5824327293_58b99c26a5_z.jpg" alt="Untitled"></a></p>
 <p>最初に思っていた「友達がほしい！」は、おかげさまで叶えることができました。たとえば「お花見」なんてものは、トピック(だけ)で集まるコミュニティではなかなか開催できなくて、なんとなくでもカタチを持ったコミュニティがあるとやりやすいんだなぁって、やってみてわかりました。</p>
 <h3>まとめ</h3>
 <p>後輩ちゃんからの連絡をきっけに、これまでの g1983ers のことをふりかえってみました。</p>

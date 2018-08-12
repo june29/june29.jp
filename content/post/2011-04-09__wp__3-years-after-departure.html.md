@@ -8,7 +8,7 @@ draft = false
 
 <p>おはよう、こんにちわ、こんばんわ。いつ見ているか分からないから、あいさつ全部。じゅーんです！</p>
 <p>慌ただしく過ごしている間に、いつの間にか2011年の4月を迎えまして、故郷の北海道を離れて東京で今の生活を始めてから丸3年が経ったことになります。ひとつの節目だな、というタイミングで、この3年をふりかえってみることにしました。</p>
-<p><a href="http://www.flickr.com/photos/june29/2397724764/" title="駅のホーム by june29, on Flickr"><img src="http://farm3.static.flickr.com/2292/2397724764_8719de45fe_z.jpg" width="640" height="427" alt="駅のホーム"></a></p>
+<p><a href="http://www.flickr.com/photos/june29/2397724764/" title="駅のホーム by june29, on Flickr"><img src="http://farm3.static.flickr.com/2292/2397724764_8719de45fe_z.jpg" alt="駅のホーム"></a></p>
 <p>上京してすぐに撮った、京急の駅のホームの写真。シャッターを切りながら、妙に寂しい気持ちになったのを覚えている。</p>
 <h3>種を探した1年目</h3>
 <p>2008年3月31日。24年間の北海道での生活を終え、羽田空港に降り立っていた。まだ住居も決まっていなくて(ガローアに出会うのは、1ヶ月くらい先のお話)、ほんの少しの心細さと、未来への大いなるワクワクを抱いて、東京の土を踏んだ。当時の自分が書いた文章を気に入っていて、たまに読み返すと、今でもそのときの気持ちを思い出したりします。</p>
@@ -42,7 +42,7 @@ draft = false
 <li>2008/12/07 : <a href="http://june29.jp/2008/12/07/kosencon-tokyo03-and-me/">「高専カンファレンス2008 Winter in 東京」に参加してきた (自分編) &#8211; 準二級.jp</a></li>
 <li>2008/12/08 : <a href="http://june29.jp/2008/12/08/kosencon-tokyo03-with-you/">「高専カンファレンス2008 Winter in 東京」に参加してきた (みんな編) &#8211; 準二級.jp</a></li>
 </ul>
-<p><a href="http://www.flickr.com/photos/kubyaddi/2888913327/" title="june29 san by kubyaddi, on Flickr"><img src="http://farm4.static.flickr.com/3199/2888913327_4dd3149515_z.jpg" width="640" height="480" alt="june29 san"></a></p>
+<p><a href="http://www.flickr.com/photos/kubyaddi/2888913327/" title="june29 san by kubyaddi, on Flickr"><img src="http://farm4.static.flickr.com/3199/2888913327_4dd3149515_z.jpg" alt="june29 san"></a></p>
 <p>学生時代のご縁があって、<a href="http://www.itmedia.co.jp/">ITmedia</a> に記事を載せてもらうこともできました。これが、はてなブックマークで1,000人以上にブックマークされて、身の丈に合っていない感がすごかった。西尾さん、ありがとう。とても貴重な体験でした。</p>
 <ul>
 <li>2008/08/31: <a href="http://june29.jp/2008/08/31/ubiquity-introduction-on-itmedia/">ITmediaにてUbiquityの紹介記事を書かせていただきました！ &#8211; 準二級.jp</a></li>
@@ -54,7 +54,7 @@ draft = false
 </p></blockquote>
 <p>…ってことを、2008年の終わりに書いていて。2009年は、あとから見てみると、けっこう、その通りにできていたんじゃないかな。</p>
 <p>1年目の <a href="http://twitter.com/#!/ZoAmichi">@ZoAmichi</a> くんとの出会いから感じることがいっぱいあって、<a href="http://june29.jp/tag/g1983ers/">g1983ers</a> の活動をスタートさせた。これも、今日につながる道になりました。ぞあ道。</p>
-<p><a href="http://www.flickr.com/photos/zoamichi/3602790156/" title="崇めよ我はTVなり by ZoAmichi, on Flickr"><img src="http://farm4.static.flickr.com/3618/3602790156_334d03da16_z.jpg" width="640" height="429" alt="崇めよ我はTVなり"></a></p>
+<p><a href="http://www.flickr.com/photos/zoamichi/3602790156/" title="崇めよ我はTVなり by ZoAmichi, on Flickr"><img src="http://farm4.static.flickr.com/3618/3602790156_334d03da16_z.jpg" alt="崇めよ我はTVなり"></a></p>
 <p>2008年にはひとりの一般参加者として参加した RubyKaigi に、2009年は当日スタッフとして参加することができました。自分の人生にとって、とても大きな出来事となりました。お誘いの手を差し延べてくださった先人たちには、心から感謝しています。本当によかった。人生が狂い始めました(紛れもなくいい意味で)。</p>
 <ul>
 <li><a href="http://june29.jp/2009/08/02/rubykaigi2009/">RubyKaigi2009に参加してきた &#8211; 準二級.jp</a></li>
@@ -82,7 +82,7 @@ draft = false
 </ul>
 <p>このしんどい時期はなんとか越えることができて、物事を「今よりよくする」ための思考や行動が少し身に付きました。「ふりかえり」という語彙と考え方が身に付いた。今でも自分を助けてくれています。よかった。</p>
 <h3>空に近付きたかった3年目</h3>
-<p><a href="http://www.flickr.com/photos/magurojp/5440833681/" title="IMGP3246 by magurojp, on Flickr"><img src="http://farm6.static.flickr.com/5213/5440833681_388b55a613_z.jpg" width="640" height="425" alt="IMGP3246"></a></p>
+<p><a href="http://www.flickr.com/photos/magurojp/5440833681/" title="IMGP3246 by magurojp, on Flickr"><img src="http://farm6.static.flickr.com/5213/5440833681_388b55a613_z.jpg" alt="IMGP3246"></a></p>
 <p>1年目、2年目の延長線上にありつつも、求められる考え方や行動は大きく変わってきた、と感じた3年目でした。</p>
 <p>お仕事の場面では、チームの在り方についてものすごく悩んだ時期がありました。個人としての振る舞いについては、1年目と2年目で、基礎的なところはできあがりつつあって、だけど、チームの中で個人がどうあるべきかという点で、大いに悩んでいた。別の要因も色々とあって本気で悩んでいた一時期は、キャリアプランを見直し始めていたし、自分の身をどこに置くべきか、あらためて本気で考える機会となった。チームというのは、本当に難しい。個人の長所を殺してしまうようなチームなら、いっそなくなってしまった方がいい、と思ったりもした。個々が、個々としていきいきとしつつ、個々の総和を越える勢いを維持できるチームづくりについて、今でも考え続けている。その現場での、そのメンバーに合った、チームの形の模索です。</p>
 <p>私生活では、記事の執筆やコミュニティの運営、イベントでの発表など、2年目までに自分の名前とともに成果を残してこれたものについて、ありがたいお誘いやご相談をいただく機会がぐっと増えました。本当に感謝しています。</p>
@@ -106,7 +106,7 @@ draft = false
 <p>「公私の区別なく生きる」ことについて、賛否は分かれるかもしれませんが、この3年間の自分の日々のすべての積み重ねが、今の自分の活動を支えているのだと実感できたとき、これまでの時間に感謝せずにはいられませんでした。人と人とのつながりにおいては、お仕事だから、とか、お仕事じゃないから、とか、そういったことは関係なく、まるっと全部で自分の人生です、と言える状態を維持したい。そう思いました。</p>
 <p>上京当時は「20代は拡げる、30歳になったら絞っていく」となんとなく考えていたのですが、思ったより早いスピードで自分の生活は展開していて、3年目にして、少しずつ的を絞ることを余儀なくされてきました。予定外ではありますが、嬉しいことです。</p>
 <p>コミュニティ活動でいうと、大きなものでは「RubyKaigi まわり」「g1983ers まわり」「kosenconf まわり」があるのですが、これが自分にとって良いバランスであると、この文章を書いていて気が付きました。それぞれがちょうど「先輩」「同年代」「後輩」と接する場になっているのですよ。よい形をしています。これらの間を行ったり来たりすることで、色んな人たちと色んなものを交換して、自分の中には蓄積して、成長できている実感があります。</p>
-<p><a href="http://www.flickr.com/photos/whileimautomaton/5581719615/" title="物思いに耽る by whileimautomaton, on Flickr"><img src="http://farm6.static.flickr.com/5052/5581719615_67df4d6fd3_z.jpg" width="640" height="425" alt="物思いに耽る"></a></p>
+<p><a href="http://www.flickr.com/photos/whileimautomaton/5581719615/" title="物思いに耽る by whileimautomaton, on Flickr"><img src="http://farm6.static.flickr.com/5052/5581719615_67df4d6fd3_z.jpg" alt="物思いに耽る"></a></p>
 <p>一方で、そういえば21歳を過ぎたあたりから恋は負け続きなんですが (恋愛を勝ち負けで語る男の人って…)、やあやあ、それはそれとして、心の平穏を(ギリギリで)保ちつつ、楽しく暮らしています。今年もいい恋をしたいです。</p>
 <p>あと、髪型をどうしようかなって考えています。</p>
 <p>さて、今年も全力で毎日を楽しんでいきますよー！みんな、一緒に楽しいことしよう！ラービュー！</p>

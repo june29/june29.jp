@@ -11,7 +11,7 @@ draft = false
 <p>GR DIGITAL も今日マチ子さんも，両方大好きなボクとしては，大変に嬉しい出来事だったのです！</p>
 <h3>GR DIGITAL</h3>
 <p>改めて調べてみたら，<a href="http://www.ricoh.co.jp/dc/gr/digital/" title="製品情報 / GR DIGITAL | Ricoh Japan">GR DIGITAL</a> の発売日は2005年10月21日でした．もう発売から3年以上が経つのですね．まったくそうは思えないほど，ボクの手元の GR ちゃんも現役で活躍してくれています．</p>
-<p><a href="http://www.flickr.com/photos/june29/489867303/" title="GR故障中 by june29, on Flickr"><img src="http://farm1.static.flickr.com/207/489867303_d527c4d057.jpg" width="500" height="333" alt="GR故障中" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/489867303/" title="GR故障中 by june29, on Flickr"><img src="http://farm1.static.flickr.com/207/489867303_d527c4d057.jpg" alt="GR故障中" /></a></p>
 <p class="photo-caption">赤のプレミアムリングがさいこーカッコいい！</p>
 <p>発売から数年経っても生産完了までほとんど下落しなかった価格．ファームウェアのアップデートによって購入後も進化する本体．<a href="http://blog.ricoh.co.jp/GR/" title="リコー公式ブログ GR BLOG | Ricoh Japan">GR BLOG</a> を通じたユーザとの交流及び製品ブランディング．どれを取っても，同時期に発売した他の多くのコンパクトデジカメとは一線を画す存在でした．ボクにとっての特別であり続けてくれました．それは <a href="http://www.ricoh.co.jp/dc/gr/digital2/" title="製品情報 / GR DIGITAL II | Ricoh Japan">GR DIGITAL II</a> になっても同じなのでしょう．</p>
 <blockquote><p>

@@ -14,6 +14,6 @@ draft = false
 <p>都合が付かなくて，直前の <a href="http://mozilla.jp/events/2009/fxdevcon/" title="Firefox Developers Conference 2009 - アドオンで Web の未来を切り開く！">Firefox Developers Conference 2009</a> に参加できなかったのは残念．それでも，参加レポートや録画が多く残っていて大変助かった．</p>
 <p>Jetpack の feature 間連携の構想や，「Web ブラウザの役割」についての考え方は，とても刺激的で面白かった．すでにリリースが予定されている機能のお話だけではなく，彼らがどこを目指し，どのようにしてそこに向かおうとしているのか，そんなお話を引き出せたので，インタビューとしては悪くないんじゃないかな．いかがでしょうか．</p>
 <h3>謝辞</h3>
-<p><a href="http://www.flickr.com/photos/june29/4132351534/" title="My MacBook by june29, on Flickr"><img src="http://farm3.static.flickr.com/2505/4132351534_8e554d3298.jpg" width="500" height="333" alt="My MacBook" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4132351534/" title="My MacBook by june29, on Flickr"><img src="http://farm3.static.flickr.com/2505/4132351534_8e554d3298.jpg" alt="My MacBook" /></a></p>
 <p class="photo-caption">Aza のサインも2年分になった</p>
 <p>Mozilla Japan の皆さん，ITmedia の西尾さん，貴重な機会をありがとうございました．チームの同世代メンバー，質問のアイディア出しと草稿のレビューをありがとう．そして Aza と Chris，ワクワクするお話をどうもありがとう！</p>

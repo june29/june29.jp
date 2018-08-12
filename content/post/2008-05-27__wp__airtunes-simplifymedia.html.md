@@ -6,7 +6,7 @@ draft = false
 
 +++
 
-<p><a href="http://www.flickr.com/photos/june29/2521375974/" title="AirMac Express by june29, on Flickr"><img src="http://farm4.static.flickr.com/3031/2521375974_05b8d0c684.jpg" width="500" height="333" alt="AirMac Express" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/2521375974/" title="AirMac Express by june29, on Flickr"><img src="http://farm4.static.flickr.com/3031/2521375974_05b8d0c684.jpg" alt="AirMac Express" /></a></p>
 <p>AirMac Express を買いました！ インターネット接続だけじゃなく，プリンタとオーディオ機器への接続もワイヤレスになるから，ケーブル3本分，MacBook をすっきり使えちゃうわけですね．嬉しいです．</p>
 <p>そして同時期に Simplify Media を使い始めました．</p>
 <p><a href="http://www.simplifymedia.com/"><img src="http://www.simplifymedia.com/images/hdr-logo.png" alt="Simplify Media" /></a></p>

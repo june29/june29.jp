@@ -19,21 +19,21 @@ draft = false
 </a></p>
 <p class="photo-caption">合同開催だけじゃなく共同作業も！ (by <a href="http://www.flickr.com/photos/kawataso/" title="Flickr: kawataso's Photostream">kawataso</a>)</p>
 <p>ネタのつもりで空のスーツケースを持っていったら，本当にそれが役立っちゃうくらいにプレゼントをいただいてしまって… どうもありがとう！</p>
-<p><a href="http://www.flickr.com/photos/june29/3671735441/" title="プレゼント by june29, on Flickr"><img src="http://farm4.static.flickr.com/3643/3671735441_30686fb772.jpg" width="500" height="334" alt="プレゼント" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3671735441/" title="プレゼント by june29, on Flickr"><img src="http://farm4.static.flickr.com/3643/3671735441_30686fb772.jpg" alt="プレゼント" /></a></p>
 <h3>チームリーダから</h3>
 <p>うちのチームリーダは，ジョジョのカードゲームのパッケージをプレゼントしてくれました！</p>
-<p><a href="http://www.flickr.com/photos/june29/3669736871/" title="ジョジョの奇妙な冒険 Adventure Battle Card by june29, on Flickr"><img src="http://farm4.static.flickr.com/3375/3669736871_071c610e98.jpg" width="500" height="333" alt="ジョジョの奇妙な冒険 Adventure Battle Card" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3669736871/" title="ジョジョの奇妙な冒険 Adventure Battle Card by june29, on Flickr"><img src="http://farm4.static.flickr.com/3375/3669736871_071c610e98.jpg" alt="ジョジョの奇妙な冒険 Adventure Battle Card" /></a></p>
 <p>開けてみてビックリ！シークレットレアカードの「岸部露伴は動かない」が出たッ！！</p>
-<p><a href="http://www.flickr.com/photos/june29/3670542434/" title="「岸部露伴は動かない」 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3341/3670542434_06b56ccafd.jpg" width="500" height="333" alt="「岸部露伴は動かない」" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3670542434/" title="「岸部露伴は動かない」 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3341/3670542434_06b56ccafd.jpg" alt="「岸部露伴は動かない」" /></a></p>
 <p>1パッケージでこいつを引き当ててプレゼントにしてくれるリーダ，ハンパねっす！ありがとうございました！</p>
-<p><a href="http://www.flickr.com/photos/june29/3669737327/" title="岸部露伴先生 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3386/3669737327_b24939d6b2.jpg" width="500" height="333" alt="岸部露伴先生" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3669737327/" title="岸部露伴先生 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3386/3669737327_b24939d6b2.jpg" alt="岸部露伴先生" /></a></p>
 <p class="photo-caption">iPhone の待ち受け画面ともお揃いだ</p>
 <h3>29パーリィ！</h3>
 <p>「29日は肉の日だから，肉を食べに行こうぜー！」って，会社の25歳のガキども(って言ったら中止になりかけた)が言ってくれちゃうもんだから，みんなで食べに行きました！</p>
-<p><a href="http://www.flickr.com/photos/june29/3672244548/" title="ステーキで乾杯！ by june29, on Flickr"><img src="http://farm3.static.flickr.com/2472/3672244548_3116871d77.jpg" width="500" height="333" alt="ステーキで乾杯！" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3672244548/" title="ステーキで乾杯！ by june29, on Flickr"><img src="http://farm3.static.flickr.com/2472/3672244548_3116871d77.jpg" alt="ステーキで乾杯！" /></a></p>
 <p>なんだかんだでみんな忙しい毎日を過ごしていて，いつも同じ場所で働いているのに，こうして同い年のメンバーで集まって騒ぐなんて数ヶ月に1回くらいしかなくて，今日がその機会になって本当によかったです．愛おしい時間を過ごしました！</p>
 <p>プレゼントもありがとう！大事にするよー！</p>
-<p><a href="http://www.flickr.com/photos/june29/3671578259/" title="ひだまり by june29, on Flickr"><img src="http://farm4.static.flickr.com/3355/3671578259_dc2e52a97e.jpg" width="500" height="334" alt="ひだまり" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3671578259/" title="ひだまり by june29, on Flickr"><img src="http://farm4.static.flickr.com/3355/3671578259_dc2e52a97e.jpg" alt="ひだまり" /></a></p>
 <p class="photo-caption">ひだまり</p>
 <h3>みんなありがとう！</h3>
 <p>今年もちょーステキなバースデイを過ごすことができました！みんなどうもありがとう！26歳の1年間も，楽しい時間をいっぱい過ごします！</p>

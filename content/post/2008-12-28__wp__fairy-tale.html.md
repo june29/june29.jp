@@ -6,7 +6,7 @@ draft = false
 
 +++
 
-<p><a href="http://www.flickr.com/photos/june29/3142976308/" title="Fairy Tale by june29, on Flickr"><img src="http://farm4.static.flickr.com/3212/3142976308_816219c519.jpg" width="500" height="334" alt="Fairy Tale" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3142976308/" title="Fairy Tale by june29, on Flickr"><img src="http://farm4.static.flickr.com/3212/3142976308_816219c519.jpg" alt="Fairy Tale" /></a></p>
 <p>先日，Twitter で <a href="http://twitter.com/ma_shi_" title="Twitter / ma_shi_">@ma_shi_</a> さんがこんな Twit をしていました．</p>
 <blockquote><p>
 27日にフェアリーテールという大規模なアマチュアファッションショーがあります。そこで、僕はオープニングのVJを担当させていただく事になりました。チケットが余っていますので、見に行きたい方がいましたら、 連絡をください。</p>
@@ -20,10 +20,10 @@ draft = false
 <h3>ファッションショー</h3>
 <p>テンションが上がりまくりでたくさん写真を撮りました．</p>
 <p><a href="http://www.flickr.com/photos/june29/sets/72157611750404674/" title="Fairy Tale - a set on Flickr">Fairy Tale &#8211; a set on Flickr</a></p>
-<p><a href="http://www.flickr.com/photos/june29/3142121316/" title="Fairy Tale by june29, on Flickr"><img src="http://farm4.static.flickr.com/3288/3142121316_ca2fcaee24.jpg" width="500" height="334" alt="Fairy Tale" /></a></p>
-<p><a href="http://www.flickr.com/photos/june29/3141293943/" title="Fairy Tale by june29, on Flickr"><img src="http://farm4.static.flickr.com/3255/3141293943_d328ede6dd.jpg" width="500" height="334" alt="Fairy Tale" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3142121316/" title="Fairy Tale by june29, on Flickr"><img src="http://farm4.static.flickr.com/3288/3142121316_ca2fcaee24.jpg" alt="Fairy Tale" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3141293943/" title="Fairy Tale by june29, on Flickr"><img src="http://farm4.static.flickr.com/3255/3141293943_d328ede6dd.jpg" alt="Fairy Tale" /></a></p>
 <p><a href="http://twitter.com/ma_shi_" title="Twitter / ma_shi_">@ma_shi_</a> さんのお仕事風景を見せてもらったり．未知の世界が広がっていた！わくわくした！</p>
-<p><a href="http://www.flickr.com/photos/june29/3142126921/" title="Fairy Tale by june29, on Flickr"><img src="http://farm4.static.flickr.com/3248/3142126921_b1788aaeab.jpg" width="500" height="334" alt="Fairy Tale" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3142126921/" title="Fairy Tale by june29, on Flickr"><img src="http://farm4.static.flickr.com/3248/3142126921_b1788aaeab.jpg" alt="Fairy Tale" /></a></p>
 <p>ショーチームの皆さんは，みんなキラキラしていてとても良かった．いい刺激をもらいました．ありがとうございます．ショーの合間に流れるメイキング映像っぽいものに反応してしまったなぁ．チームで何かを成し遂げるってのは素晴らしい．空間を創るってのは素晴らしい．</p>
 <p><a href="http://www.flickr.com/photos/june29/sets/72157611750404674/" title="Fairy Tale - a set on Flickr"><img src="http://img.skitch.com/20081228-ncr9ebfaequrkw9qmfg74g4wud.png" alt="Fairy Tale" /></a></p>
 <p>2年ぐらい前まで，ボクはこの手のライブイベントってあまり楽しめなかったんです．誰かが輝いているステージを見ていると，なんだか憧れてしまったり嫉妬してしまったり，いつもその場に自分を持ち込もうとして悶々としてしまっていた．最近ようやく，人生に余裕が出てきたんだろうなー．もたもたしているヒマはない，だけど，焦ってばかりじゃ仕方ない．そんな風に自然に思えるようになってからは，日々をより楽しめるようになりました．いい傾向．</p>

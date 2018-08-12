@@ -7,7 +7,7 @@ draft = false
 +++
 
 <p>もしかしたら、そういう花ざかりの人もいるかもしれないと思って、書いてみることにしました。ぼくも昔はお前のようなレポート班だったが、膝に矢を受けてしまってな…</p>
-<p><a href="http://www.flickr.com/photos/june29/3755205580/" title="関係者席 by june29, on Flickr"><img src="http://farm4.staticflickr.com/3449/3755205580_b95b7ec79d_z.jpg" width="640" height="428" alt="関係者席"></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3755205580/" title="関係者席 by june29, on Flickr"><img src="http://farm4.staticflickr.com/3449/3755205580_b95b7ec79d_z.jpg" alt="関係者席"></a></p>
 <h3>ぼくの経験</h3>
 <p>RubyKaigi2009 と RubyKaigi2010 の「当日レポート」を担当しました。下記のエントリあたりに、経験した当時のことを書いてあります。</p>
 <ul>
@@ -31,6 +31,6 @@ draft = false
 <li>英語の発表は通訳があるとかなり気が楽</li>
 <li>当日が24時間をこえてしまった場合、モチベーションは単調減少になるので短期決戦を目指すべき</li>
 </ul>
-<p><a href="http://www.flickr.com/photos/takkanm/4941748767/" title="IMG_0265 by takkanm, on Flickr"><img src="http://farm5.staticflickr.com/4114/4941748767_748c104b17_z.jpg" width="640" height="427" alt="IMG_0265"></a></p>
+<p><a href="http://www.flickr.com/photos/takkanm/4941748767/" title="IMG_0265 by takkanm, on Flickr"><img src="http://farm5.staticflickr.com/4114/4941748767_748c104b17_z.jpg" alt="IMG_0265"></a></p>
 <h3>エール</h3>
 <p>技術系カンファレンスのレポートは、多くの人に読まれ得る、価値のあるお仕事なので、担当することになったら、ぜひともがんばってください！いのちだいじにがんがんいこうぜ！</p>

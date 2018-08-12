@@ -9,7 +9,7 @@ draft = false
 <p>2008年の今，ブログに動画を載せようと思ったら，多くの人が YouTube などのサービスにアップしたものを embed するんじゃないだろうか．それが簡単だからだ．</p>
 <p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/tWpXFZsoivk&#038;hl=en&#038;fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/tWpXFZsoivk&#038;hl=en&#038;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object></p>
 <p>多くのブログサービスは画像のアップロードに対応していて，管理画面が付いていたりするけれど，それはおまけの機能であって，写真の管理に特化したサービスに敵うものではないだろう．例えばボクは Flickr にアップした写真をブログに embed するようにしている．</p>
-<p><a href="http://www.flickr.com/photos/june29/2766120480/" title="雲と月 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3105/2766120480_4cd947c9f7.jpg" width="500" height="334" alt="雲と月" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/2766120480/" title="雲と月 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3105/2766120480_4cd947c9f7.jpg" alt="雲と月" /></a></p>
 <p>同様に，スクリーンショットは Skitch から embed する．</p>
 <p><img src="http://img.skitch.com/20080817-tbqsk2ibm9smkhwabdbdra817s.png" alt="Gmail - Spam (1)"/></p>
 <p>商品を紹介したけりゃ，Amazon を使うことをすぐに思い付く．例えばこれは Socialtunes が生成してくれる embed 用のコードを使った例だ．</p>

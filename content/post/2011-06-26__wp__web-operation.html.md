@@ -8,7 +8,7 @@ draft = false
 
 <p>18章の執筆者である濱崎健吾さまよりご献本をいただきまして、読むことができました！</p>
 <p><a href="http://www.oreilly.co.jp/books/9784873114934/">O&#8217;Reilly Japan &#8211; ウェブオペレーション</a></p>
-<p><a href="http://www.flickr.com/photos/june29/5868415410/" title="ウェブオペレーション by june29, on Flickr"><img src="http://farm4.static.flickr.com/3291/5868415410_9b6f435dfc_z.jpg" width="640" height="428" alt="ウェブオペレーション"></a></p>
+<p><a href="http://www.flickr.com/photos/june29/5868415410/" title="ウェブオペレーション by june29, on Flickr"><img src="http://farm4.static.flickr.com/3291/5868415410_9b6f435dfc_z.jpg" alt="ウェブオペレーション"></a></p>
 <h3>「まえがき」から</h3>
 <p>かっこよすぎて、もう。</p>
 <blockquote><p>

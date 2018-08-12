@@ -9,7 +9,7 @@ draft = false
 <p><a href="http://foursquare.com/" title="foursquare">foursquare</a> を利用する日本人ユーザが急速に増えている。きっかけは2010年1月18日の、このエントリでしょう。</p>
 <p><a href="http://www.ideaxidea.com/archives/2010/01/foursquare.html" title="Twitterの次はこれじゃね？今一番イケてる（と僕が思っている）『foursquare』について調べてみた - IDEA*IDEA ～ 百式管理人のライフハックブログ">Twitterの次はこれじゃね？今一番イケてる（と僕が思っている）『foursquare』について調べてみた &#8211; IDEA*IDEA ～ 百式管理人のライフハックブログ</a></p>
 <p>ボクは例によって「とりあえずアカウントだけ取得した」状態だった。確か TechCrunch Japan の<a href="http://jp.techcrunch.com/archives/20091118location-is-the-missing-link-between-social-networks-and-the-real-world/" title="「位置情報サービスってなにそれおいしいの？」に答えてみる">「位置情報サービスってなにそれおいしいの？」に答えてみる</a>を読んで foursquare に登録したのだったと思う。</p>
-<p><a href="http://www.flickr.com/photos/june29/4348096709/" title="foursquare by june29, on Flickr"><img src="http://farm5.static.flickr.com/4017/4348096709_1968593a23_o.png" width="320" height="363" alt="foursquare" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4348096709/" title="foursquare by june29, on Flickr"><img src="http://farm5.static.flickr.com/4017/4348096709_1968593a23_o.png" alt="foursquare" /></a></p>
 <p>「自分のまわりにユーザがいないと何も楽しめない」のは「他のユーザを友達登録して遊ぶ」ソーシャルなんちゃらの常で、しばらく放置していた。そして、この数週間の大流行だ。一気に foursquare 上での Friend が増えて、見える景色もずいぶんと変わった。</p>
 <p>よくある「ソーシャルなんちゃら」の特徴を持ち、誰もが難なく思い付く「モバイル端末からの位置情報ポスト」ができ、かつ「ゲームっぽい」要素が散りばめられた foursquare に触れていると、ここ数年に体験してきたソーシャル系アプリのことを想わずにはいられない。</p>
 <p>このエントリでは、各サービスや各アプリケーションの批評をしたいのではなくて、それらによって自分の生活、行動、思想にどういった影響があったのか、思い出しながら記録してみたい。きっと1年後には、ボクはまた別の新しいアプリケーションで遊んでいて、昔の気持ちを思い出したくなるはずだ。そのときのために記録する。</p>
@@ -19,11 +19,11 @@ draft = false
 <p>序文の中で「自分のまわりにユーザがいないと何も楽しめない」とは書いたものの、使い始めたときに実際にそう思ってはみたものの、実は foursquare はそうでもない。ひとりで使っていても、システムがそれなりに相手をしてくれる。foursquare を使えば使うほど Point が貯まるし、「おめでとう！あなたはこの地の Mayor (代表ユーザ) になりました！」とか「ついに Superstar の Badge (称号) を獲得しました！」などと、ユーザを「乗せて」くれるのだ(といっても今のところ Point をお金などに交換できそうな気配はない)。</p>
 <p>だからボクは foursquare を「ゲーム」と呼ぶ。</p>
 <p>付け加えて、<a href="http://itunes.apple.com/jp/app/foursquare/id306934924?mt=8" title="foursquare の iPhone アプリ">foursquare の iPhone アプリ</a>には Point のランキングを見せてくれるビューがあって、これまた上手にユーザを煽ってくれるので、ソーシャルゲームと呼ぶのもいいかもしれない。</p>
-<p><a href="http://www.flickr.com/photos/june29/4348983592/" title="The stats by june29, on Flickr"><img src="http://farm5.static.flickr.com/4033/4348983592_42e62402d4_o.png" width="320" height="459" alt="The stats" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4348983592/" title="The stats by june29, on Flickr"><img src="http://farm5.static.flickr.com/4033/4348983592_42e62402d4_o.png" alt="The stats" /></a></p>
 <p>さぁ、ボクと一緒にこのソーシャルゲームで遊ぼう！なーんて！</p>
 <p><a href="http://foursquare.com/user/june29" title="foursquare :: Jun O.">foursquare :: june29</a></p>
 <h3>brightkite と foursquare</h3>
-<p><a href="http://www.flickr.com/photos/june29/4348109031/" title="brightkite by june29, on Flickr"><img src="http://farm5.static.flickr.com/4032/4348109031_3b6bfcacc9_o.png" width="320" height="447" alt="brightkite" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4348109031/" title="brightkite by june29, on Flickr"><img src="http://farm5.static.flickr.com/4032/4348109031_3b6bfcacc9_o.png" alt="brightkite" /></a></p>
 <p>ボクは <a href="http://brightkite.com/" title="brightkite.com">brightkite.com</a> がとても好き。2008年11月21日に invitation を受け、ちょくちょくポストするようになったのは2009年の5月。かれこれ半年以上も愛用している。</p>
 <p>brightkite は「Twitter + 位置情報 + 写真」って感じで楽しむアプリケーションで、普段は行かない場所に行ったときとか、写真付きで何かを言いたいときは、<a href="http://itunes.apple.com/jp/app/brightkite/id294178808?mt=8" title="brightkite の iPhone アプリ">brightkite の iPhone アプリ</a>からポストを楽しんでいる。</p>
 <p>foursquare を楽しむようになって、brightkite へのポストは減った。「位置情報で遊ぶ」「iPhone で遊ぶ」あたりの特徴が重なるので、当然と言えば当然かも知れない。自分にどんな変化が起こったかを観察してみると面白い。</p>
@@ -42,7 +42,7 @@ draft = false
 <p><a href="http://www.tumblr.com/" title="Tumblr">Tumblr</a> は優しくて、とても好き。</p>
 <p>「Tumblr は、自分さえ楽しければ他に何も要らないってことを教えてくれた」って声を以前にどこかで見聞きしたような覚えがあって、ソースは見つけられなかったのだけれど、とにかくボクはこの声に共感している。</p>
 <p>foursquare の Mayor の仕組みは面白くて、新宿駅の Mayor になろうと思ったら(Mayor はひとつの場所にひとりなので)競争率が高くて相当な労力が必要になるけれど、誰もいないところを狙えば誰でも簡単に Mayor になれる。Friend の最近の Check in を眺めていると、みんなけっこう Mayor な場所を持っていて、画面に「王冠のアイコン」が踊っていて楽しい。ユーザのプロフィールページに Mayorship として表示されるのは、「最も頻繁に Check in している場所」ではなく、そのユーザが Mayor な場所である。頻度で場所をピックアップしてしまうと、多くのユーザのプロフィールページに「新宿駅」等のメジャースポットが並んでしまうが、そうではなく、より強くそのユーザを特徴付ける場所がプロフィールとして表示される。上手い。</p>
-<p><a href="http://www.flickr.com/photos/june29/4349142844/" title="foursquare by june29, on Flickr"><img src="http://farm3.static.flickr.com/2187/4349142844_b3c770cfb7_o.png" width="320" height="459" alt="foursquare" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4349142844/" title="foursquare by june29, on Flickr"><img src="http://farm3.static.flickr.com/2187/4349142844_b3c770cfb7_o.png" alt="foursquare" /></a></p>
 <p>地方ユーザの brightkite や Twitter に対する反応で「近くに他のユーザがいないとつまらない」という声を聞くことがある。foursquare にも同様のことが言えるかもしれないが、Mayor 制度がそういったユーザにも楽しみを与え得るんじゃないかな。「この地域に関しては俺が誰より詳しい！」を示せるユーザプロフィールページになっている。</p>
 <p>この「俺は俺で楽しいんだよ！」と、ユーザごとに自分の楽しみ方ができて、他のユーザの楽しみ方に大きく干渉しない仕組みは、Tumblr の楽しさを思い起こさせてくれた。</p>
 <h3>成長期として見る foursquare</h3>
@@ -55,7 +55,7 @@ draft = false
 <p>じゃあ、データが集まったあとはどうしようか。たとえば、iPhone から位置情報に応じたデータを閲覧できるビューアを用意してみようか。そこに広がる景色は、<a href="http://itunes.apple.com/jp/app/id320987601?mt=8" title="セカイカメラ">セカイカメラ</a>が目指した世界なのかもしれない。ボクはまだ試せていないのだけれど、ビューアとして使えそうな <a href="http://codebutler.github.com/foursquarex/" title="FoursquareX">FoursquareX</a> という Mac OS X 用の foursquare クライアントもすでに存在している。「何か」が一気にひっくり返る瞬間は、そう遠い未来ではないだろう。</p>
 <h3>ソーシャルなんちゃらは「便利なもの」か「楽しいもの」か</h3>
 <p>このブログで、これまでにも何度かソーシャルなんちゃらの「便利さ」と「楽しさ」について書いてきた。</p>
-<p><a href="http://www.flickr.com/photos/june29/4348853624/" title="2010/02/11 22:45 by june29, on Flickr"><img src="http://farm3.static.flickr.com/2791/4348853624_dec263d121_o.png" width="320" height="480" alt="2010/02/11 22:45" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4348853624/" title="2010/02/11 22:45 by june29, on Flickr"><img src="http://farm3.static.flickr.com/2791/4348853624_dec263d121_o.png" alt="2010/02/11 22:45" /></a></p>
 <p>ユーザが生成するデータから「便利さ」につながるような「価値」を捻出するためには、ある程度の「量」が必要となる。では、その量をどのようにして集めるか。「あなたがデータを生成してくれさえすれば、これだけ便利になるんです」と懇願するか、「楽しんで使ってもらう」ことでデータが生成される仕組みを作るか、大きく2つの方法がある。そんな風に考えることもある。</p>
 <p>だけれども、今のボクは「楽しんで使ってもらう」そのこと自体に大きな価値があるととらえている。そして、楽しそうにしている人がいる「場」には、自然と人が集まってくるものだ。成功しているソーシャルなんちゃらは、例外なくそういった「場」を生み出している。</p>
 <p>ボクが研究室に在籍していた頃、2004年ぐらい。「Web をもっと便利にしよう」みたいな大きな流れがあった。Web を研究対象として見ていたらから、そう感じていたのかもしれない。当時、「集合知」という言葉をよく見聞きした。また、「衆愚」という言葉も同じくらい見聞きした。</p>

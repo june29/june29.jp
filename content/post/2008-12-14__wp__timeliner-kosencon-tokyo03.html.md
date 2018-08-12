@@ -12,8 +12,8 @@ draft = false
 <p>以上が前置きです．そんなわけで，タイムライン化してみました．</p>
 <p><del>TimeLiner::KosenConferenceTokyo03 (重いのでご注意を)</del><br />
 <ins datetime="2011-04-07T14:30:19+00:00">ファイルを消してしまいました</ins></p>
-<p><img src="http://img.skitch.com/20081214-xtuwibf19yu15kpc8i4pgqrxmh.png" width="698" height="466" alt="TimeLiner::KosenConferenceTokyo03" /><br />
-<img src="http://img.skitch.com/20081214-qekmgrwnme2519n4k2pns4xcaj.png" width="698" height="466" alt="TimeLiner::KosenConferenceTokyo03" /></p>
+<p><img src="http://img.skitch.com/20081214-xtuwibf19yu15kpc8i4pgqrxmh.png" alt="TimeLiner::KosenConferenceTokyo03" /><br />
+<img src="http://img.skitch.com/20081214-qekmgrwnme2519n4k2pns4xcaj.png" alt="TimeLiner::KosenConferenceTokyo03" /></p>
 <p class="photo-caption">こんな感じに見えます</p>
 <h3>時間軸でデータを紐付ける</h3>
 <p>見ての通り何も難しいことはしていなくて，画面の上から下に向けて時間軸を取り，Twitter，Flickr，Ustream の IRC のログを並べているだけです．それでも，どの発表のときにどんな反応があって，そこにどんな景色があったのか分かって，なかなか面白い気付きが得られました．自分の発表に対する反応も見られたのでよかったです．まちゅさんのエントリでは折れ線グラフも見られます．</p>

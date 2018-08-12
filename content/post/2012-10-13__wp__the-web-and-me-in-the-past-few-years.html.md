@@ -8,16 +8,16 @@ draft = false
 
 <p>どうも、アラサー独身男性のじゅーんです！最近、平成生まれの子に罵られることが少しずつ増えてきていて、また、年上男性好きの女の子のことを「昭和専」と呼ぶことがあると知って愕然としました。</p>
 <p>いつまでも「自分は若い！」と思っていたくても、時の流れは留まることを知らず、もう若い子を相手に若さで対抗しても仕方がないと気が付きましたので、中途半端に長く生きてきてしまった自分ならではの感性でこのエントリを書いてみたいと思います。</p>
-<p><img src="http://farm4.staticflickr.com/3007/2294861091_bf2a277153.jpg" width="500" height="375" alt="転落人生"></p>
+<p><img src="http://farm4.staticflickr.com/3007/2294861091_bf2a277153.jpg" alt="転落人生"></p>
 <h3>ウェブとぼくの10年</h3>
 <p>ときは、2012年。今から10年前というと、2002年です。「世紀末〜！」とか「ミレニアム〜！」とか騒いでいた時期も落ち着いてきた頃。</p>
 <p>さて、ウェブのここ10年は、というと。これは、2〜3年前に、とあるプロジェクトを進めていたときに整理した図です。いくつかのウェブアプリケーションを「開始年」で整理してあります。</p>
-<p><img src="https://img.skitch.com/20100719-88pp99y6ajw2xtm53k3rsaip5r.png" alt="The Trend Of The Web" width="600"></p>
+<p><img src="https://img.skitch.com/20100719-88pp99y6ajw2xtm53k3rsaip5r.png" alt="The Trend Of The Web"></p>
 <p>現在のぼくが毎日の中で使用している iPhone というデバイスは、2002年には存在せず、この図でいうと「Google Maps」「Gmail」「YouTube」「Twitter」「Facebook」「GitHub」「Dropbox」も、まだ生まれていないわけです。今の自分からすると、10年前の自分がどのように生活していたのか、いまいち思い出せない感じです。今の毎日を支えているものがなさすぎて、それこそ「水道も電気もガスもない世界」と言われてしまうような感覚に近いものがあります。</p>
 <p>それくらい、この世界の、この業界の「10年」というのは、劇的な変化とともにあるのだとあらためて認識させられます。</p>
 <h3>劇的変化は直線的だろうか</h3>
 <p>さて、ここから、表題にも掲げた「揺り戻し」に触れていきましょう。前節で述べた「世界の劇的変化」は、過去から未来に向かって直線的に起こっているのでしょうか。ぼくは「NO」と感じています。ある軸で見たときには、端と端の間をいったりきたりしているようにも感じられますし、また別の軸で見たときには、同じところをぐるぐると巡っているようにも見えます。</p>
-<p><a href="http://www.flickr.com/photos/june29/3372513508/" title="モクモク ワクワク ヨコハマ ヨーヨー by june29, on Flickr"><img src="http://farm4.staticflickr.com/3438/3372513508_a8367955b8.jpg" width="500" height="333" alt="モクモク ワクワク ヨコハマ ヨーヨー"></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3372513508/" title="モクモク ワクワク ヨコハマ ヨーヨー by june29, on Flickr"><img src="http://farm4.staticflickr.com/3438/3372513508_a8367955b8.jpg" alt="モクモク ワクワク ヨコハマ ヨーヨー"></a></p>
 <p>ここで、お友だちのツイートを引用します。</p>
 </p>
 <blockquote class="twitter-tweet">
@@ -40,7 +40,7 @@ draft = false
 <p>ウェブ時代になって、たしかに好きなときに好きな動画コンテンツを視聴できるようになったけれども、身のまわりで誰も観ていないようなものを観るだけだと、話題にできなくてつまらないなぁと思います。音楽に関してもそう。「好きなときに好きなものを」に価値を感じていたはずなのに、その先には <a href="http://turntable.fm/" title="Turntable">Turntable.fm</a> や <a href="http://www.picotube.tv/" title="PicoTube: Video Party Anytime.">PicoTube</a> や「<a href="http://pigg.ameba.jp/">アメーバピグ</a>のピグチャンネル」で、わざわざ同じ時間に同じものを消費して盛り上がっているわけじゃないですか。これは揺り戻しだなぁ、と。人類全体で、あっちにいったりこっちにいったりしている感じ、あります。</p>
 <p>絶対的に「こっちの方が楽しいぜー」なんてものは、なくて、相対的に「今までとは違って新しいんだぜー」という興奮が時代をこえて続いているだけなのかなぁ、と思いました。</p>
 <h3>もう一度「Web 2.0」の夢を見るのか</h3>
-<p><a href="http://www.flickr.com/photos/june29/5439680039/" title="iPhone 4 by june29, on Flickr"><img src="http://farm5.staticflickr.com/4081/5439680039_08d6c52fec.jpg" width="500" height="334" alt="iPhone 4"></a></p>
+<p><a href="http://www.flickr.com/photos/june29/5439680039/" title="iPhone 4 by june29, on Flickr"><img src="http://farm5.staticflickr.com/4081/5439680039_08d6c52fec.jpg" alt="iPhone 4"></a></p>
 <p>ここまでは「自分の生活がどう変わったか」「文化はどう変わったか」みたいなお話を書きましたが、最後に、ちょっとだけテクノロジーのお話をします。</p>
 <p>ぼくが「うわー」という気持ちで読んだのが「<a href="http://www.icr.co.jp/newsletter/report_tands/2012/s2012TS277_3.html" title="アプリの終わりの始まり">アプリの終わりの始まり</a>」というエントリです。10年前になくて、現在では当たり前になっているもののひとつが「スマートフォンアプリ」です。リンク先は、スマートフォンアプリについてのお話なので、興味のある人はぜひ読んでみてください。</p>
 <blockquote><p>

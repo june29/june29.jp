@@ -12,12 +12,12 @@ draft = false
 <p>さすがに皆勤賞ともなると，けっこうな数の顔見知りがいたなぁ．今になって参加者リストを見てみると，id を見て顔の浮かぶ人が40人くらいいる．これってつまり，高専の1クラス分くらいの仲間が見つかったってことだ．すごいなぁ．</p>
 <h3>実行委員のみんな</h3>
 <p>皆さんの働きが本当に素晴らしい．それぞれに自分の役割を持っていて，常に求められる以上の仕事をこなす皆さんはなんなんだろう… とか思っちゃうくらい．ボクは自分の LT の準備で精一杯で，事前準備も当日のお仕事でもあまり貢献できなかったというのに，バリバリ働きながら15分発表までこなしちゃう人がいるんだから恐ろしいよ！</p>
-<p><a href="http://www.flickr.com/photos/june29/3088396371/" title="朝会 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3070/3088396371_abe63cf673.jpg" width="500" height="334" alt="朝会" /></a></p>
-<p><a href="http://www.flickr.com/photos/june29/3088397767/" title="会場設営 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3080/3088397767_fc88124c61.jpg" width="500" height="334" alt="会場設営" /></a></p>
-<p><a href="http://www.flickr.com/photos/june29/3088398113/" title="会場設営 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3264/3088398113_35b6527da6.jpg" width="500" height="333" alt="会場設営" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3088396371/" title="朝会 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3070/3088396371_abe63cf673.jpg" alt="朝会" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3088397767/" title="会場設営 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3080/3088397767_fc88124c61.jpg" alt="会場設営" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3088398113/" title="会場設営 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3264/3088398113_35b6527da6.jpg" alt="会場設営" /></a></p>
 <p><a href="http://twitter.com/maccha">まっちゃ</a>さんがね，何度か「こういうのは準備中が楽しい」とか，そんなことを言っていて，解散から半日以上経った今，そうだなぁって思うよ．ちょっと寂しさを感じ始めていたり．ミーティングも楽しかったなぁ．今後も，特にイベントとかなくても，集まるようなタイミングがあれば誘ってください．</p>
 <p><a href="http://twitter.com/ZoAmichi">@ZoAmichi</a>くんと<a href="http://twitter.com/mumami">mumami</a>くん．君たちに出会えてよかった．「北海道内高専出身の1983年生まれ」という共通点で，もう思い出せないくらい地味な出会いを果たし，なんとなくノリで飲みに誘ってみたりしたのだった．君たちを実行委員に引き入れたことは，ボクの手柄のひとつだと勝手に思っているよ．高専カンファレンスに新しい風を，どうもありがとう．これからは，友達として飲みに誘うよ．他にも高専卒の1983年生まれ，いっぱい見つかったね．</p>
-<p><a href="http://www.flickr.com/photos/kawataso/3089580214/" title="1983 by kawataso"><img src="http://farm4.static.flickr.com/3083/3089580214_388684ba6e.jpg" width="500" height="333" alt="1983" /></a></p>
+<p><a href="http://www.flickr.com/photos/kawataso/3089580214/" title="1983 by kawataso"><img src="http://farm4.static.flickr.com/3083/3089580214_388684ba6e.jpg" alt="1983" /></a></p>
 <p class="photo-caption">Taken by <a href="http://www.flickr.com/photos/kawataso/">kawataso</a></p>
 <h3>ジョジョ好き</h3>
 <p>スタンド使い同士は引かれ合うッ！ジョジョ好きは見つかったようだぜ…</p>

@@ -7,15 +7,15 @@ draft = false
 +++
 
 <p>先月末，学会に参加してきました．そして，人生初となる学会発表をこなしました．ようやく大学院生っぽい生活になってきましたよ．「学部5年生」はもう卒業です．</p>
-<p><a href="http://www.flickr.com/photos/june29/202210064/" title="Photo Sharing"><img src="http://static.flickr.com/61/202210064_a020d39bdf.jpg" width="500" height="375" alt="東京工業大学 大岡山キャンパス" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/202210064/" title="Photo Sharing"><img src="http://static.flickr.com/61/202210064_a020d39bdf.jpg" alt="東京工業大学 大岡山キャンパス" /></a></p>
 <p>場所は東京工業大学大岡山キャンパス．スーツ姿のボクは東京の暑さにすっかりやられてしまいました．日程は2日間で，ボクの発表は2日目．出発までに発表資料を完成させられなかったボクは，初日の夜にホテルで資料を直していたのでした．きちんと準備ができていれば，ホテルのすぐ目の前に広がる渋谷の街を楽しめたのになぁ．一緒に学会に参加した研究室の仲間と2人，夜ゴハンのときも必死でビールをガマンしました．でも結局…寝る前にちょっとだけお酒を飲みました．ホテルの部屋で乾杯です．あれだけ暑い中で追い詰められたら，アルコールに逃げたくもなりますよ！</p>
-<p><a href="http://www.flickr.com/photos/june29/202210975/" title="Photo Sharing"><img src="http://static.flickr.com/78/202210975_17f09b7cfb.jpg" width="500" height="375" alt="冷し中華" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/202210975/" title="Photo Sharing"><img src="http://static.flickr.com/78/202210975_17f09b7cfb.jpg" alt="冷し中華" /></a></p>
 <p>さて，いよいよ2日目です．ボクの直前が仲間の発表でした．彼は素晴らしい発表をしていました．ボクは相当緊張していたのですが，仲間が質疑応答のときに他の参加者から「面白い！」と言われているのを見て一気に覚悟が決まりました．「ボクも面白いと言ってもらえるような発表をしよう！」と思いました．</p>
 <p>あとから思い返してみて，今回の学会は自分なりに合格点を与えられる結果と言えます．学会の雰囲気も分かりましたし，人脈も広がりました．研究に関して，この分野の日本代表のような人たちからありがたい意見もたくさんいただきました．参加してよかったです．次に参加するイベントは今月末のサマースクールです．今回以上に多くの人に研究を認めてもらえるように，今後の研究活動に励んでいきたいです．</p>
 <p>学会終了後，一緒に参加した仲間と，それから学会会場に駆けつけてくれた先輩と3人で少しだけ東京観光を楽しみました．先輩がおごってくれたビールは特別に美味しかった！ごちそうさまでした！典型的な田舎者行動を取りながら，品川辺りをプラプラしました．</p>
-<p><a href="http://www.flickr.com/photos/june29/202211346/" title="Photo Sharing"><img src="http://static.flickr.com/70/202211346_f377d8869c.jpg" width="500" height="375" alt="カツカレー大盛り" /></a><br />
-<a href="http://www.flickr.com/photos/june29/202211816/" title="Photo Sharing"><img src="http://static.flickr.com/65/202211816_36344cb5d9.jpg" width="500" height="375" alt="品川" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/202211346/" title="Photo Sharing"><img src="http://static.flickr.com/70/202211346_f377d8869c.jpg" alt="カツカレー大盛り" /></a><br />
+<a href="http://www.flickr.com/photos/june29/202211816/" title="Photo Sharing"><img src="http://static.flickr.com/65/202211816_36344cb5d9.jpg" alt="品川" /></a></p>
 <p>札幌に戻ってきて，ささやかな打ち上げをしました．串を食べながら乾杯です．開放感というスパイスがよくきいていて格別に美味かったなぁ！</p>
-<p><a href="http://www.flickr.com/photos/june29/202212846/" title="Photo Sharing"><img src="http://static.flickr.com/61/202212846_f85b27bd21.jpg" width="500" height="375" alt="串" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/202212846/" title="Photo Sharing"><img src="http://static.flickr.com/61/202212846_f85b27bd21.jpg" alt="串" /></a></p>
 <p>発表資料を作り始めてから発表本番を終えるまでの約1週間．本当に大変でスケジュールも気持ちもいっぱいいっぱいでした(…その割にはなんだかんだでけっこうアルコールを採っているなぁ)．</p>
 <p>とても良い経験をさせてもらいました！研究室の皆さんに感謝です．モチベーションも上がったことですし，次も1発やらかしてきます！なんだかすでにムリっぽいですが，次回は事前準備をしっかりして観光も楽しみたい！</p>

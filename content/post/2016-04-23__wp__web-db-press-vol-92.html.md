@@ -8,7 +8,7 @@ draft = false
 
 <h3>久しぶりの記事執筆</h3>
 <p>本日、2016年4月23日発売の <a href="http://www.amazon.co.jp/dp/4774180548/">WEB+DB PRESS Vol.92</a> に、弊社ペパボのみなさんと書いた記事が載っています。特集1の「Web開発新人研修 ── 手を動かして学ぶ開発の全体像」がそれになります。どうぞよろしくお願いします。</p>
-<p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/june29/25988353464/in/datetaken/" title="Untitled"><img src="https://farm2.staticflickr.com/1619/25988353464_fe7f789bbc_z.jpg" width="640" height="480" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+<p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/june29/25988353464/in/datetaken/" title="Untitled"><img src="https://farm2.staticflickr.com/1619/25988353464_fe7f789bbc_z.jpg" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 <p>他の執筆メンバーからも告知が出ているので紹介。</p>
 <ul>
 <li><a href="http://tech.pepabo.com/2016/04/22/web-db-press-vol-92/">WEB+DB PRESS Vol.92に寄稿しました! &#8211; ペパボテックブログ</a></li>

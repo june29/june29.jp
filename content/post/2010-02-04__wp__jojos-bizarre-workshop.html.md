@@ -41,5 +41,5 @@ draft = false
 <img src="http://img.skitch.com/20100206-rjjrb1y6b3qb79d5ncteywtga7.png" alt="june29の発表ハンパなかった！"/></p>
 <p>最後に、お互いのスタンド… ではなく「GREE さんで余っていた T シャツ」を賭けたジャンケン大会がありました！なぜジョジョ T シャツが「余っている」のかと聞いているんだ承太郎ッ！</p>
 <p>不思議な話なんですが、このジャンケン大会… 自分が「出すべき手」に迷いがなくて、運命に導かれるままに手を出していたら T シャツをゲットできちゃいました… あの感覚はなんだったんだろう…。</p>
-<p><a href="http://www.flickr.com/photos/june29/4299806675/" title="エンジニアのためのJOJO勉強会 by june29, on Flickr"><img src="http://farm3.static.flickr.com/2714/4299806675_2dea33021f_m.jpg" width="161" height="240" alt="エンジニアのためのJOJO勉強会" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4299806675/" title="エンジニアのためのJOJO勉強会 by june29, on Flickr"><img src="http://farm3.static.flickr.com/2714/4299806675_2dea33021f_m.jpg" alt="エンジニアのためのJOJO勉強会" /></a></p>
 <p>勉強会のあとに懇親会があり、一晩かけてジョジョ愛を語り合うディ・モールトグラッツェなイベントでした！どうもありがとうございましたァン！</p>

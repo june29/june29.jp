@@ -8,7 +8,7 @@ draft = false
 
 <p>2012年6月2日(土)、みなとRuby会議01に参加してきました。とても楽しかった！</p>
 <p><a href="http://regional.rubykaigi.org/minato01" title="みなとRuby会議01 - Regional RubyKaigi">みなとRuby会議01 &#8211; Regional RubyKaigi</a></p>
-<p><a href="http://www.flickr.com/photos/sora_h/7320375866/" title="P6024733 by sora_h, on Flickr"><img src="http://farm9.staticflickr.com/8147/7320375866_a57723ee4a_z.jpg" width="640" height="480" alt="P6024733"></a></p>
+<p><a href="http://www.flickr.com/photos/sora_h/7320375866/" title="P6024733 by sora_h, on Flickr"><img src="http://farm9.staticflickr.com/8147/7320375866_a57723ee4a_z.jpg" alt="P6024733"></a></p>
 <p>そらはー先輩が撮ってくれた写真を見ての通り、すごく… 森Ruby会議です…</p>
 <h3>参加に至るまで</h3>
 <p>一時期、<a href="http://twitter.com/hokkai7go" title="ほっかい (hokkai7go) on Twitter">実はhokkai7goの中の人</a>が元気なさそうにしている様子が伺えて、だいぶ心配していて。「ごはんでも行こう！」と声をかけたものの、そのときはタイミングが合わずにお話が流れてしまったのですね。すまんのう…。</p>
@@ -22,7 +22,7 @@ draft = false
 <p>2人ずつのペアを組むように指示があって、@okitan さんの提案で「エディタで分けてみよう」ということになりました。幸い Vim が2人と Emacs が2人でしたので、見事にパキッとペアができました。ぼくは @okitan さんとご一緒しました。テーマは「あみだくじ」を選びました。制限時間は60分間。よーい、ドン！</p>
 <p>ペア分けの時点で「わあ、@okita さん、頭いい…！」と思っておりましたので、ペアプロの車中から放り出されないように必死についていこうと思って、内心かなり焦っておりました！それでも、5分、10分と肩を並べてコードを書いていると、だんだんと思考のプロセスを共有できるようになり、終盤はかなりテンション高めにペアプロできていたように思います。ちゃんと「あみだくじ」を生成できるコードになりましたしね！とっても楽しかったです。相手が @okitan さんでよかった、感謝！</p>
 <p><a href="https://gist.github.com/2856957" title="By @okitan and @june29 on http://regional.rubykaigi.org/minato01 — Gist">By @okitan and @june29 on http://regional.rubykaigi.org/minato01 — Gist</a></p>
-<p><img src="http://distilleryimage2.s3.amazonaws.com/6bd0251cac7511e180c9123138016265_7.jpg" alt="amida.rb" width="612" height="612" /></p>
+<p><img src="http://distilleryimage2.s3.amazonaws.com/6bd0251cac7511e180c9123138016265_7.jpg" alt="amida.rb" /></p>
 <h3>ソーシャルコーディングとは</h3>
 <p>たっぷりたぷたぷペアプロを楽しんだあとのお話なんですが、はたして「これはソーシャルコーディングだったのか」という点について考えてみました。紛れもなく「ペアプログラミング」ではあったと感じているのですが、ソーシャルコーディングだったのだろうか。</p>
 <p>高橋会長の<a href="http://jp.rubyist.net/magazine/?0036-ForeWord" title="Rubyist Magazine - 0036 号 巻頭言">Rubyist Magazine &#8211; 0036 号 巻頭言</a>を読んでみたり、松田さんの <a href="https://speakerdeck.com/u/a_matsuda/p/object-oriented-social-coding-scripting-language-ruby" title="object-oriented social coding scripting language Ruby // Speaker Deck">object-oriented social coding scripting language Ruby</a> と <a href="https://speakerdeck.com/u/a_matsuda/p/social-coding" title="Social Codingの世界 // Speaker Deck">Social Codingの世界</a>をめくってみたり、さらには、高橋会長と松田さんによる共著の<a href="http://gihyo.jp/magazine/wdpress/archive/2009/vol48" title="WEB+DB PRESS Vol.48｜gihyo.jp … 技術評論社">WEB+DB PRESS Vol.48 「モダン」はRuby on Railsのあとからついてくる</a>も引っぱり出してきて読んでみたりしました。</p>

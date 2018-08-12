@@ -8,7 +8,7 @@ draft = false
 
 <p>近況報告エントリです．弊社もコツコツ地道に前進を続けていまして，最近は嬉しい出来事が続いたので書き記しておきます．久しぶりに会った友達に「ブログ見てるよー！」なんて言われると嬉しいものですね．意外と見てくれている人もいるようなので，元気にしているよってことも積極的に発信していこうと思います．</p>
 <h3>Tech Venture 2009</h3>
-<p><a href="http://www.flickr.com/photos/june29/3402353178/" title="Tech Venture 2009 準グランプリ by june29, on Flickr"><img src="http://farm4.static.flickr.com/3610/3402353178_1f7f3845fb.jpg" width="500" height="334" alt="Tech Venture 2009 準グランプリ" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3402353178/" title="Tech Venture 2009 準グランプリ by june29, on Flickr"><img src="http://farm4.static.flickr.com/3610/3402353178_1f7f3845fb.jpg" alt="Tech Venture 2009 準グランプリ" /></a></p>
 <p><a href="http://japan.cnet.com/techventure/2009/" title="Tech Venture 2009：Top - CNET Japan">Tech Venture 2009：Top &#8211; CNET Japan</a></p>
 <p><a href="http://cnetnetworks.jp/" title="CNET Networks Japan | Home -">シーネットネットワークスジャパン</a>主催によるコンテストである Tech Venture にて，弊社が準グランプリに選ばれました．代表も嬉しそうにしていたし，それを感じてボクも嬉しかったです．代表お疲れさまでした．</p>
 <h3>IT-PLUS : おすすめのススメ 成功するレコメンドとは</h3>

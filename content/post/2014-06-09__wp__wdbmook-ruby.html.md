@@ -22,7 +22,7 @@ draft = false
 <p>今回も <a href="https://twitter.com/kei_s" title="kei-s (kei_s) on Twitter">@kei_s</a> と共同作業しまして、執筆に入る時点で解析用のデータをすべて採取し直して、できるかぎり最新のデータを用いて RubyGems の世界を探検しています。2012年4月24日に発売された WEB+DB PRESS Vol.68 のときと少し景色も変わっているので、お手元に Vol.68 がある人は、差分を楽しんでもらうのもよいのでは、と思います。</p>
 <p>こうして書籍の情報が出たのを受けて、執筆陣の名前の並びに自分がいるのは本当に変な感じがするなぁ…。研究室の先輩だった <a href="https://twitter.com/mrkn" title="老害エンジニアの中の若手, Ph.D (mrkn) on Twitter">@mrkn</a> 先輩に誘われて Ruby のこともよくわからないまま Ruby 札幌の勉強会に参加した当時の自分に、この本に記事を載せてもらったよ〜って言っても信じてくれないだろうよ。</p>
 <p>引き続き、Ruby に感謝しながらプログラマとして生きていきたいと思います。がんばろっと。</p>
-<p><img src="http://photos-h.ak.instagram.com/hphotos-ak-xap1/926778_529602527162671_1901726394_n.jpg" alt="Ruby徹底攻略" width="640" height="640" /></p>
+<p><img src="http://photos-h.ak.instagram.com/hphotos-ak-xap1/926778_529602527162671_1901726394_n.jpg" alt="Ruby徹底攻略" /></p>
 <p>というわけで、この本をどうぞよろしくお願いします。いい記事がいっぱいなので、どうか手に取っていただけましたらと！</p>
 <p>購入に際しましては、「ルビー 徹底攻略」で検索して、誤ってポケモンの攻略本を買ってしまわぬよう、充分に注意していただきたいです。</p>
 <blockquote class="twitter-tweet" lang="en">

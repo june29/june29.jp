@@ -14,7 +14,7 @@ The industry’s first open platform as a service. Run your Spring, Rails and No
 <p><img src="http://img.skitch.com/20110423-n4ykcgq31et1fxfu8pu94289d8.png" alt="Welcome to Cloud Foundry" /></p>
 <p>今回は Rails アプリ、Sinatra アプリ、Node アプリのデプロイを試してみました。ソースコード一式を GitHub においてあります。</p>
 <p><a href="https://github.com/june29/cloudfoundry-samples">june29/cloudfoundry-samples &#8211; GitHub</a></p>
-<p><a href="http://www.flickr.com/photos/june29/5645541784/" title="GitHub Mug by june29, on Flickr"><img src="http://farm6.static.flickr.com/5110/5645541784_0c5b55de3d_z.jpg" width="640" height="428" alt="GitHub Mug"></a></p>
+<p><a href="http://www.flickr.com/photos/june29/5645541784/" title="GitHub Mug by june29, on Flickr"><img src="http://farm6.static.flickr.com/5110/5645541784_0c5b55de3d_z.jpg" alt="GitHub Mug"></a></p>
 <p>(写真は本文と関係ありません。手に入って嬉しかったので載せました)</p>
 <h3>準備</h3>
 <p>コマンドラインのクライアントを gem でインストールしました。</p>

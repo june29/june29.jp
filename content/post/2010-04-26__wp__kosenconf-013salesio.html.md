@@ -7,10 +7,10 @@ draft = false
 +++
 
 <p>通算11回目の開催となる<a href="http://kosenconf.jp/013salesio" title="高専カンファレンス in サレジオ - 高専カンファレンス Wiki">高専カンファレンス in サレジオ</a>に参加してきました。今回は発表者としての参加でした。</p>
-<p><a href="http://www.flickr.com/photos/june29/4551010607/" title="サレジオ工業高等専門学校 by june29, on Flickr"><img src="http://farm5.static.flickr.com/4050/4551010607_951618b31f.jpg" width="500" height="334" alt="サレジオ工業高等専門学校" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4551010607/" title="サレジオ工業高等専門学校 by june29, on Flickr"><img src="http://farm5.static.flickr.com/4050/4551010607_951618b31f.jpg" alt="サレジオ工業高等専門学校" /></a></p>
 <p>会場に到着したボクらを魅了したのは、サレジアンホールという素晴らしい会場だ。校舎もとにかくキレイだった。</p>
-<p><a href="http://www.flickr.com/photos/june29/4551012225/" title="高専カンファレンス in サレジオ by june29, on Flickr"><img src="http://farm5.static.flickr.com/4070/4551012225_922d42e5b5.jpg" width="500" height="334" alt="高専カンファレンス in サレジオ" /></a></p>
-<p><a href="http://www.flickr.com/photos/june29/4551018451/" title="高専カンファレンス in サレジオ by june29, on Flickr"><img src="http://farm5.static.flickr.com/4066/4551018451_e35d266255.jpg" width="500" height="334" alt="高専カンファレンス in サレジオ" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4551012225/" title="高専カンファレンス in サレジオ by june29, on Flickr"><img src="http://farm5.static.flickr.com/4070/4551012225_922d42e5b5.jpg" alt="高専カンファレンス in サレジオ" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4551018451/" title="高専カンファレンス in サレジオ by june29, on Flickr"><img src="http://farm5.static.flickr.com/4066/4551018451_e35d266255.jpg" alt="高専カンファレンス in サレジオ" /></a></p>
 <p>そのあまりのキレイさに心を洗われて、懺悔を始める者すらあったという。</p>
 <p><a href="http://www.flickr.com/photos/zoamichi/4547414536/" title="懺悔 on Flickr - Photo Sharing!"><img src="http://farm5.static.flickr.com/4053/4547414536_d6039cfa21.jpg" alt="懺悔" /></a></p>
 <p class="photo-caption">(Taken by <a href="http://www.flickr.com/photos/zoamichi/" title="Flickr: ZoAmichi's Photostream">ZoAmichi</a>)</p>
@@ -22,7 +22,7 @@ draft = false
 <p class="photo-caption">(Taken by <a href="http://www.flickr.com/photos/45689141@N03/" title="Flickr: dachiba's Photostream">dachiba</a>)</p>
 <p>開催までのフローも面白かった。サレジオの実行委員の皆さんはなかなかにアグレッシブで、がしがしと前に突き進んでくれる。たまに危なっかしい場面もあったりして、そのときには年寄りのボクらが慌ててフォローするという、なんとも健全な流れがあった。楽しかったです。若い子に勢いがあるのはいいことだなあ。</p>
 <p>発表について、ほんの少し。種類として面白かった(内容も、もちろん)のが、三三株式会社の「企業の発表」と、シロズさんの「学会発表っぽい発表」だ。これまでの高専カンファレンスではお目にかかることのなかった風景がそこにはあった。コンテンツの幅がグッと広がったように思う。それと、個人的に、シロズさんの発表が場に受け入れられていたのはとても嬉しくて、ボクも次は解析結果を披露するような発表を用意したいと思っている。</p>
-<p><a href="http://www.flickr.com/photos/june29/4551025203/" title="高専カンファレンス in サレジオ by june29, on Flickr"><img src="http://farm1.static.flickr.com/186/4551025203_828527cc70.jpg" width="500" height="334" alt="高専カンファレンス in サレジオ" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4551025203/" title="高専カンファレンス in サレジオ by june29, on Flickr"><img src="http://farm1.static.flickr.com/186/4551025203_828527cc70.jpg" alt="高専カンファレンス in サレジオ" /></a></p>
 <p>さて、様々な新しい風が吹き込んだサレジオでの高専カンファレンス。これから高専カンファレンスはどこに向かい、ボクらは次にどんな景色を見るのだろう。この開催中にお話させていただいた人たちも、みんなそれぞれ未来の高専カンファレンス像を描いていた。何が良いとか何が悪いとか、ボクには言うことはできなくて、ただ、このカンファレンスが、それぞれが実現したいことを実現できる場所であり続けてほしいと願うばかりだ。</p>
 <h3>自分の発表</h3>
 <p>資料をアップしようかどうか迷っているところ…！</p>

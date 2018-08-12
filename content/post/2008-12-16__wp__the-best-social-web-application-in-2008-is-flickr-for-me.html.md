@@ -9,7 +9,7 @@ draft = false
 <p>2008年も残すところあと半月といったところで，書き溜めていた振り返りエントリを小出しにしますよ．</p>
 <p>11月にこんなタイトルを思い付いて，ちょっと胡散臭くて面白いなぁって自分で思った．でも確かに，今更だけど <a href="http://www.flickr.com/">Flickr</a> を楽しめた1年だったと思う．<a href="http://blog.stco.info/">しまださん</a>が泊まりに来てくれた夜も「Flickr 楽しいねー」って話が出て，ボクの想いは確固たるものとなった．</p>
 <p>改めて言おう．今年，最も面白かったソーシャルアプリは Flickr だ．</p>
-<p><a href="http://www.flickr.com/photos/june29/3095977829/" title="2008/12/10 08:53:57 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3041/3095977829_8f4235dd61.jpg" width="500" height="334" alt="2008/12/10 08:53:57" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/3095977829/" title="2008/12/10 08:53:57 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3041/3095977829_8f4235dd61.jpg" alt="2008/12/10 08:53:57" /></a></p>
 <p>ボクから見える Flickr を面白くしてくれているのは，もちろん <a href="http://www.flickr.com/people/june29/contacts/">Contact</a> の皆さんだ．例えばボクは <a href="http://www.flickr.com/photos/mio-spr/">mio-spr さん</a>の写真が大好きで，Flickr のホームに訪れて新着写真を見つける度に心が躍る．最近はカメラ好きのお友達もずいぶんと増えて，毎日毎日チェックしては，ステキな写真に出会い，Fav の小さな星を付ける．これが楽しい．</p>
 <p>そしてまた，自分が撮った写真も以前に増してたくさんアップロードするようになった．これは壊れていたレンズを直したから，とか，Flickr 自体とは関係のない要因もあるのだけれど，とにかくボクは Flickr に写真をアップするのが楽しくなった．</p>
 <h3>テキスト検索とイメージ検索</h3>

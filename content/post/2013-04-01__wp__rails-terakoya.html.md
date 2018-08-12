@@ -7,7 +7,7 @@ draft = false
 +++
 
 <p>2013年3月23日(土)に開催された<a href="http://rails.terakoya.io/" title="Rails寺子屋">Rails寺子屋</a>に、師範として参加してきました。</p>
-<p><img src="http://distilleryimage9.s3.amazonaws.com/d791ac62939211e2a9cf22000aaa0a6f_7.jpg" alt="Rails寺子屋ステッカー" width="612" height="612"></p>
+<p><img src="http://distilleryimage9.s3.amazonaws.com/d791ac62939211e2a9cf22000aaa0a6f_7.jpg" alt="Rails寺子屋ステッカー"></p>
 <h3>関わり</h3>
 <p><a href="http://d.hatena.ne.jp/tochigitestnokaigi/20121020/1342628221" title="とちぎテストの会議02">とちぎテストの会議02</a>の当日、会場に向かう新幹線の中で、@igaiga555 さんから「寺子屋ってのをやりたいんだよね〜」とお話を聞かせてもらったのがはじまりだったと思う。2012年10月20日(土)のこと。</p>
 <p>最初にお話を聴かせてもらったときは「なんとなく、やりたいことの雰囲気は想像できるのだけれど、ズームアップして細かいところを見ようとするとぼんやりしていて、解像度が足りない」と感じた。もしかしたら @igaiga555 さんの頭の中にはヴィヴィッドなイメージがあったのかもしれないけれど、少なくともぼくは自分の感覚で「会がうまくいっている様子」をいまいち想像できずにいた。</p>
@@ -32,10 +32,10 @@ draft = false
 <p>そらはー先輩とふたりで老害っぽくなってきた… <a href="https://twitter.com/search/%23terakoya">#terakoya</a></p>
 <p>— ✅ 大和田純 公式アカウント (@june29) <a href="https://twitter.com/june29/status/315290681855864833">March 23, 2013</a></p></blockquote>
 <p>そんなこんなで、割とアッッという間に時間は過ぎていきました。</p>
-<p><a href="http://www.flickr.com/photos/sora_h/8582577277/" title="P3233357 by sora_h, on Flickr"><img src="http://farm9.staticflickr.com/8368/8582577277_6b2611c9cb_z.jpg" width="640" height="480" alt="P3233357"></a></p>
+<p><a href="http://www.flickr.com/photos/sora_h/8582577277/" title="P3233357 by sora_h, on Flickr"><img src="http://farm9.staticflickr.com/8368/8582577277_6b2611c9cb_z.jpg" alt="P3233357"></a></p>
 <p>知らない間に、そらはー先輩にお尻を撮られておりました… 尻撮り…</p>
 <h3>プレゼントタイム</h3>
-<p><a href="http://www.flickr.com/photos/sora_h/8582586279/" title="P3233403 by sora_h, on Flickr"><img src="http://farm9.staticflickr.com/8385/8582586279_317f747382_z.jpg" width="640" height="480" alt="P3233403"></a></p>
+<p><a href="http://www.flickr.com/photos/sora_h/8582586279/" title="P3233403 by sora_h, on Flickr"><img src="http://farm9.staticflickr.com/8385/8582586279_317f747382_z.jpg" alt="P3233403"></a></p>
 <p>各師範たちが、自身の著書などを持ち寄って参加者のみなさんに贈りつける「プレゼントタイム」があったので、ぼくからは「たのしい開発」という特集を載せてもらった <a href="http://www.amazon.co.jp/dp/4774155071/" title="Amazon.co.jp： WEB+DB PRESS Vol.73: 設樂 洋爾, 白土 慧, 奥野 幹也, 佐藤 鉄平, 後藤 秀宣, mala, 中島 聡, 堤 智代, 森田 創, A-Listers, はまちや2, 大和田 純, 松田 明, 後藤 大輔, ひろせ まさあき, 小林 篤, 近藤 宇智朗, まかまか般若波羅蜜, Mr. O, WEB+DB PRESS編集部: 本">WEB+DB PRESS Vol.73</a> と、某模型会社のTシャツ3枚を用意しました。喜んでもらえたみたいでよかったな。</p>
 <blockquote class="twitter-tweet">
 <p><a href="https://twitter.com/search/%23terakoya">#terakoya</a> の参加者に <a href="https://twitter.com/search/%23wdpress">#wdpress</a> Vol.73 をプレゼントしました〜！たのしく読んでもらえるといいな。</p>

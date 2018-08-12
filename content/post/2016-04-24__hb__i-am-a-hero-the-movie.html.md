@@ -32,7 +32,7 @@ original_url = "http://june29.hatenablog.jp/entry/i-am-a-hero-the-movie"
 
 <p>原作の<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%A2%A5%A4%A5%A2%A5%E0%A5%A2%A5%D2%A1%BC%A5%ED%A1%BC">アイアムアヒーロー</a>の1巻が出たのは、2009年8月なんですね。もう7年近く連載している作品。ぼくは、9巻まで出ているころにこの作品を知って、そこからずっと読み続けています。<a class="keyword" href="http://d.hatena.ne.jp/keyword/%B2%D6%C2%F4%B7%F2%B8%E3">花沢健吾</a>さんの<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%DC%A1%BC%A5%A4%A5%BA%A1%A6%A5%AA%A5%F3%A1%A6%A5%B6%A1%A6%A5%E9%A5%F3">ボーイズ・オン・ザ・ラン</a>はぜんぶ読んでいて、<a href="http://botr.jp/" title="青春はやさしくて残酷だ">峯田和伸さん主演の映画</a>も劇場で観た。たぶん2010年2月7日に観た。</p>
 
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/june29/4331846513/in/photostream/" title="ボーイズ・オン・ザ・ラン"><img src="https://farm5.staticflickr.com/4006/4331846513_ec62a8f26d_z.jpg" width="640" height="428" alt="ボーイズ・オン・ザ・ラン"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/june29/4331846513/in/photostream/" title="ボーイズ・オン・ザ・ラン"><img src="https://farm5.staticflickr.com/4006/4331846513_ec62a8f26d_z.jpg" alt="ボーイズ・オン・ザ・ラン"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
 <p></p>
 <div class="hatena-asin-detail">

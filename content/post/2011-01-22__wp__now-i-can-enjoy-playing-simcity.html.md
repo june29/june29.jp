@@ -7,7 +7,7 @@ draft = false
 +++
 
 <p>去年の年末、iPhone アプリの <a href="http://itunes.apple.com/jp/app/simcity-deluxe/id380017992?mt=8" title="SimCity Deluxe">SimCity Deluxe</a> をプレイしていました。ボクらが慣れ親しんだ、いわゆる「十字キー」を持たないデバイスで、どのようにゲームを楽しむか、という点に興味を持ってのことでした。</p>
-<p><a href="http://www.flickr.com/photos/june29/5376450123/" title="SimCity Deluxe by june29, on Flickr"><img src="http://farm6.static.flickr.com/5244/5376450123_99aeb06fcf.jpg" width="500" height="333" alt="SimCity Deluxe" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/5376450123/" title="SimCity Deluxe by june29, on Flickr"><img src="http://farm6.static.flickr.com/5244/5376450123_99aeb06fcf.jpg" alt="SimCity Deluxe" /></a></p>
 <p>たとえば、同じく iPhone アプリである <a href="http://itunes.apple.com/jp/app/id319935793?mt=8" title="ボンバーマンTOUCH 2 ボルケーノ・パーティ">ボンバーマンTOUCH 2 ボルケーノ・パーティ</a>は、画面の上に「仮想の十字キー」をソフトウェア的に実現しています。</p>
 <h3>本筋から外れて</h3>
 <p>そいで、iPhone アプリのゲームを10種類くらい試してみて、知りたいと思っていたインターフェイスのことは、けっこう分かりました。だけど、それとは別のことが分かってきて、楽しくなってきたので、このエントリを書くことにしました。</p>
@@ -16,9 +16,9 @@ draft = false
 <p>記憶を掘り起こしてみると、昔の自分は「問題が発生している状況に対する耐性」が低かったのだと思います。SimCity をプレイしていると、常に住民が文句を言ってきますし、お金を自由に使うこともできないし、環境はどんどんと汚染されていくし、次から次へと問題が発生し、常になんらかの問題と向き合わなければなりません。</p>
 <p>他の例として、アクションゲームを考えてみます。アクションゲームでは、あるステージについて「完全クリア」と呼ばれるような、完璧な状態が存在します。「ミスをしていない」「ダメージを受けていない」「取り逃したアイテムがない」類の状態は、とても気持ちよく、昔の自分は、そういった状態を維持することに喜びを感じながらゲームをプレイしていたのかもしれないな、と思います。ロールプレイングゲームでは「強力なアイテムを取り逃していて、すでに入手不可能である」と気が付くと、途端にやる気をなくす子だったりしました。</p>
 <p>そして、今の自分。今の自分は「問題解決」に強い関心を持っています。問題というものは、自分の毎日を見渡してみても、いたるところに存在していて、言ってしまえば「問題が存在するのが当たり前」です。そういった前提に立てるようになっていた、というのが、SimCity を受け入れられるようになった、という変化なのだと思いました。</p>
-<p><a href="http://www.flickr.com/photos/june29/5377050502/" title="SimCity Deluxe by june29, on Flickr"><img src="http://farm6.static.flickr.com/5129/5377050502_d34ebecd27.jpg" width="500" height="333" alt="SimCity Deluxe" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/5377050502/" title="SimCity Deluxe by june29, on Flickr"><img src="http://farm6.static.flickr.com/5129/5377050502_d34ebecd27.jpg" alt="SimCity Deluxe" /></a></p>
 <p>解決すべき問題がまったくない、なんて状態になることはありませんが、ひとつずつひとつずつ問題を解決していって、成長していく街を見守るのは、楽しいことですね。「Kamata」と名付けたボクの街に、ようやくスタジアムを建てることができました。わーい。</p>
 <h3>まとめ</h3>
 <p>年を重ねることで、味覚が変わり、それまで食べられなかった食べ物やお料理を好きになる、ってのは、何度か経験してきました。同じようにして、これまで楽しめなかったものを、楽しめるようになったり、するんですね。</p>
 <p>面白い発見でした！最後のスクリーンショットは、ボクが生まれた日の Kamata の様子です。</p>
-<p><a href="http://www.flickr.com/photos/june29/5377050430/" title="SimCity Deluxe by june29, on Flickr"><img src="http://farm6.static.flickr.com/5209/5377050430_7abef9db3e.jpg" width="500" height="333" alt="SimCity Deluxe" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/5377050430/" title="SimCity Deluxe by june29, on Flickr"><img src="http://farm6.static.flickr.com/5209/5377050430_7abef9db3e.jpg" alt="SimCity Deluxe" /></a></p>
