@@ -23,4 +23,4 @@ draft = false
 <li>キーワード : chart</li>
 </ul>
 <p>これでFirefoxのアドレス欄に「chart 検索したい言葉」と入力するだけで手間をかけずにグラフ機能を楽しめます．しつこいようですがスマートキーワードは本当に便利！</p>
-<p><a href="http://www.flickr.com/photos/june29/354023879/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/132/354023879_2346e801c6_o.jpg" width="500" height="109" alt="スマートキーワード「chart」" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/354023879/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/132/354023879_2346e801c6_o.jpg" alt="スマートキーワード「chart」" /></a></p>
