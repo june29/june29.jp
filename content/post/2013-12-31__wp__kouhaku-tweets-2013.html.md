@@ -14,7 +14,7 @@ draft = false
 <p>&mdash; Kana Natsuno (@kana1) <a href="https://twitter.com/kana1/statuses/417961824818974720">December 31, 2013</a></p></blockquote>
 <p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <h3>やってみて (紅白歌合戦の感想も含むかも)</h3>
-<p><img src="http://c714091.r91.cf2.rackcdn.com/9850fdfb4b27af7c3a42ce57b5140b02e879ba4cdd.png" alt="KOUHAKU Tweets 2013" width="100%" /></p>
+<p><img src="http://c714091.r91.cf2.rackcdn.com/9850fdfb4b27af7c3a42ce57b5140b02e879ba4cdd.png" alt="KOUHAKU Tweets 2013"" /></p>
 <p>1年前は、贔屓目もありつつ「ゴールデンボンバーが話題になっているな〜」という感想を持ったものですが、今回はとにかく「イェーガーすごかった！」という感じ。ぼくが収集したツイートのデータにおいては、放送時間中の総ツイート数が「461,738」で、本文に「イェーガー/進撃/巨人/Revo/Linked Horizon」のいずれかを含むツイートが「84,464」です。実に、全体の18%ほどが、進撃成分を有するツイートだったということでしょうか。瞬間最大秒速については、全体が「3,036 Tweets/s」で、進撃成分のもので「2,176 Tweets/s」です。こちらもすごいですね。</p>
 <p>ちなみに、下の動画はツイート収集中のコンソールでして、このときはちょうどふなっしー先輩が暴走した直後かな。</p>
 <p><iframe src="//instagram.com/p/ilZiiMKpHi/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe></p>

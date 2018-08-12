@@ -7,7 +7,7 @@ draft = false
 +++
 
 <p>どうも、こんにちわ！いつもは無所属の june29 として書いていますが、今日は Blabo! の大和田純としてエントリを書きます。</p>
-<p><a href="http://www.flickr.com/photos/june29/8956228821/" title="Blabo! by june29, on Flickr"><img src="http://farm4.staticflickr.com/3708/8956228821_3cdefb15fd_z.jpg" width="640" height="426" alt="Blabo!"></a></p>
+<p><a href="http://www.flickr.com/photos/june29/8956228821/" title="Blabo! by june29, on Flickr"><img src="http://farm4.staticflickr.com/3708/8956228821_3cdefb15fd_z.jpg" alt="Blabo!"></a></p>
 <p>このブログを読んでくれている物好きなみなさんは、すでに知ってくれている人も多いことでしょう。ぼくは <a href="http://bla.bo/" title="みんなのアイデア会議室 - Blabo! (ブラボ)">Blabo! (ブラボ)</a> というアプリケーションの開発を担当していて、Blabo! という事業を成長させることをミッションとしています。</p>
 <p>先日、NHK のクローズアップ現代の<a href="http://www.nhk.or.jp/gendai/movie/index.html?flv=3366-0618.mp4&amp;p=1" title="動画一覧 - NHK　クローズアップ現代">企業も働き方も激変 ～クラウドソーシングの衝撃～</a>という回にて Blabo! をご紹介いただきました。放送のこと、あんまりまわりに言っていなかったんですけれど、何人かが「じゅーさん映った！」なんてツイートしてくれていたりして、気付くもんなんだなぁと驚きました。ご覧いただいたみなさん、ありがとうございました。ウェブサイトにて動画も公開されているので、まだの方、よかったら観てみてくださいね。</p>
 <h3>Blabo! の目指しているところ</h3>
