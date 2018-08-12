@@ -13,7 +13,7 @@ draft = false
 </p></blockquote>
 <p>確かにその通りですね．カーソルを検索フォームまで移動させるには，けっこうなエネルギーが必要です．キーボードショートカットでカーソル移動できたら最高です．でもこれは，Googleの検索結果のページに限定される話ではありません．<a href="http://openstratus.com/73/shortcut-cheat" target="_blank">マウスを窓から投げ捨てろ！ショートカットであいつに差を付けるメソッド | Queue</a>で紹介されている拡張機能<a href="http://firstfield.mozdev.org/index.html" target="_blank">firstfield</a>は，まさにすべてのサイトでキーボードショートカットによるカーソル移動を目指したものです．具体的には，閲覧中のページにおいて最初に出現するテキストフォームにカーソルを合わせます．</p>
 <p>さっそく導入してみましょう… と思いきや，現行のFirefoxには対応していないようです．install.rdfを偽装してもダメでした．仕方がないのでxpiファイルをzipにリネームして解凍し，XULのソースコードの一部をkeyconfigに割り当てました．設定には，<a href="http://june29.jp/2006/10/03/firefox-keyconfig/">以前のエントリ</a>で紹介した拡張機能keyconfigとfunctions for keyconfigが必要になります．</p>
-<p><a href="http://www.flickr.com/photos/june29/335246344/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/126/335246344_9dc5d420fa_o.jpg" width="424" height="402" alt="firstfield keyconfig" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/335246344/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/126/335246344_9dc5d420fa_o.jpg" alt="firstfield keyconfig" /></a></p>
 <p>[code]<br />
 var doc = window.content.document;</p>
 <p>if (!doc) return;</p>
@@ -35,17 +35,17 @@ var doc = window.content.document;</p>
 Google
 
 <a href="http://www.flickr.com/photos/june29/335246503/" title="Photo Sharing"><br />
-<img src="http://farm1.static.flickr.com/149/335246503_85e41ff93d_o.jpg" width="500" height="120" alt="firstfield - Google" /></p>
+<img src="http://farm1.static.flickr.com/149/335246503_85e41ff93d_o.jpg" alt="firstfield - Google" /></p>
 <p>cameraLady</p>
-<p><a href="http://www.flickr.com/photos/june29/335246680/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/152/335246680_2c142da4a1_o.jpg" width="500" height="120" alt="firstfield - cameraLady" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/335246680/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/152/335246680_2c142da4a1_o.jpg" alt="firstfield - cameraLady" /></a></p>
 <p>mixi</p>
-<p><a href="http://www.flickr.com/photos/june29/335246883/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/143/335246883_7f1ae56d4a_o.jpg" width="500" height="120" alt="firstfield- mixi" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/335246883/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/143/335246883_7f1ae56d4a_o.jpg" alt="firstfield- mixi" /></a></p>
 <p>YouTube</p>
-<p><a href="http://www.flickr.com/photos/june29/335247090/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/130/335247090_a44bf17874_o.jpg" width="500" height="120" alt="firstfield - YouTube" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/335247090/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/130/335247090_a44bf17874_o.jpg" alt="firstfield - YouTube" /></a></p>
 <p>del.icio.us</p>
-<p><a href="http://www.flickr.com/photos/june29/335247282/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/124/335247282_157cba1cae_o.jpg" width="500" height="120" alt="firstfield - del.icio.us" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/335247282/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/124/335247282_157cba1cae_o.jpg" alt="firstfield - del.icio.us" /></a></p>
 <p>はてなダイアリー</p>
-<p><a href="http://www.flickr.com/photos/june29/335247456/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/154/335247456_10b1182fb5_o.jpg" width="500" height="120" alt="firstfield - はてなダイアリー" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/335247456/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/154/335247456_10b1182fb5_o.jpg" alt="firstfield - はてなダイアリー" /></a></p>
 <p>ボクが確認したかぎりでは割と使えそうです．ただ，ブログのエントリページで，検索フォームよりコメントの名前欄にカーソルが移動してしまうのは難点です．もう少し工夫すればもっと良いものができそうなのですが，今日はこの辺で終わりにします．</p>
 <p>実は当初はGreasemonkeyでこれを実現しようとしていました．「せっかく<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4798015350/cameralady-22/ref=nosim/">Greasemonkey本</a>ももらったし！」と意気込んでみたものの，どうも上手くいかなくて断念しちゃいました．Greasemonkeyでの実装があれば，ぜひソースを見て勉強したいです．</p>
 <h3>追記</h3>

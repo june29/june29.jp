@@ -47,7 +47,7 @@ Template Name: Extended Live Archives
 <p>いよいよArcihvesページそのものを作ります．まずはページ作成画面に移動します．ここからが重要です．タイトルと投稿スラッグは適当に決めます．ページテンプレートには先ほど作成したテンプレート「Extended Live Archives」を指定し(下部画像参照)，ページの投稿内容は</p>
 <p>[php]< ?php af_ela_super_archive(); ?>[/php]</p>
 <p>のみとします．このとき，投稿内容のPHPのソースコードを解釈して実行してくれる環境が必要になります．ボクは<a href="http://www.nosq.com/blog/2006/01/runphp-plugin-for-wordpress/" target="_blank">runPHP Plugin</a>を導入して対応しました．</p>
-<p><a href="http://www.flickr.com/photos/june29/297414369/" title="Photo Sharing"><img src="http://static.flickr.com/118/297414369_1e8faf6303_o.jpg" width="203" height="202" alt="Archivesページ作成" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/297414369/" title="Photo Sharing"><img src="http://static.flickr.com/118/297414369_1e8faf6303_o.jpg" alt="Archivesページ作成" /></a></p>
 <p>最後に作成したページを公開すればArchivesページの完成です．</p>
 <p><a href="http://june29.jp/archives/" target="_blank">Archives &#8211; cameraLady</a></p>
 <p>まだページを作成しただけでスタイルも何もいじっていません．表示崩れも多発してひどい状態ですが，手を入れる時間ができるまでは放置です．このサイトのお客さまには謝っておきます．ゴメンなさい．<br />

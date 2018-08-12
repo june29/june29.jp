@@ -25,9 +25,9 @@ if (bar.hidden) {<br />
   gFindBar.closeFindBar();<br />
 }<br />
 [/code]</p>
-<p><a href="http://www.flickr.com/photos/june29/310126991/" title="Photo Sharing"><img src="http://static.flickr.com/110/310126991_fa03639ed1_o.jpg" width="367" height="226" alt="キーボードショートカットのカスタマイズ" /></a></p>
-<p><a href="http://www.flickr.com/photos/june29/310126992/" title="Photo Sharing"><img src="http://static.flickr.com/104/310126992_dde912d73c_o.jpg" width="500" height="197" alt="新しいキーを追加" /></a></p>
-<p><a href="http://www.flickr.com/photos/june29/310126994/" title="Photo Sharing"><img src="http://static.flickr.com/109/310126994_f13e55fbaa_o.jpg" width="400" height="400" alt="検索バーの開閉" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/310126991/" title="Photo Sharing"><img src="http://static.flickr.com/110/310126991_fa03639ed1_o.jpg" alt="キーボードショートカットのカスタマイズ" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/310126992/" title="Photo Sharing"><img src="http://static.flickr.com/104/310126992_dde912d73c_o.jpg" alt="新しいキーを追加" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/310126994/" title="Photo Sharing"><img src="http://static.flickr.com/109/310126994_f13e55fbaa_o.jpg" alt="検索バーの開閉" /></a></p>
 <p>あとは好きなキーボードショートカットを割り当てるだけです．ボクはキーの名前を「検索バーの開閉」としてショートカットを「Ctrl+F」に割り当てました．「次を検索」と「前を検索」はそれぞれ「Enter」「Shift+Enter」で行います．これでキーボード操作だけで快適にページ内のテキスト検索ができるようになりました．<a href="http://d.hatena.ne.jp/nozom/" target="_blank">id:nozom</a>さん，ありがとうございます！</p>
 <h3>関連エントリ</h3>
 <ul>

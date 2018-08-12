@@ -17,9 +17,9 @@ user_pref(&#8216;copyurlplus.menus.1.copy&#8217;, &#8216;<a href="%URL%" target=
 user_pref(&#8216;copyurlplus.menus.2.label&#8217;, &#8216;選択文字列をタイトルとしてリンクを作成&#8217;);<br />
 user_pref(&#8216;copyurlplus.menus.2.copy&#8217;, &#8216;<a href="%URL%" target="_blank">%SEL%</a>&#8216;);<br />
 user_pref(&#8216;copyurlplus.menus.3.label&#8217;,&#8217;サムネイルを作成&#8217;);<br />
-user_pref(&#8216;copyurlplus.menus.3.copy&#8217;,&#8217;<a href="%URL%" title="%TITLE%" target="_blank"><img src="http://img.simpleapi.net/small/%URL%" alt="%TITLE%" width="128" height="128" hspace="4" vspace="4" border="0" /></a> <br /><a href="%URL%" title="%TITLE%" target="_blank"><strong>%TITLE%</strong></a>&#8216;);<br />
+user_pref(&#8216;copyurlplus.menus.3.copy&#8217;,&#8217;<a href="%URL%" title="%TITLE%" target="_blank"><img src="http://img.simpleapi.net/small/%URL%" alt="%TITLE%" hspace="4" vspace="4" border="0" /></a> <br /><a href="%URL%" title="%TITLE%" target="_blank"><strong>%TITLE%</strong></a>&#8216;);<br />
 user_pref(&#8216;copyurlplus.menus.4.label&#8217;,&#8217;サムネイルを作成(センタリング)&#8217;);<br />
-user_pref(&#8216;copyurlplus.menus.4.copy&#8217;,&#8217;<center><a href="%URL%" title="%TITLE%" target="_blank"><img src="http://img.simpleapi.net/small/%URL%" alt="%TITLE%" width="128" height="128" hspace="4" vspace="4" border="0" /></a> <br /><a href="%URL%" title="%TITLE%" target="_blank"><strong>%TITLE%</strong></a></center>&#8216;);<br />
+user_pref(&#8216;copyurlplus.menus.4.copy&#8217;,&#8217;<center><a href="%URL%" title="%TITLE%" target="_blank"><img src="http://img.simpleapi.net/small/%URL%" alt="%TITLE%" hspace="4" vspace="4" border="0" /></a> <br /><a href="%URL%" title="%TITLE%" target="_blank"><strong>%TITLE%</strong></a></center>&#8216;);<br />
 user_pref(&#8216;copyurlplus.menus.5.label&#8217;,&#8217;引用&#8217;);<br />
 user_pref(&#8216;copyurlplus.menus.5.copy&#8217;,&#8217;</p>
 <blockquote><p>%EOL%%SEL%</p>
@@ -30,6 +30,6 @@ user_pref(&#8216;copyurlplus.menus.6.copy&#8217;,&#8217;>>%EOL%%SEL%</p>
 <p><a href="%URL%" title="%TITLE%" target="_blank"><strong>%TITLE%</strong></a>%EOL%< <');
 [/code]
 
-<a href="http://www.flickr.com/photos/june29/285144434/" title="Photo Sharing"><img src="http://static.flickr.com/106/285144434_78a6cc28b4_o.png" width="522" height="389" alt="Copy URL+" /></p>
+<a href="http://www.flickr.com/photos/june29/285144434/" title="Photo Sharing"><img src="http://static.flickr.com/106/285144434_78a6cc28b4_o.png" alt="Copy URL+" /></p>
 <p>自分で項目を追加するときは<a href="http://copyurlplus.mozdev.org/customize.html" target="_blank">mozdev.org &#8211; copyurlplus: customize</a>を見るとよいです．</p>
 <p><a href="http://cdn.mozdev.org/chromedit/" target="_blank">ChromEdit</a>がないとuser.jsを書くのも面倒ですが，Firefox 2.0はChromEditに未だ未対応のようで… 代わりになるものなどがあればいいな．</p>

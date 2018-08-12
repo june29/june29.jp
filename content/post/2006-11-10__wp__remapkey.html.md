@@ -15,7 +15,7 @@ draft = false
 <p>最近になって「Ctrl+Space」も「Ctrl+B」も他のショートカットキーと競合するようになりました．一時的に一方のツールを終了させたりしながら我慢して使ってきましたが，いよいよもって対策を講じることにしました．</p>
 <h4>Remapkeyの導入</h4>
 <p><a href="http://www.microsoft.com/downloads/details.aspx?familyid=9d467a69-57ff-4ae7-96ee-b18c4790cffd&#038;displaylang=en" target="_blank">Windows Server 2003 Resource Kit Tools</a>をダウンロード，インストールし，この中に含まれる「remapkey」を実行するとGUIでキーバインドを変更できます．</p>
-<p><a href="http://www.flickr.com/photos/june29/293524408/" title="Photo Sharing"><img src="http://static.flickr.com/103/293524408_b6c6261b41.jpg" width="500" height="395" alt="RemapKey" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/293524408/" title="Photo Sharing"><img src="http://static.flickr.com/103/293524408_b6c6261b41.jpg" alt="RemapKey" /></a></p>
 <p>普段全く使っていない「無変換キー」に「Windowsキー」を割り当て，それに合わせてキーの設定も変更しました．ちなみに，もともと「Caps Lock」と「Ctrl」は入れ替えてありました．</p>
 <ul>
 <li>日本語入力のON/OFF : 「Windowsキー+Space」</li>

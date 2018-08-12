@@ -20,6 +20,6 @@ draft = false
 }<br />
 [/css]</p>
 <p>userContent.cssに上記の記述(USERNAMEは適宜変更)を加えることで，bundleに含まれていないタグをハイライトすることができます．これでもう，タグの海で溺れることはなくなりました．以下にスクリーンショットを載せます．</p>
-<p><a href="http://www.flickr.com/photos/june29/285730739/" title="Photo Sharing"><img src="http://static.flickr.com/120/285730739_692ddc20f3_o.jpg" width="500" height="320" alt="del.icio.us bundles" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/285730739/" title="Photo Sharing"><img src="http://static.flickr.com/120/285730739_692ddc20f3_o.jpg" alt="del.icio.us bundles" /></a></p>
 <p>(この例では「2006」「bookmarklet」「development」がハイライトされています)</p>
 <p>del.icio.usがもっと便利で，もっとオシャレなツールでありますように！</p>

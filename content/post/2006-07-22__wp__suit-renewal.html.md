@@ -7,7 +7,7 @@ draft = false
 +++
 
 <p>火曜日に選びにいってきたスーツが手元に届きました．スーツを買うのは実に3年半ぶりです．気持ちも新たに，テンションを上げてガンバっていきましょう．明日は早速新しいスーツを着て出勤ですよ！</p>
-<p><center><a href="http://www.flickr.com/photos/june29/194823894/" title="Photo Sharing"><img src="http://static.flickr.com/64/194823894_dcff7e3087_m.jpg" width="240" height="180" alt="スーツ新調" border="none" /></a></center></p>
+<p><center><a href="http://www.flickr.com/photos/june29/194823894/" title="Photo Sharing"><img src="http://static.flickr.com/64/194823894_dcff7e3087_m.jpg" alt="スーツ新調" border="none" /></a></center></p>
 <ul>
 <li>スーツ×2着</li>
 <li>シャツ×3枚</li>
