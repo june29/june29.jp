@@ -14,7 +14,7 @@ draft = false
 <li><a href="http://june29.jp/2007/12/31/end-of-2007/" title="2007年まとめ！ - 準二級.jp">2007年まとめ！</a></li>
 </ul>
 <h3>2011年がはじまったときに考えていたこと</h3>
-<p><a href="http://www.flickr.com/photos/june29/5310912410/" title="First morning by june29, on Flickr"><img src="http://farm6.staticflickr.com/5284/5310912410_160dd20f0d_z.jpg" width="640" height="428" alt="First morning"></a></p>
+<p><a href="http://www.flickr.com/photos/june29/5310912410/" title="First morning by june29, on Flickr"><img src="http://farm6.staticflickr.com/5284/5310912410_160dd20f0d_z.jpg" alt="First morning"></a></p>
 <p>2011年1月1日の朝に撮った写真を見ながら、その日に書いたエントリを確認してみます。</p>
 <blockquote><p>
 2011年のテーマは「勝負」とします。今年は、公においても私においても、いくつか勝負を仕掛ける年にするつもりです。もともとの気質として、あまり「勝ち負けがはっきりした勝負事」を好まず、勝負を避けて道を選ぶところがあるのですが、今年は敢えて勝負に臨んでみようかな、と。これまでと違う年にしたい、という意味でも、今の自分にとってはいいテーマになると思います。</p>
@@ -29,7 +29,7 @@ draft = false
 <p>これだけは忘れずに、と思うこと。</p>
 <p>ひとりで自立してがんばれるようになろう、と思って、古巣を飛び出してみたり、するけれど。「ひとりで！」と意気込めば意気込むほど、ひとりではなんにもできないってことに気付かされて、「ひとりで！」と力を入れれば力を入れるほど、まわりの人たちに助けられて。大事な人たちに生かされているのだなぁと、何度も感じました。結局、今年も、色んな人たちから色んなものをもらい続けることになったのでした。</p>
 <p>おかげさまで、今こうして、生きています。楽しく、生きています。今は、感謝の言葉を述べることしかできないので、そうさせてください。ありがとうございました！ちくしょい！感謝！</p>
-<p><a href="http://www.flickr.com/photos/june29/6229876157/" title="Untitled by june29, on Flickr"><img src="http://farm7.staticflickr.com/6047/6229876157_97edda2fbd_z.jpg" width="640" height="428" alt=""></a></p>
+<p><a href="http://www.flickr.com/photos/june29/6229876157/" title="Untitled by june29, on Flickr"><img src="http://farm7.staticflickr.com/6047/6229876157_97edda2fbd_z.jpg" alt=""></a></p>
 <p>もう今年が終わってしまいそうなので、残りは、ひとつずつ詳細に書くことはできませんが、2011年に気になったこと・気が付いたことなんかを、メモ代わりにでも、ちょっこし並べておきたいと思います。</p>
 <ul>
 <li>所有欲の弱まりを思い切り感じた年だった</li>

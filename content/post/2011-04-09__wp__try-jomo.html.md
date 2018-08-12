@@ -7,9 +7,9 @@ draft = false
 +++
 
 <p>g1983ers の女子部には、化粧品を持ち寄って交換する風習(?)があって、2010年の忘年会では ANNA SUI LIP ROUGE G をもらったのでした。</p>
-<p><a href="http://www.flickr.com/photos/june29/5270419759/" title="ANNA SUI LIP ROUGE G by june29, on Flickr"><img src="http://farm6.static.flickr.com/5081/5270419759_b96d46364f.jpg" width="500" height="500" alt="ANNA SUI LIP ROUGE G"></a></p>
+<p><a href="http://www.flickr.com/photos/june29/5270419759/" title="ANNA SUI LIP ROUGE G by june29, on Flickr"><img src="http://farm6.static.flickr.com/5081/5270419759_b96d46364f.jpg" alt="ANNA SUI LIP ROUGE G"></a></p>
 <p>先日のお花見では「除毛クリーム」をもらったので、さっそく試してみました。</p>
-<p><a href="http://www.flickr.com/photos/june29/5597825087/" title="JOMO by june29, on Flickr"><img src="http://farm6.static.flickr.com/5228/5597825087_cae943a593.jpg" width="500" height="374" alt="JOMO"></a></p>
+<p><a href="http://www.flickr.com/photos/june29/5597825087/" title="JOMO by june29, on Flickr"><img src="http://farm6.static.flickr.com/5228/5597825087_cae943a593.jpg" alt="JOMO"></a></p>
 <p>あなたの予想に反して、私の素肌が見えているでしょうか？</p>
 <p>自分は一般的な成人男性に比べて女性ホルモンの分泌量が多く、もともと毛は薄い方です。いつだったか、多感な年頃のときに、女の子の友達が腕の毛を定期的に剃っているということを知らされ「えっ、なんで剃るの… というか、剃るほど生えるんですか…」と言ったら、何人かに囲まれて盛大に怒られました。自分は腕の毛がほとんど生えてこないので、ましてや女の子の腕に毛が生えるなんて、とても信じられなかったのです。怒られて以来、女の子を相手に毛のお話を持ち出すのは控えるようになりました。</p>
 <p>それにしても、除毛クリームはすごいですね。とりあえず左足のスネに塗ってみて、15分ほど放置し、シャワーで洗い流してみました。特に変化は起きず「あれれ…？」と思って指で触れてみると「ぬっ」と毛の塊がスネから剥れていきました。最初は「うわあ」と思ったものの、慣れると楽しくて、うりゃーうりゃーとスネをひとまわりするように、指でなでていきました。左足がキレイになりました。写真では、傷やアザはちょっと隠してあります(恥ずかしかったので)。</p>

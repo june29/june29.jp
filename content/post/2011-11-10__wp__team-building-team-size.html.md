@@ -15,5 +15,5 @@ draft = false
 <p>大きなチームは、いくつかの小さなチームに分割しましょう。みんなが「あっ、このチームなら、自分も声を出しやすいな」と感じられるサイズを探しましょう。つまり、リストラクチャリング、Re:structuring、再構成。とても前向きな考え方なのに、カタカナ4文字で「リストラ」と書かれると「個人の首切り」だけに読めてしまうのだから、悲しい定着です。よいものを悪いように定着させてもぜんぜん得をしないので、よい子のみんなは、好きなもののこと、好きな人のこと、しっかり「好き！」って言おうね。</p>
 <p>そうして小さなチームがいくつか生まれたとき、それらをどう連携させるかは、また別のお話です。今回は言及しないことにします。</p>
 <p>さあ、あなたは、どんな「楽しいチーム」をつくる？</p>
-<p><a href="http://www.flickr.com/photos/koichiroo/5961158324/" title="20110718-DSC_3876 by koichiroo, on Flickr"><img src="http://farm7.static.flickr.com/6147/5961158324_a676fa8237_z.jpg" width="640" height="425" alt="20110718-DSC_3876"></a></p>
+<p><a href="http://www.flickr.com/photos/koichiroo/5961158324/" title="20110718-DSC_3876 by koichiroo, on Flickr"><img src="http://farm7.static.flickr.com/6147/5961158324_a676fa8237_z.jpg" alt="20110718-DSC_3876"></a></p>
 <p>Photo by <a href="http://www.flickr.com/photos/koichiroo/5961158324/" title="20110718-DSC_3876 | Flickr - Photo Sharing!">koichiroo</a></p>

@@ -7,7 +7,7 @@ draft = false
 +++
 
 <p>半年ぶりくらいに、Mac OS X のセットアップを行いました。今回はメモを残したので、ここに書いておきます。</p>
-<p><a href="http://www.flickr.com/photos/june29/5427816289/" title="MacBook Pro by june29, on Flickr"><img src="http://farm6.static.flickr.com/5252/5427816289_e01594f7e6.jpg" width="500" height="334" alt="MacBook Pro" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/5427816289/" title="MacBook Pro by june29, on Flickr"><img src="http://farm6.static.flickr.com/5252/5427816289_e01594f7e6.jpg" alt="MacBook Pro" /></a></p>
 <h3>システム環境設定 (System Preferences)</h3>
 <p>まずは OS 寄りのところから整備しましょう。</p>
 <h4>Dock</h4>
@@ -27,7 +27,7 @@ draft = false
 <p><img src="http://img.skitch.com/20110211-mh4n2qcafuya6yekghf8xn3c5x.png" alt="システム環境設定 - 日付と時計" /></p>
 <p>日付と秒も、メニューバーに表示させています。</p>
 <h4>キーボード</h4>
-<p><a href="http://www.flickr.com/photos/june29/5436053722/" title="MacBook Pro by june29, on Flickr"><img src="http://farm6.static.flickr.com/5255/5436053722_6a26581bf5.jpg" width="500" height="334" alt="MacBook Pro" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/5436053722/" title="MacBook Pro by june29, on Flickr"><img src="http://farm6.static.flickr.com/5255/5436053722_6a26581bf5.jpg" alt="MacBook Pro" /></a></p>
 <p>英字配列キーボードでは、A キーの左隣は Caps Lock で、これではとても仕事にならないので Control を割り当てます。システム環境設定、キーボードのパネルから「修飾キー」のボタンを押すと、設定できます。</p>
 <p><img src="http://img.skitch.com/20110211-d621xyknny7x8tgksadju1ektn.png" alt="システム環境設定 - キーボード - 修飾キー" /></p>
 <p>キーボードショートカットも、少しだけ手を加えておきます。</p>
@@ -78,7 +78,7 @@ draft = false
 <p><img src="http://img.skitch.com/20110211-nqc1du6gu7s5pi9qpurnhte129.png" alt="Startup Sound" /></p>
 <p>自分は、カンファレンスなどに参加したとき、発表中の静かな雰囲気の中で「じゃーーーん」を鳴らすのが恥ずかしいので、消音にしておきます。でもこれね、Mac OS X が異常終了したあとの次の1回の起動とか、なんか、鳴っちゃうときがあるんですよ！「あれ、久しぶりに鳴った！」ってときがあるんですよ。面白いですね。</p>
 <h3>開発環境に最低限必要なもの</h3>
-<p><a href="http://www.flickr.com/photos/june29/5428571440/" title="MacBook Pro by june29, on Flickr"><img src="http://farm6.static.flickr.com/5220/5428571440_0b6164e06e.jpg" width="500" height="334" alt="MacBook Pro" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/5428571440/" title="MacBook Pro by june29, on Flickr"><img src="http://farm6.static.flickr.com/5220/5428571440_0b6164e06e.jpg" alt="MacBook Pro" /></a></p>
 <p>付属の Install DVD をマウントし、収録されている「Xcode.mpkg」「Optional Installs.mpkg」を実行して、基本的な開発関係の一式をまとめてインストールします。開発機にするなら、この作業は最初のセットアップ時にやっておいた方がよいです。</p>
 <p>初めて MacBook を持ったときは、このことを知らず、何かをインストールしようとしたときに「gcc が見つからない」などと言われて、けっこう困りました。</p>
 <h3>各種アプリケーション</h3>
@@ -116,4 +116,4 @@ draft = false
 <h3>まとめ</h3>
 <p>手元に届いた新しい MacBook Pro を実戦投入するべく、開発機としてのセットアップを行いました。そのメモを残しておきます。総じて、年々、既存環境を再現するようなセットアップは、どんどん楽になってきていますね！ちなみに、Time Machine を使ってまるっと再現することもできたのですが、今回は、考えた上で、それを選びませんでした。</p>
 <p>それでは、楽しい Mac OS X ライフをー！</p>
-<p><a href="http://www.flickr.com/photos/june29/5427831031/" title="MacBook Pro by june29, on Flickr"><img src="http://farm6.static.flickr.com/5175/5427831031_d8b9129273.jpg" width="500" height="334" alt="MacBook Pro" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/5427831031/" title="MacBook Pro by june29, on Flickr"><img src="http://farm6.static.flickr.com/5175/5427831031_d8b9129273.jpg" alt="MacBook Pro" /></a></p>

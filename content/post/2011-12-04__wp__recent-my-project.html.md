@@ -19,17 +19,17 @@ draft = false
 <p>そんな感じで、いつも魅力的なコンセプトを持った商品をつくったり、プロジェクトを展開したりしているフェリシモさん。今回、ご一緒させていただいています。楽しいです。</p>
 <h3>「Blabo!」のこと</h3>
 <p>さて、そんなプロジェクトに取り組んでいるのですが！ぼくの立ち位置は、というと。「Blabo!」という「チャレンジャーをアイデアで応援する場所」を用意するサービスを、つくっています。今回は、フェリシモさんが、チャレンジャーです。ぼくは、アプリケーションの開発を、まるっと担当しています。ぼくも、チャレンジャーを応援するチャレンジャーです。</p>
-<p><a href="http://www.flickr.com/photos/june29/6452662301/" title="Blabo! Namecard by june29, on Flickr"><img src="http://farm8.staticflickr.com/7001/6452662301_b54222de49_z.jpg" width="640" height="428" alt="Blabo! Namecard"></a></p>
+<p><a href="http://www.flickr.com/photos/june29/6452662301/" title="Blabo! Namecard by june29, on Flickr"><img src="http://farm8.staticflickr.com/7001/6452662301_b54222de49_z.jpg" alt="Blabo! Namecard"></a></p>
 <h3>プロジェクトのこと</h3>
 <p>はい、少し回り道しましたが、プロジェクトのお話をします。</p>
 <p>少なくとも、日本に生まれ、日本で育った、日本人のぼくから見て、日常にはモノが溢れているように見えます。そんな中で、だんだんと「所有」から「共有」へと、重点が移っていっているように、感じることがあります。身の回りで、シェアハウスに住む人が増えていたり。知識や経験だったりも、自分の中だけに蓄えるよりも、他の人とも交換し合って価値を増やそうとする雰囲気を強く感じたり。</p>
 <p>もし本当にそういった人々の意識の変化があるとしたら、プレゼントにも、次のカタチがあるのかも、しれません。けっこう、ぼくなんかも、プレゼントというと「モノを贈る」といった発想になりがちだなぁと、このプロジェクトに関わる中で、思いました。いったい、プレゼントって、なんなんだろう。本当に喜ばれるプレゼントって、なんなんだろう。</p>
 <p>フェリシモさんが経営理念の中核に据える「ともにしあわせになるしあわせ」を何度か復唱してみると、プレゼントされる人も、プレゼントする人も、あるいは、そこに関わる他の人も一緒に楽しくなっちゃうような、そんな「プレゼント」がある気がします。このプロジェクトを通じて、もっと楽しいプレゼントの在り方を見つけていけたらいいな、と思っています。</p>
 <p>下の写真は、先日に開催したワークショップの様子を撮影したものです。「プレゼントについてお話してみたい！」という人たち40人ほどで集まって、もちろん、フェリシモの皆さんにも参加してもらって、いくつか用意したテーマのもと、プレゼントのことを一緒に考えました。</p>
-<p><a href="http://www.flickr.com/photos/june29/6452778259/" title="Untitled by june29, on Flickr"><img src="http://farm8.staticflickr.com/7035/6452778259_cdb4e49e95_z.jpg" width="640" height="428" alt=""></a></p>
-<p><a href="http://www.flickr.com/photos/june29/6452778873/" title="Untitled by june29, on Flickr"><img src="http://farm8.staticflickr.com/7018/6452778873_00dc721bd4_z.jpg" width="640" height="428" alt=""></a></p>
+<p><a href="http://www.flickr.com/photos/june29/6452778259/" title="Untitled by june29, on Flickr"><img src="http://farm8.staticflickr.com/7035/6452778259_cdb4e49e95_z.jpg" alt=""></a></p>
+<p><a href="http://www.flickr.com/photos/june29/6452778873/" title="Untitled by june29, on Flickr"><img src="http://farm8.staticflickr.com/7018/6452778873_00dc721bd4_z.jpg" alt=""></a></p>
 <p>そこで話された色んなことを、1枚の大きな紙に書いて、その場にいた全員で共有しました。ぼくも、最初から最後までその場にいて「そういうプレゼントもあるなあ」「家族へのプレゼントってのも、もっと上手にできたら、いいな」と思い、最後には「今度、こういうプレゼントをしてみよう」と決意できるまでに、至りました。</p>
-<p><a href="http://www.flickr.com/photos/june29/6452793937/" title="Untitled by june29, on Flickr"><img src="http://farm8.staticflickr.com/7169/6452793937_4e32ba3df0_z.jpg" width="640" height="429" alt=""></a></p>
+<p><a href="http://www.flickr.com/photos/june29/6452793937/" title="Untitled by june29, on Flickr"><img src="http://farm8.staticflickr.com/7169/6452793937_4e32ba3df0_z.jpg" alt=""></a></p>
 <p>また、Blabo! の場の上でも「<a href="http://bla.bo/ideas/34" title="お題 : 相手が欲しいと思っているプレゼントをどうさりげなく聞き出すか？ by stomo | Blabo!">相手が欲しいと思っているプレゼントをどうさりげなく聞き出すか？</a>」や「<a href="http://bla.bo/ideas/40" title="お題 : 『ペイフォワード』もびっくり！広がりつづけるプレゼントをつくろう！ by Blabo | Blabo!">『ペイフォワード』もびっくり！広がりつづけるプレゼントをつくろう！</a>」といったテーマのもとに成された会話から、すでに、いくつかの発見がありました。ひとつひとつ読んでみると、なかなかおもしろいです。</p>
 <p>こんなふうに、Blabo! では、Web 上や物理的な会場をつくり、テーマを掲げ、そこでたくさんの会話をしてもらって、新しい何かを発見してもらったり、すでにあるものを再発見してもらったりする、「場」を提供します。ひとりでも多くの人に楽しんでもらえるような場を一所懸命につくっていきますので、よかったら、これを読んでくれた皆さんも、お気軽に遊びにきてくださいね。</p>
 <h3>まとめ</h3>

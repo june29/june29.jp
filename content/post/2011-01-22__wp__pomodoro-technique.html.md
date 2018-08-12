@@ -7,13 +7,13 @@ draft = false
 +++
 
 <p>今週、お仕事のチームでは「集中合宿」と呼べるほどの、密度の濃い時間を過ごしました。傍らには、ポモドーロ・タイマーがありました。</p>
-<p><a href="http://www.flickr.com/photos/june29/5376505799/" title="Pomodoro Timer by june29, on Flickr"><img src="http://farm6.static.flickr.com/5282/5376505799_c782d58f91.jpg" width="500" height="333" alt="Pomodoro Timer" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/5376505799/" title="Pomodoro Timer by june29, on Flickr"><img src="http://farm6.static.flickr.com/5282/5376505799_c782d58f91.jpg" alt="Pomodoro Timer" /></a></p>
 <h3>ポモドーロ・テクニックって、なあに</h3>
 <p><a href="http://www.pomodorotechnique.com/" title="The Pomodoro Technique™">The Pomodoro Technique™</a></p>
 <p>それっぽく言うと「時間管理術」になるでしょうか。基本的な考え方については、上記のリンク先か、検索するかして、調べてみてください。</p>
 <p>週の最初に「このポモドーロがいいね」とチームメンバーが言ったから、導入してみる運びとなりました。ポモドーロ記念日！</p>
 <p>今週1週間を、ポモドーロ・テクニックを実践しながら過ごしてみて、なるほど、と思う良さを感じたので、自分の生活にも取り入れてみようと思います。今、この文章を書いている間も、ポモドーロタイマーなら、俺の隣でカッチカッチと鳴っているよ。</p>
-<p><a href="http://www.flickr.com/photos/june29/5377140836/" title="Pomodoro Timer by june29, on Flickr"><img src="http://farm6.static.flickr.com/5242/5377140836_f038343cba.jpg" width="333" height="500" alt="Pomodoro Timer" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/5377140836/" title="Pomodoro Timer by june29, on Flickr"><img src="http://farm6.static.flickr.com/5242/5377140836_f038343cba.jpg" alt="Pomodoro Timer" /></a></p>
 <h3>あたしが期待する効用</h3>
 <p>「25分で1セット、そのあと5分休む」は、試してみてすぐに良さが分かりました。「25分だけ、がんばろう」はとても現実的で、自分にもできそう、と思わせてくれます。</p>
 <p>チームには「休憩力」という語彙が生まれました。これまで「作業時間を効率化をしよう」というお話はしてきたのですが、「効率よく休憩しよう」といったお話は、したことがありませんでした。「この5分は休憩のためにある」と言われることで、その時間をどう過ごすのが望ましいか、と考える機会となったのです。うちのチームは休憩力がとても低く、気が付けば議論を再開してしまっていて「あっ、休憩だった… やめようやめよう」という展開が何度もありました。</p>

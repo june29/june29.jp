@@ -6,17 +6,17 @@ draft = false
 
 +++
 
-<p><img src="http://farm6.static.flickr.com/5082/5314904896_8dd9402044_o.png" width="600" height="400" alt="年賀" /></p>
+<p><img src="http://farm6.static.flickr.com/5082/5314904896_8dd9402044_o.png" alt="年賀" /></p>
 <p>年賀状的なものでも作ろうかと思って作業を始めたのに、気が付いたら <a href="http://www.opengl.org/" title="OpenGL - The Industry Standard for High Performance Graphics">OpenGL</a> の線のアンチエイリアスについて調べていて、いつの間にか1月1日が終わっていた…</p>
 <p>な… 何を言ってるのか わからねーと思うが、あけましておめでとうございます。2011年も、どうぞよろしくお願いいたします。</p>
-<p><img src="http://farm6.static.flickr.com/5210/5314352155_3f68f42b20_o.png" width="700" height="283" alt="2011年の干支" /></p>
+<p><img src="http://farm6.static.flickr.com/5210/5314352155_3f68f42b20_o.png" alt="2011年の干支" /></p>
 <p>せっかくなので、OpenGL で描いた今年の干支もこのまま載せておきます。期せずして、2011年の(ソースコード的な意味での)書き初めを無事にこなすことができました。今年は <a href="https://gist.github.com/762282" title="gist: 762282 - GitHub">usagi.rb</a> で始まったので、かわいい1年になりそうです。</p>
 <h3>お正月っぽく、ゆっくり過ごしています</h3>
 <p>ちょいちょい作業のために手を動かしたりしているのですが、それでも、ずいぶんゆっくりと過ごしているお正月です。去年の終盤に大きめの鍋を買ったおかげで、この年末年始は年越しにお蕎麦を食べたり、お正月にお雑煮を食べたりと、いい感じの時間の過ごし方をできています。美味しくできた手料理を口に運ぶと、心が豊かになっていいですね。</p>
-<p><a href="http://www.flickr.com/photos/june29/5311784930/" title="名称未設定.food by june29, on Flickr"><img src="http://farm6.static.flickr.com/5283/5311784930_804c8e132d.jpg" width="500" height="334" alt="名称未設定.food" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/5311784930/" title="名称未設定.food by june29, on Flickr"><img src="http://farm6.static.flickr.com/5283/5311784930_804c8e132d.jpg" alt="名称未設定.food" /></a></p>
 <p>なんと呼んでいいかも分からないお料理ができあがったのですが、この汁にお蕎麦を入れたりお餅を入れたりして食べてみたら、とても自分好みの味に仕上がっていてびっくりしました。簡単だし、また作ろう。</p>
-<p><a href="http://www.flickr.com/photos/june29/5309741087/" title="お餅 by june29, on Flickr"><img src="http://farm6.static.flickr.com/5002/5309741087_ba46b6022e.jpg" width="500" height="334" alt="お餅" /></a></p>
-<p><a href="http://www.flickr.com/photos/june29/5312160304/" title="お雑煮 by june29, on Flickr"><img src="http://farm6.static.flickr.com/5249/5312160304_0da74d87c5.jpg" width="500" height="334" alt="お雑煮" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/5309741087/" title="お餅 by june29, on Flickr"><img src="http://farm6.static.flickr.com/5002/5309741087_ba46b6022e.jpg" alt="お餅" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/5312160304/" title="お雑煮 by june29, on Flickr"><img src="http://farm6.static.flickr.com/5249/5312160304_0da74d87c5.jpg" alt="お雑煮" /></a></p>
 <p>食べ終わったあとに食器と鍋を洗って、そのままキッチンまわりをお掃除しました。きれいになって、いい気分。</p>
 <p>お料理や他の作業のときの BGM として、<a href="http://www.m-1gp.com/top.htm" title="オートバックスM-1グランプリ2010 公式サイト">M-1グランプリ2010</a>の録画をずっと再生していました。M-1を見ながら年を越した。そろそろ自分の中での優勝コンビが決まりそうです。自分が誰かと会話するときの思考に最も近いと感じるのが「笑い飯」さんで、最も遠いと感じるのが「ジャルジャル」さんです。最初にすべてを通して見たあと、まったく印象に残っていなかったけれど、ネタの種類として好きなのは「銀シャリ」さんです。だけどやっぱりジャルジャルさんが大好きだなあ。</p>
 <h3>2011年のテーマ</h3>
