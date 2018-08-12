@@ -53,7 +53,7 @@ original_url = "http://june29.hatenablog.jp/entry/wadavent"
 
 <p>ちょうど2013年の年末頃、<a class="keyword" href="http://d.hatena.ne.jp/keyword/%C8%BE%C2%F4%C4%BE%BC%F9">半沢直樹</a>の放送終了直後くらいに、うちの家族6人で集まる機会があったのですね。両親も、妹も弟1も弟2も、みんな大和田常務に関連して職場や学校でイジられていると、各々のエピソードを紹介し合っていました。なにかちょっとミスをすると「大和田！土下座しろ！」と言われる時期があったのです。</p>
 
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/june29/10403595426/" title="Geza"><img src="https://farm4.staticflickr.com/3751/10403595426_29388ba9cf_z.jpg" width="640" height="426" alt="Geza"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/june29/10403595426/" title="Geza"><img src="https://farm4.staticflickr.com/3751/10403595426_29388ba9cf_z.jpg" alt="Geza"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
 <p>大和田の土下座の様子です。</p>
 
