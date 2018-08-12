@@ -8,15 +8,15 @@ draft = false
 
 <p>9月9日のことでした．いつものように24時過ぎに帰宅すると，マンションの廊下をヤモリさんがうろついていました．ボクの部屋は3階にあり，ヤモリさんは手すりから落ちそうになっていたのでした．「ここから落ちたら痛いだろうなー」と思ったボクは手を伸ばし，ヤモリさんをひょいとつまみあげて部屋へと連れ込んだのです．</p>
 <p>ペットボトルにぶち込まれたヤモリさん．目がとてもキュートです！</p>
-<p><a href="http://www.flickr.com/photos/june29/2843479778/" title="新しいお友達 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3200/2843479778_0347bfc9a2.jpg" width="500" height="333" alt="新しいお友達" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/2843479778/" title="新しいお友達 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3200/2843479778_0347bfc9a2.jpg" alt="新しいお友達" /></a></p>
 <p>最初はトカゲかと思って，トカゲの飼い方について調べていたのですが，写真を見た方が「これはヤモリだよ」と教えてくださいました．ありがとうございます．調べてみると，ヤモリさんは生きた虫しか食べないことが分かりました．家のまわりを歩いて虫を探してみるも，コンクリートで覆われたこの辺りにはほとんど虫がいませんでした．それでもなんとかダンゴムシが群れている場所を発見し，50匹ほど捕まえて帰りましたが，ヤモリさんはダンゴムシを食べないのですね…＞＜</p>
 <p>なんとかして飼えないものかと，探してみたら，家から自転車で行ける場所にペットショップを見つけました．なんと会社の近くです．これなら昼休みに買いに行けるので，この子を育て続けていくことができそうです．</p>
 <p>覚悟は決まりました．ボクはこのヤモリさんを「月光」と名付け，一緒に暮らすことにしました．</p>
-<p><a href="http://www.flickr.com/photos/june29/2855393833/" title="我が家のイモリさん by june29, on Flickr"><img src="http://farm4.static.flickr.com/3166/2855393833_f0d4b92db7.jpg" width="500" height="333" alt="我が家のイモリさん" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/2855393833/" title="我が家のイモリさん by june29, on Flickr"><img src="http://farm4.static.flickr.com/3166/2855393833_f0d4b92db7.jpg" alt="我が家のイモリさん" /></a></p>
 <p>月光は壁や天井にへばりついていることが多いです．</p>
-<p><a href="http://www.flickr.com/photos/june29/2856178573/" title="君の名前は「月光」 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3002/2856178573_f50fd72266.jpg" width="500" height="333" alt="君の名前は「月光」" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/2856178573/" title="君の名前は「月光」 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3002/2856178573_f50fd72266.jpg" alt="君の名前は「月光」" /></a></p>
 <p>まるでコオロギを飼っているようですね．</p>
-<p><a href="http://www.flickr.com/photos/june29/2856229826/" title="我が家のコオロギさん by june29, on Flickr"><img src="http://farm4.static.flickr.com/3023/2856229826_f17a1512bb.jpg" width="500" height="333" alt="我が家のコオロギさん" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/2856229826/" title="我が家のコオロギさん by june29, on Flickr"><img src="http://farm4.static.flickr.com/3023/2856229826_f17a1512bb.jpg" alt="我が家のコオロギさん" /></a></p>
 <p>最初にエサを与えるまで2日間ほどを要してしまったため，コオロギをケージに入れたらすぐに飛び付くだろうと予想していました．ところがそんなことはなく，むしろ，コオロギに触られたら振り払って逃げる，そんな月光さんがとても可愛らしいです．</p>
-<p><a href="http://www.flickr.com/photos/june29/2859093641/" title="月光 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3233/2859093641_1b484afafc.jpg" width="500" height="333" alt="月光" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/2859093641/" title="月光 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3233/2859093641_1b484afafc.jpg" alt="月光" /></a></p>
 <p>北海道にいた頃は，ヤモリを見たことがありませんでしたが，この辺りではけっこうよく見かけるものなんですね．</p>

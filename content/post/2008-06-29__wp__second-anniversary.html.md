@@ -7,7 +7,7 @@ draft = false
 +++
 
 <p>2008年6月29日，当サイト cameraLady は開設から2周年を迎えました．</p>
-<p><a href="http://www.flickr.com/photos/june29/2619177997/" title="June 29, 2008 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3028/2619177997_e605636ec4.jpg" width="500" height="334" alt="June 29, 2008" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/2619177997/" title="June 29, 2008 by june29, on Flickr"><img src="http://farm4.static.flickr.com/3028/2619177997_e605636ec4.jpg" alt="June 29, 2008" /></a></p>
 <p>ちょっとだけ振り返ってみます．</p>
 <ul>
 <li>記念すべき最初のエントリ <a href="http://june29.jp/2006/06/29/birth/">Birth.</a></li>

@@ -13,7 +13,7 @@ draft = false
 </p></blockquote>
 <p>ボクは弊社代表の勇姿を写真に納める目的で参加したわけですが，個人的にも興味津々の顔ぶれが並ぶイベントだったので，一参加者としても大いに楽しませていただきました．以下，イベント中に取ったメモの一部です．関係者席に座らせてもらったから，話がよく聞こえてとてもありがたかったです．</p>
 <p>横にいた上原さんはめっちゃ楽しそうだった！主催がイベントを楽しむってのは大事なことだなぁ．</p>
-<p><a href="http://www.flickr.com/photos/june29/2937702501/" title="上原さん by june29, on Flickr"><img src="http://farm4.static.flickr.com/3222/2937702501_4fda7a0d77.jpg" width="500" height="375" alt="上原さん" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/2937702501/" title="上原さん by june29, on Flickr"><img src="http://farm4.static.flickr.com/3222/2937702501_4fda7a0d77.jpg" alt="上原さん" /></a></p>
 <p>(この文章を書いている今，カメラが行方不明になっていて，せっかく撮った写真を載せられません＞＜ 最悪だ＞＜)</p>
 <h3>PFI さん</h3>
 <p>プレゼンター: 西川さん</p>
