@@ -23,14 +23,14 @@ draft = false
 <p>ただの思い出話になっちゃうけれど「Plagger」がすごく流行っていた。「それ、ソニープラザで買えるよ！」を略して「ソニプラ」って言ったりもしていた。余談だ。</p>
 <h3>上京してから</h3>
 <p>どういう流れでそうなったのか覚えていないのだけれど、ゆーすけべーさんたちと一緒に富士山に登った。</p>
-<p><a href="http://www.flickr.com/photos/june29/2728286264/" title="yusukebeさんとtomyheroさん by june29, on Flickr"><img src="http://farm4.staticflickr.com/3019/2728286264_cdc0716d2e_z.jpg" width="640" height="427" alt="yusukebeさんとtomyheroさん"></a></p>
+<p><a href="http://www.flickr.com/photos/june29/2728286264/" title="yusukebeさんとtomyheroさん by june29, on Flickr"><img src="http://farm4.staticflickr.com/3019/2728286264_cdc0716d2e_z.jpg" alt="yusukebeさんとtomyheroさん"></a></p>
 <p>この写真は B&#8217;z っぽくて、すごく気に入っています。</p>
-<p><a href="http://www.flickr.com/photos/june29/2728195664/" title="TENGAとチップスター by june29, on Flickr"><img src="http://farm4.staticflickr.com/3194/2728195664_7d00a75290_z.jpg" width="640" height="427" alt="TENGAとチップスター"></a></p>
+<p><a href="http://www.flickr.com/photos/june29/2728195664/" title="TENGAとチップスター by june29, on Flickr"><img src="http://farm4.staticflickr.com/3194/2728195664_7d00a75290_z.jpg" alt="TENGAとチップスター"></a></p>
 <p>山頂で食べたチップスターはおいしかった。</p>
 <h3>本書を読んで</h3>
 <p>きっとぼくが、この6年間のゆーすけべー先輩の活動をちょくちょくウォッチしていたからでしょう、知らないことは、ほとんど書いていなかった。技術的なことに関しても、読んでいて「わからない」箇所はなかった。</p>
 <p>6年前のぼくが憧れていた姿は、たぶんもうここにはなくて、先輩は「まだ本には書かれていない」場所にたどりついていて、もしぼくが目指すとしたらそっちなのだなぁ、という気持ちになりました。</p>
-<p><a href="http://www.flickr.com/photos/june29/8255228778/" title="hage by june29, on Flickr"><img src="http://farm9.staticflickr.com/8480/8255228778_ff2a10ec49_z.jpg" width="612" height="388" alt="hage"></a></p>
+<p><a href="http://www.flickr.com/photos/june29/8255228778/" title="hage by june29, on Flickr"><img src="http://farm9.staticflickr.com/8480/8255228778_ff2a10ec49_z.jpg" alt="hage"></a></p>
 <p>というわけで、ぐだぐだ言っていないで、今からコードを書こうと思います。1981の忘年会、楽しそう。</p>
 <p>(追記) コードを書こうと思ったけれど、1981の忘年会に行くことになった。</p>
 <blockquote class="twitter-tweet">

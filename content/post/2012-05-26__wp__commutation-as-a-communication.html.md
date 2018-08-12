@@ -8,7 +8,7 @@ draft = false
 
 <p>ソーシャルアニマルであるところの人間は、よっぽど山奥にこもって人との接点を断って暮らすでもしない限り、日常的に「交換」をして生きる動物です。思い切り広く捉えれば、呼吸や食事も「交換」の一種なので、他者が存在する世界に生を受けるということは、本質的に「交換を強いられ続ける」ことと言えるかもしれません。</p>
 <p>最近、そんな「交換」について思うことがあったので、今の気持ちを書き記しておきます。</p>
-<p><a href="http://www.flickr.com/photos/kawataso/3664299662/" title="DSC_9804 by kawataso, on Flickr"><img src="http://farm4.staticflickr.com/3327/3664299662_b6715ddb93_z.jpg" width="640" height="426" alt="DSC_9804"></a><br />
+<p><a href="http://www.flickr.com/photos/kawataso/3664299662/" title="DSC_9804 by kawataso, on Flickr"><img src="http://farm4.staticflickr.com/3327/3664299662_b6715ddb93_z.jpg" alt="DSC_9804"></a><br />
 (2009年の「june29&amp;いがいが合同お誕生日呑み会」の写真)</p>
 <h3>「交換」というコミュニケーション</h3>
 <p>交換には必ず「2人以上のプレイヤー」が必要です。便宜上、単位は「人」として書きましたが、プレイヤーが人間である必要はありません。</p>

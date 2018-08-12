@@ -27,7 +27,7 @@ draft = false
 <p>(上の Tweet は抽象的なお話の例です)</p>
 <p>そこで、考えました。「これまでに起きたこと」を指して「こういうことが起きるのが、高専カンファレンスという場です」と説明するのもひとつではないか、と。高専カンファレンスエフェクトでは「こんなことが起きた」というエフェクトを、ひとつでも多く集めたいと思っています。</p>
 <h3>実現したいこと</h3>
-<p><a href="http://www.flickr.com/photos/june29/6887477288/" title="june696 by june29, on Flickr"><img src="http://farm8.staticflickr.com/7138/6887477288_6a989fe55c_z.jpg" width="640" height="420" alt="june696"></a></p>
+<p><a href="http://www.flickr.com/photos/june29/6887477288/" title="june696 by june29, on Flickr"><img src="http://farm8.staticflickr.com/7138/6887477288_6a989fe55c_z.jpg" alt="june696"></a></p>
 <p>以下、開催までに考えていたこと、盛り込んだ方針などを、ざっと。</p>
 <ul>
 <li>「高専カンファレンスって、なあに？」という人があらわれたときに、規模感や雰囲気を伝えられるモノがほしい</li>

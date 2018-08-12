@@ -32,7 +32,7 @@ draft = false
 <h3>まとめ</h3>
 <p>ご献本をいただきまして「スタートアップRuby」を読みました！夏の暑い日に読んだので、目に汗をかくような気持ちの昂りとともに読みました。</p>
 <p>筆者さんにとっての「なぜ Ruby か」がめいいっぱい語られていて、自分にとっての「なぜ」をあらためて考えてみるきっかけをもらいました。これからの自身のプログラマ人生や、キャリアプランを考えている人は、いくつかある選択肢のひとつになるであろう「Rubyの道」をのぞいてみるつもりで、本書をめくってみるとよいと思います。「プログラミング言語 Ruby と生きていく」ということについて、いくらかの未来を視ることができるでしょう。</p>
-<p><a href="http://www.flickr.com/photos/june29/7668029696/" title="スタートアップRuby by june29, on Flickr"><img src="http://farm9.staticflickr.com/8144/7668029696_de11613a0e_z.jpg" width="640" height="428" alt="スタートアップRuby"></a></p>
+<p><a href="http://www.flickr.com/photos/june29/7668029696/" title="スタートアップRuby by june29, on Flickr"><img src="http://farm9.staticflickr.com/8144/7668029696_de11613a0e_z.jpg" alt="スタートアップRuby"></a></p>
 <h3>おまけ</h3>
-<p><img src="http://img.skitch.com/20120729-crmkni27dy3m2pes3mm88qgqst.png" alt="著者RTをコンプリート" width="430" height="109" /></p>
+<p><img src="http://img.skitch.com/20120729-crmkni27dy3m2pes3mm88qgqst.png" alt="著者RTをコンプリート" /></p>
 <p>無事に著者RTをコンプリートしたので、次はサインをコンプリートしたい！</p>

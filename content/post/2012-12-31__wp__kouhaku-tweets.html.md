@@ -11,7 +11,7 @@ draft = false
 <p>かれこれ2年半ほど尊敬の眼差しを送り続けているゴールデンボンバー兄さんが出場する。ファンとしては、2012年の1月に「なんで2011年は紅白に呼ばれなかったんだ！」と叫び、もし呼ばれていたらこんな衣装でした、と「さよなら冬美」を歌った大阪城ホールでのライブを思い出す。</p>
 <p><iframe width="640" height="360" src="http://www.youtube.com/embed/zGNE7epPtfc" frameborder="0" allowfullscreen></iframe></p>
 <p>他には、きゃりーぱみゅぱみゅ先輩が出場する。ぼくは「もしもし原宿」のジャケット写真を真似してしまうほどの、ぱみゅ先輩の写真付きツイートはほぼすべてファブしてしまうほどの、ファンであった。</p>
-<p><a href="http://www.flickr.com/photos/june29/6156998075/" title="Untitled by june29, on Flickr"><img src="http://farm7.staticflickr.com/6202/6156998075_c86af082db_z.jpg" width="640" height="428" alt="Untitled"></a></p>
+<p><a href="http://www.flickr.com/photos/june29/6156998075/" title="Untitled by june29, on Flickr"><img src="http://farm7.staticflickr.com/6202/6156998075_c86af082db_z.jpg" alt="Untitled"></a></p>
 <p>さらに、石川さゆりさんの歌唱シーンの背景映像を、漫画家の荒木飛呂彦先生が担当するというではないか。</p>
 <blockquote class="twitter-tweet">
 <p>今年の紅白の見たさ、観測史上最高な感じする。</p>
@@ -50,7 +50,7 @@ draft = false
 <p>そんなこんなキャッキャと過ごしている間に、いつの間にか新年を迎えていた。ハッピーニューイヤー、2013年！！！</p>
 <h3>成果物</h3>
 <p>こんな感じで、1分ごとのツイート数をチャート化してみた。</p>
-<p><img src="http://c714091.r91.cf2.rackcdn.com/9850fdfb4b64c802f67b454b2b77aa58db9ad69c70.png" alt="" width="815" height="409"></p>
+<p><img src="http://c714091.r91.cf2.rackcdn.com/9850fdfb4b64c802f67b454b2b77aa58db9ad69c70.png" alt=""></p>
 <p><a href="http://june29.github.com/kouhaku-tweets/" title="KOUHAKU Tweets">KOUHAKU Tweets</a></p>
 <p>「全ツイート」の他にも「指定のアーティスト名を含む」を条件としてフィルタした場合の数を何種類か出してみた。</p>
 <p>ツイートの JSON をゴロンと保存してあるので、たとえば「最もよくリツイートされたツイート」なんかも出せるし、色々と遊べそうではあるのだけれど、けっこういい時間になっていたので、ひとまずこの状態で公開し、ヴィム様に迷惑を掛けすぎる前に帰路に着くことを選んだ。</p>

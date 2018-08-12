@@ -14,9 +14,9 @@ draft = false
 <p>この番外編では、こぼれ話みたいなものを書きます。</p>
 <h3>翌日の遠足とハッカソンのこと</h3>
 <p>地方開催では恒例になりつつある、本会翌日の「遠足」について、です。釧路の遠足では<a href="http://izumiya946.com/honten.html" title="レストラン泉屋">レストラン泉屋</a>の名物料理「スパカツ」を食べに行きました。ぼくなんかは釧路に帰るたびに食べている鉄板料理です。今年の夏にはモスバーガーから<a href="http://mos.jp/cp/area/supakatsu/0/" title="日本の元気いただきモス2012：スパカツバーガー/ザンギバーガー｜モスバーガー モバイル">スパカツバーガー</a>なるものも登場しましたので、認知度も少し上がっているかもしれませんね。</p>
-<p><img src="http://distilleryimage0.s3.amazonaws.com/eb9aaad0312a11e28fa722000a1fbcea_7.jpg" alt="" width="612" height="612"></p>
+<p><img src="http://distilleryimage0.s3.amazonaws.com/eb9aaad0312a11e28fa722000a1fbcea_7.jpg" alt=""></p>
 <p>スパカツの登場を待っている間に、そこにいた参加者にはビンゴカードが配られました。ビンゴを楽しむ企画を用意してくれていたのですね。</p>
-<p><img src="http://distilleryimage1.s3.amazonaws.com/fb758388312c11e28dba22000a1f97e5_7.jpg" alt="" width="612" height="612"></p>
+<p><img src="http://distilleryimage1.s3.amazonaws.com/fb758388312c11e28dba22000a1f97e5_7.jpg" alt=""></p>
 <p>しかし！そこにはビンゴカードしかなかった！いわゆる「ビンゴマシン」がなかったので、あそなすくんとぼくはスッと MacBook Pro を開いて、その場でビンゴの発番アプリをつくることにしました。ビンゴアプリハッカソンだ！</p>
 <p>Ruby で書こうか JavaScript で書こうか迷ったのだけれど、画面に数字を大きく表示させたいな、ってことで HTML/CSS/JavaScript でつくることにして作業を開始しました。ぼくはだいたい15分くらいかかっちゃったんだけれど、先にあそなすくんが Rails で動くものを完成させたので、そっちのアプリでビンゴ大会は進行しました。記念なのでリポジトリにアップしておきます。</p>
 <ul>
@@ -43,7 +43,7 @@ draft = false
 <p>北海道に学生技術者コミュニティを根付かせようとたくさんの活動をしてきたおふたり。オノデス先輩は、今も北海道にいて。リァフ先輩は、今回の釧路だけでなく、夏には北見のイベントにも足を運んでいました。そういった活動のおかげで、今回も、釧路外から若い人たちの参加があったと思うし、この手のアクティビティが少しずつ浸透していっているのだと感じました。感謝したい。</p>
 <h3>釧路OSSのこと</h3>
 <p>去年、2011年の秋に<a href="http://june29.jp/2011/09/22/ldd11f/" title="「LDD’11/Fall in KUSHIRO」に参加してきました - 準二級.jp">「LDD’11/Fall in KUSHIRO」に参加</a>させてもらって、そのときにも、釧路のコミュニティと母校の子たちをガッチャンコできないかなぁって、ぼんやりと考えていて。それから釧路開催に向けて具体的に動きはじめるまで、少し時間は経ってしまったのだけれど。</p>
-<p><a href="http://www.flickr.com/photos/bokusama/6168843182/" title="DSC_0061 by bokusama, on Flickr"><img src="http://farm7.staticflickr.com/6158/6168843182_216f9452ac_z.jpg" width="640" height="425" alt="DSC_0061"></a><br />
+<p><a href="http://www.flickr.com/photos/bokusama/6168843182/" title="DSC_0061 by bokusama, on Flickr"><img src="http://farm7.staticflickr.com/6158/6168843182_216f9452ac_z.jpg" alt="DSC_0061"></a><br />
 (「来年は高専カンファレンスを巻き込んでなにかやりたい」と言うだけ言った2011年のぼくだ)</p>
 <p>今年の春に釧路OSSのサイトー先輩が東京にきていた際に、ごはんをご一緒させてもらえる機会があって。コミュニティ活動が学生にリーチするまで「6年かかった」というお話なんかは、本当にじんわりときたんだ。</p>
 <blockquote class="twitter-tweet">

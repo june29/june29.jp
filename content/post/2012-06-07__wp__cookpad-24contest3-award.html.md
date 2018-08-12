@@ -12,10 +12,10 @@ draft = false
 <li><a href="http://darashi.net/2012/05/15/oyasumi-shower.html" title="おやすみのシャワーを浴びて寝るために僕らがしてきたこと | だらろぐ。">おやすみのシャワーを浴びて寝るために僕らがしてきたこと | だらろぐ。</a></li>
 <li><a href="http://june29.jp/2012/05/16/oyasumi-shower-on-cookpad-24contest3/" title="おやすみのシャワーを浴びて眠ろう！「おやすみシャワー」をつくったぼくらの24時間 - 準二級.jp">おやすみのシャワーを浴びて眠ろう！「おやすみシャワー」をつくったぼくらの24時間 &#8211; 準二級.jp</a></li>
 </ul>
-<p><a href="http://www.flickr.com/photos/sora_h/7326377068/" title="P6034850 by sora_h, on Flickr"><img src="http://farm8.staticflickr.com/7238/7326377068_656fa44ebe_z.jpg" width="640" height="480" alt="P6034850"></a></p>
+<p><a href="http://www.flickr.com/photos/sora_h/7326377068/" title="P6034850 by sora_h, on Flickr"><img src="http://farm8.staticflickr.com/7238/7326377068_656fa44ebe_z.jpg" alt="P6034850"></a></p>
 <p>チームの4人で行ってきたよ！そらはー先輩、写真を撮ってくれてありがとう！</p>
 <h3>作品紹介トーク</h3>
-<p><a href="http://www.flickr.com/photos/sora_h/7326465134/" title="P6035026 by sora_h, on Flickr"><img src="http://farm9.staticflickr.com/8167/7326465134_5993567ed0_z.jpg" width="640" height="480" alt="P6035026"></a></p>
+<p><a href="http://www.flickr.com/photos/sora_h/7326465134/" title="P6035026 by sora_h, on Flickr"><img src="http://farm9.staticflickr.com/8167/7326465134_5993567ed0_z.jpg" alt="P6035026"></a></p>
 <p>「作品紹介トークを」というお誘いでしたが、チームで色々と相談した結果として、いかにしてその作品をつくっていったのかという「プロセス」に寄せたお話を用意させてもらいました。</p>
 <p>おかげさまで、去年の第2回に続いて今年の第3回においても特別賞を授けていただき、とても光栄なことです。今回、新たなメンバー1人を迎えながらも、チームとして大切にしていることは前回と変わっていませんでした。肩に力を入れすぎず、ぼくらがいつも「大切にしたい」と思っていることを、コンテストの24時間、休むことなく「大切にしつづける」これがスタンスです。もしまた来年、第4回の「開発コンテスト24」が開催され、そこにぼくたちが参加することになったとしても、きっとスタンスは変わらないと思います。ぼくらにとっての「カタ」があります。ただ、基礎能力は日々の中でしっかりと向上させて、同じ「カタ」で、もっと美しい演舞をできるようにと願って。</p>
 <p>ここで、表彰式に参加されていた serihiro さんのエントリからの引用を挟みます。</p>
@@ -38,7 +38,7 @@ draft = false
 <p>第3回「開発コンテスト24」の表彰式に参加してきました。おいしい料理と楽しいトークに彩られた素敵な時間を過ごしてきました！</p>
 <p>うれしかったのは、コンテキストを共有してお話できる相手がたくさんいたってことです。第3回のテーマにあった「一日の終わり」ってのを、どう捉えたか。どんな観点から、テーマに合わせたプロダクトをデザインしていったのか。共通のテーマに対して、自分と同じように真剣に向き合った人たちがたくさんいて、ちょいちょい「あー、一度は考えましたよね！」なんてお話で盛り上がることができて、うれしかったです。お話相手をしてくださったみなさん、ありがとうでした。</p>
 <p>次回があるのなら、また、なんらかの形で、あの場にいたみなさんとご一緒したいです。運営のクックパッドのみなさん、参加者のみなさん、どうもありがとうございました！</p>
-<p><a href="http://www.flickr.com/photos/sora_h/7326416012/" title="P6034926 by sora_h, on Flickr"><img src="http://farm8.staticflickr.com/7104/7326416012_38820a16fa_z.jpg" width="640" height="480" alt="P6034926"></a></p>
+<p><a href="http://www.flickr.com/photos/sora_h/7326416012/" title="P6034926 by sora_h, on Flickr"><img src="http://farm8.staticflickr.com/7104/7326416012_38820a16fa_z.jpg" alt="P6034926"></a></p>
 <h3>あわせて読みたい</h3>
 <ul>
 <li><a href="http://togetter.com/li/306845" title="「第3回 開発コンテスト24」表彰式 - Togetter">「第3回 開発コンテスト24」表彰式 &#8211; Togetter</a></li>

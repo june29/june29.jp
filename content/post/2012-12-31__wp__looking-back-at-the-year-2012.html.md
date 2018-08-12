@@ -44,7 +44,7 @@ draft = false
 <p>元ボッチの人たちのお話、迫力があってよかった。</p>
 <p>— ⓙⓤⓝⓔ②⑨ (@june29) <a href="https://twitter.com/june29/status/254226871691128833" data-datetime="2012-10-05T14:29:44+00:00">October 5, 2012</a></p></blockquote>
 <p>他のパネラーの人たちと色々とお話できたのもおもしろくて、自分が身を置いている業界(っていうの？)の「コミュニティ」と呼ばれたりするものには、やはり救いがあるなぁとあらためて。いわゆる「お仕事とプライベート」みたいな二項を前提とした論調もあるけれど、コミュニティ活動は、そのふたつの間に、自分の好きなように配置することができるものだと思う。ぼくは「ライフワーク」って言葉を好んで使うのだけれど、これも「Life と Work の間」を意識して使っている。</p>
-<p><img src="http://distilleryimage7.s3.amazonaws.com/9ec089f00eed11e2a7f71231380ff15b_7.jpg" alt="脚がグンバツ" width="306" height="306"></p>
+<p><img src="http://distilleryimage7.s3.amazonaws.com/9ec089f00eed11e2a7f71231380ff15b_7.jpg" alt="脚がグンバツ"></p>
 <blockquote class="twitter-tweet">
 <p>脚がグンバツの女の人に「からあげハッカソンに参加してましたよね？」と言われたのが今日のハイライト</p>
 <p>— ⓙⓤⓝⓔ②⑨ (@june29) <a href="https://twitter.com/june29/status/254227558445490177" data-datetime="2012-10-05T14:32:27+00:00">October 5, 2012</a></p></blockquote>
