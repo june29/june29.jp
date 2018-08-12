@@ -40,4 +40,4 @@ original_url = "http://june29.hatenablog.jp/entry/perfume-6th-tour-2016-cosmic-e
 
 <p>「COSMIC EXPLORER」の曲を中心に、歴代のヒット曲もちょいちょい挟まれていてとても楽しかった。映像効果も盛り盛りで、最初から最後まで楽しんで参加できた。ありがとうございました！</p>
 
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/clothfairy/3354387288/" title="june29偽かしゆかサイン"><img src="https://c1.staticflickr.com/4/3430/3354387288_2901463c2f_z.jpg" width="640" height="479" alt="june29偽かしゆかサイン"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/clothfairy/3354387288/" title="june29偽かしゆかサイン"><img src="https://c1.staticflickr.com/4/3430/3354387288_2901463c2f_z.jpg" alt="june29偽かしゆかサイン"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
