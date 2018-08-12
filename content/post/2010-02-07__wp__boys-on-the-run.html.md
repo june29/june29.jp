@@ -8,7 +8,7 @@ draft = false
 
 <p>「命を賭けて地球の滅亡を防ぐ男」が主人公の映画よりも、「情けなくて愛らしい男の必死の奮闘」を描いた映画を好んで見る。ってのは、ボクの性格をよく表した自己紹介になりそうだ。</p>
 <p>ボクにとっての世界は、ボクが見た、触れた、感じた世界だ。だから、いわゆる「世界」が滅んでしまうことよりも、好きな子が死んでしまうことの方が、よっぽど悲しいことだ。そう思っている。</p>
-<p><a href="http://www.flickr.com/photos/june29/4336604872/" title="ボーイズ・オン・ザ・ラン by june29, on Flickr"><img src="http://farm3.static.flickr.com/2692/4336604872_1898e3868f.jpg" width="500" height="250" alt="ボーイズ・オン・ザ・ラン" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4336604872/" title="ボーイズ・オン・ザ・ラン by june29, on Flickr"><img src="http://farm3.static.flickr.com/2692/4336604872_1898e3868f.jpg" alt="ボーイズ・オン・ザ・ラン" /></a></p>
 <p>映画<a href="http://www.botr.jp/" title="映画「ボーイズ・オン・ザ・ラン」オフィシャルサイト">ボーイズ・オン・ザ・ラン</a>を見てきました。</p>
 <p>ボクは原作の漫画を読んでいません。これから読んでみようと思っているところです。</p>
 <p><ins datetime="2010-02-07T14:00:18+00:00">原作を読んできた。これは絶対に原作を読んでおくべきですね！ビリビリきた。</ins></p>
@@ -37,9 +37,9 @@ draft = false
 </tr>
 </table>
 <h3>「土下座」か「決闘」か。</h3>
-<p><a href="http://www.flickr.com/photos/june29/4332584530/" title="ボーイズ・オン・ザ・ラン by june29, on Flickr"><img src="http://farm5.static.flickr.com/4034/4332584530_29ee5a6476.jpg" width="500" height="334" alt="ボーイズ・オン・ザ・ラン" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4332584530/" title="ボーイズ・オン・ザ・ラン by june29, on Flickr"><img src="http://farm5.static.flickr.com/4034/4332584530_29ee5a6476.jpg" alt="ボーイズ・オン・ザ・ラン" /></a></p>
 <p>ええ、嫌な気持ちになりましたよ！思いっ切り嫌な気持ちになった！最後のシーン、ボクは確かにあの場に自分を存在させていた。これだから情けない主人公のストーリーはいいんだ。ちゃんと感情移入できる。ちゃんと物語に関わることができる。</p>
-<p><a href="http://www.flickr.com/photos/june29/4332583136/" title="道玄坂下 by june29, on Flickr"><img src="http://farm3.static.flickr.com/2769/4332583136_09712b2625.jpg" width="500" height="334" alt="道玄坂下" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4332583136/" title="道玄坂下 by june29, on Flickr"><img src="http://farm3.static.flickr.com/2769/4332583136_09712b2625.jpg" alt="道玄坂下" /></a></p>
 <table  border="0" cellpadding="5">
 <tr>
 <td valign="top"><a href="http://www.amazon.co.jp/%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%BA%E3%83%BB%E3%82%AA%E3%83%B3%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%A9%E3%83%B3-%E9%8A%80%E6%9D%8FBOYZ/dp/B002RLESWG%3FSubscriptionId%3D15SMZCTB9V8NGR2TW082%26tag%3Dcameralady-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB002RLESWG" target="_top"><img src="http://ecx.images-amazon.com/images/I/51KOt5RsKkL._SL160_.jpg" border="0" alt="B002RLESWG" /></a></td>

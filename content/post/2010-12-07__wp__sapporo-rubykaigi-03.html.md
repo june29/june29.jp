@@ -7,15 +7,15 @@ draft = false
 +++
 
 <p><a href="http://regional.rubykaigi.org/sapporo03" title="札幌Ruby会議03 - Regional RubyKaigi">札幌Ruby会議03 &#8211; Regional RubyKaigi</a> に参加してきました。</p>
-<p><a href="http://www.flickr.com/photos/mamitann/5234356340/" title="PC040822 by mamitann, on Flickr"><img src="http://farm6.static.flickr.com/5088/5234356340_f356bd0fd6.jpg" width="500" height="375" alt="PC040822" /></a></p>
+<p><a href="http://www.flickr.com/photos/mamitann/5234356340/" title="PC040822 by mamitann, on Flickr"><img src="http://farm6.static.flickr.com/5088/5234356340_f356bd0fd6.jpg" alt="PC040822" /></a></p>
 <p class="photo-caption">(<a href="http://www.flickr.com/photos/mamitann/5234356340/" title="PC040822 | Flickr - Photo Sharing!">http://www.flickr.com/photos/mamitann/5234356340/</a>)</p>
 <p>会場となった<a href="http://www.sweb.co.jp/hall/index.html" title="「メディアMIXホール」〜札幌で多目的に利用できるホール＆スタジオ〜">メディア MIX ホール</a>、素晴らしかったです。札幌の実行委員の皆さん、良い場所を見つけたものですね！(でも、お高いんでしょ…？)</p>
-<p><a href="http://www.flickr.com/photos/hsbt/5233901544/" title="DSC00758 by hsbt, on Flickr"><img src="http://farm6.static.flickr.com/5008/5233901544_0f79005c8e.jpg" width="500" height="332" alt="DSC00758" /></a></p>
+<p><a href="http://www.flickr.com/photos/hsbt/5233901544/" title="DSC00758 by hsbt, on Flickr"><img src="http://farm6.static.flickr.com/5008/5233901544_0f79005c8e.jpg" alt="DSC00758" /></a></p>
 <p class="photo-caption">(<a href="http://www.flickr.com/photos/hsbt/5233901544/" title="DSC00758 | Flickr - Photo Sharing!">http://www.flickr.com/photos/hsbt/5233901544/</a>)</p>
 <p>今回、弾丸スケジュールだったこともあって(しかも当日の朝は寝坊した)、思い切って「写真は撮らない」と決めてカメラを持たずに参加したので、他の参加者さんが撮影された写真を拝借しながらこのエントリを進めたいと思います。</p>
 <h3>感極まるほどの一体感</h3>
 <p>会期中、そして開催終了から数日が経った今も「感極まる」が半ば冗談のように使われているけれど。実際のところ、会場全体が感極まっているかのように感じられる会議だった。</p>
-<p><a href="http://www.flickr.com/photos/mamitann/5233759041/" title="PC040804 by mamitann, on Flickr"><img src="http://farm6.static.flickr.com/5046/5233759041_086d1fa5ee.jpg" width="500" height="375" alt="PC040804" /></a></p>
+<p><a href="http://www.flickr.com/photos/mamitann/5233759041/" title="PC040804 by mamitann, on Flickr"><img src="http://farm6.static.flickr.com/5046/5233759041_086d1fa5ee.jpg" alt="PC040804" /></a></p>
 <p class="photo-caption">(<a href="http://www.flickr.com/photos/mamitann/5233759041/" title="PC040804 | Flickr - Photo Sharing!">http://www.flickr.com/photos/mamitann/5233759041/</a>)</p>
 <p>ホールは角が丸くなっていて、発された感情がホール内をぐるぐると巡りながら留まっている感じがした。もう少し言うと、</p>
 <ul>
@@ -36,9 +36,9 @@ draft = false
 <h3>それでは、自分の会議を</h3>
 <p>後出しジャンケンですが！会議に参加する人は「議題」を持っていくとよいですね！自分は次から必ずそうしよう。今回は後付けで、消化できた議題について考えてみる。</p>
 <h4>Lightning Talk</h4>
-<p><a href="http://www.slideshare.net/june29/pusher" title="Pusherアプリの作り方">Pusherアプリの作り方</a> <a href="http://b.hatena.ne.jp/entry/http://www.slideshare.net/june29/pusher" class="hatena-bookmark-button" data-hatena-bookmark-title="Pusherアプリの作り方" data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script> という題で Lightning Talks に枠をいただき、発表してきました。</p>
+<p><a href="http://www.slideshare.net/june29/pusher" title="Pusherアプリの作り方">Pusherアプリの作り方</a> <a href="http://b.hatena.ne.jp/entry/http://www.slideshare.net/june29/pusher" class="hatena-bookmark-button" data-hatena-bookmark-title="Pusherアプリの作り方" data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加"><img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" style="border: none;" /></a><script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script> という題で Lightning Talks に枠をいただき、発表してきました。</p>
 <p><object id="__sse6026601" width="500" height="420"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=sprk03-101204020145-phpapp02&#038;stripped_title=pusher&#038;userName=june29" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed name="__sse6026601" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=sprk03-101204020145-phpapp02&#038;stripped_title=pusher&#038;userName=june29" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="420"></embed></object></p>
-<p><a href="http://www.flickr.com/photos/y_ogagaga/5238251428/" title="DSC_0192 by y_ogagaga, on Flickr"><img src="http://farm6.static.flickr.com/5165/5238251428_075d92b150.jpg" width="500" height="334" alt="DSC_0192" /></a></p>
+<p><a href="http://www.flickr.com/photos/y_ogagaga/5238251428/" title="DSC_0192 by y_ogagaga, on Flickr"><img src="http://farm6.static.flickr.com/5165/5238251428_075d92b150.jpg" alt="DSC_0192" /></a></p>
 <p class="photo-caption">(<a href="http://www.flickr.com/photos/y_ogagaga/5238251428/" title="DSC_0192 | Flickr - Photo Sharing!">http://www.flickr.com/photos/y_ogagaga/5238251428/</a>)</p>
 <p>話した内容をざっくり要約すると、以下のような感じです。</p>
 <ul>
@@ -73,10 +73,10 @@ j, k, u, m  みんながオブジェクト倶楽部の夏イベントでした�
 <p>自分が抱えている問題について。須藤さん、かくたにさん、しまださん、みほさん… かっこいい先輩芸人の皆さんとお話できる時間があって、とてもありがたかった。ボクも自分の会議ができたよ。お仕事のこと、コミュニティ運営のこと、プレゼンテーションのこと、ものづくりのこと、地方のこと、日々のこと、人々のこと、自分自身のこと。</p>
 <p>ああ、これは会議だ。議題は大事だ。一人称の問題意識はとても大切だ。皆さん、見てくれているんだなあ。心強い。まだまだ戦えそうだ。ありがとうございました。</p>
 <h3>まとめ</h3>
-<p><a href="http://www.flickr.com/photos/recompile_net/5238876165/" title="Untitled by Naoto Takai, on Flickr"><img src="http://farm6.static.flickr.com/5050/5238876165_a72c7d6d6c.jpg" width="500" height="333" alt="Untitled" /></a></p>
+<p><a href="http://www.flickr.com/photos/recompile_net/5238876165/" title="Untitled by Naoto Takai, on Flickr"><img src="http://farm6.static.flickr.com/5050/5238876165_a72c7d6d6c.jpg" alt="Untitled" /></a></p>
 <p class="photo-caption">(<a href="http://www.flickr.com/photos/recompile_net/5238876165/" title="Untitled | Flickr - Photo Sharing!">http://www.flickr.com/photos/recompile_net/5238876165/</a>)</p>
 <p>札幌Ruby会議03、本当に素晴らしい会議でした！参加できて本当によかった。あの場が成立した事実に感謝をー！</p>
-<p><a href="http://www.flickr.com/photos/y_ogagaga/5238243360/" title="DSC_0175 by y_ogagaga, on Flickr"><img src="http://farm6.static.flickr.com/5048/5238243360_0fca158b00.jpg" width="500" height="334" alt="DSC_0175" /></a></p>
+<p><a href="http://www.flickr.com/photos/y_ogagaga/5238243360/" title="DSC_0175 by y_ogagaga, on Flickr"><img src="http://farm6.static.flickr.com/5048/5238243360_0fca158b00.jpg" alt="DSC_0175" /></a></p>
 <p class="photo-caption">(<a href="http://www.flickr.com/photos/y_ogagaga/5238243360/" title="DSC_0175 | Flickr - Photo Sharing!">http://www.flickr.com/photos/y_ogagaga/5238243360/</a>)</p>
 <p>運営に尽力されたスタッフの皆さん、ありがとうございました。発表者の皆さん、感極まるお話の数々をありがとうございました。あの機会にお会いしたすべての皆さん、どうもありがとうございました！</p>
 <p>写真を撮影・公開してくれている皆さん、ありがとうございます。おかげでこのエントリを書くことができました。</p>

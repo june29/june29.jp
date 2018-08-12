@@ -7,32 +7,32 @@ draft = false
 +++
 
 <p>10代前半まで、繰り返し引っ越しを経験したためか、自分は「土地に対する愛着」を知らずに育ったように感じることがある。人生において「何を成すか」は重要だとしても「何処で成すか」については無頓着であった。だからか、24年間を過ごした北海道を去るときにも、大きな決意は必要なかったんだ。これは、ある種のコンプレックスかもしれないと思っている。</p>
-<p><a href="http://www.flickr.com/photos/june29/4530697006/" title="Passage by june29, on Flickr"><img src="http://farm5.static.flickr.com/4071/4530697006_c3f754c175_o.jpg" width="525" height="525" alt="Passage" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4530697006/" title="Passage by june29, on Flickr"><img src="http://farm5.static.flickr.com/4071/4530697006_c3f754c175_o.jpg" alt="Passage" /></a></p>
 <p>今のお部屋に住むようになってから、丸2年が経過しようとしている。改めて、土地への愛着について考えてみたい。</p>
 <h3>アイデンティティとしての土地</h3>
 <p>愛着云々、なんて言ってみても、ボクは北海道が大好きだ。だけど離れてしまったのもまた事実。大好き、だけど離れた。</p>
 <p>「北海道出身」はボクの大切な自己紹介のひとつだ。これを示すだけでコミュニケーションが円滑になったりする。ボクのアイデンティティのひとつと言えよう。</p>
 <p>「大田区蒲田在住」も、自己紹介のときに言う。北海道ほど胸を張って「大好き」とは言えないけれど、この辺りは好き。もうしばらく住んでみるつもり。</p>
-<p><a href="http://www.flickr.com/photos/june29/4530558236/" title="Stairway to the sky by june29, on Flickr"><img src="http://farm5.static.flickr.com/4061/4530558236_ec62df6941_o.jpg" width="525" height="525" alt="Stairway to the sky" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4530558236/" title="Stairway to the sky by june29, on Flickr"><img src="http://farm5.static.flickr.com/4061/4530558236_ec62df6941_o.jpg" alt="Stairway to the sky" /></a></p>
 <p>北海道の、例えば札幌に住んでいた頃。買い物に出掛けたり、飲みに行ったりする場所って、もう大体決まっていて、詳しい人がひとりいればそれで事足りる。田舎に行けば行くほど、その傾向は強いだろう。ところが東京だと、駅ごとに景色が違っていて、東京の外から見た人がいう「東京」という言葉が指すような、ただひとつの東京は存在していない。だから、地域ごとに、詳しい人がいるとよい。東京に人が集まることを「一極集中」と言うこともできるけれど、同時に、東京内では「多極分散」が起こっているとも言える。</p>
 <h3>アイデンティティとおもてなし</h3>
 <p>「じゅーんさん、遊ぼう！」「飲みましょう！」「写真を撮りに行きましょう！」とありがたいお誘いをくれるお友だちにボクができる恩返しといえば、せいいっぱいの自分で接することだけだ。ボクに声をかけてくれたのだから、ボクの何かに少なからず期待してくれている。誰にでもできるようなおもてなししか出せないようだったら、そこにいるのはボクじゃなくてよい。</p>
-<p><a href="http://www.flickr.com/photos/june29/4562853196/" title="Untitled by june29, on Flickr"><img src="http://farm5.static.flickr.com/4020/4562853196_7945da7e85_o.jpg" width="525" height="525" alt="" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4562853196/" title="Untitled by june29, on Flickr"><img src="http://farm5.static.flickr.com/4020/4562853196_7945da7e85_o.jpg" alt="" /></a></p>
 <p>さらに、自分の活動地域にお友だちが遊びにきてくれるときは、そこにしかない楽しみ方をしてもらいたいと思う。ステキな景色に、美味しいお店に、連れていきたいって思う。やっぱり土地はアイデンティティなんだ。</p>
 <h3>その土地にしかないもの</h3>
 <p>「インターネットは距離を超える」なんてのは、あるところから先は全部嘘だ。ここ1年ぐらいの間、イベントに参加するために九州、北陸、東北へと足を運んだ。たったこれだけの体験で、嘘だと分かった。</p>
-<p><a href="http://www.flickr.com/photos/june29/4562223241/" title="Untitled by june29, on Flickr"><img src="http://farm4.static.flickr.com/3471/4562223241_e78db61689_o.jpg" width="525" height="525" alt="" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4562223241/" title="Untitled by june29, on Flickr"><img src="http://farm4.static.flickr.com/3471/4562223241_e78db61689_o.jpg" alt="" /></a></p>
 <h3>子どもたちは野良猫の名前を知っていた</h3>
 <p>ボクは、この土地を愛そうと思った。この土地に、さらなる愛着を持って生きてみようと思った。最近は暇を見つけてはお散歩に出かけている。</p>
 <p>お散歩したり、運動のためにこの辺りを走ったりしていると、1週間で30匹くらいの野良猫と出会う。だけどボクは、猫たちの顔を全然覚えられなくて、目の前にいる子が、初めて会う子なのか、以前に会ったことがある子なのか、全然分からなくてとても悲しい。</p>
 <p>今日のお散歩のとき、野良猫と遊んでいたら、近くで遊んでいた子どもたちが話しかけてきてくれた。</p>
 <p>「なんで写真を撮っているのー？」「この辺りのことをもっと知りたいと思ったからだよ」「はじめてきたのー？」「近くに住んでいるんだけれど、あんまり知らなくてね。この猫は知っている子かい」「メリーだよ！メリーおいで！」</p>
-<p><a href="http://www.flickr.com/photos/june29/4562852912/" title="Untitled by june29, on Flickr"><img src="http://farm5.static.flickr.com/4007/4562852912_19a8c81b27_o.jpg" width="525" height="525" alt="" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4562852912/" title="Untitled by june29, on Flickr"><img src="http://farm5.static.flickr.com/4007/4562852912_19a8c81b27_o.jpg" alt="" /></a></p>
 <p>子どもたちは、野良猫のことを知っていた。いつも遊んでいる場所まで案内してくれた。もじゃもじゃのボクを本当に温かく迎え入れてくれて、感謝の気持ちでいっぱいだ。あの子たちは、この地で豊かな毎日を生きているのだろう。とても勉強になった。</p>
 <h3>気持ちを新たにして</h3>
-<p><a href="http://www.flickr.com/photos/june29/4562223063/" title="Untitled by june29, on Flickr"><img src="http://farm5.static.flickr.com/4015/4562223063_5a6c3d1b35_o.jpg" width="525" height="525" alt="" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4562223063/" title="Untitled by june29, on Flickr"><img src="http://farm5.static.flickr.com/4015/4562223063_5a6c3d1b35_o.jpg" alt="" /></a></p>
 <p>土地を愛して生きることは、豊かな日々を得るためにとても大切なことのようだ。他の地では得られない体験を重ねていけば、個人の豊かさにもつながるだろう。この足で歩き、この目で見た景色を、この肌で感じた空気を、覚えておきたい。せっかくだから、この指でシャッターを切っておこう。</p>
 <p>ボクはこの街が好きだ。大田区蒲田が好きだ。興味があったら、遊びにきてほしい。美味しいものを食べながら、楽しくお話しよう。悪ふざけしよう。ボクも君の街へ遊びに行くから、そのときは、おもてなししてほしいよ。</p>
-<p><a href="http://www.flickr.com/photos/june29/4562852698/" title="Untitled by june29, on Flickr"><img src="http://farm5.static.flickr.com/4068/4562852698_6ae8572cca_o.jpg" width="525" height="525" alt="" /></a></p>
-<p><a href="http://www.flickr.com/photos/june29/4562222645/" title="Untitled by june29, on Flickr"><img src="http://farm4.static.flickr.com/3032/4562222645_ca78924706_o.jpg" width="525" height="525" alt="" /></a></p>
-<p><a href="http://www.flickr.com/photos/june29/4550282542/" title="雨の日の長靴 by june29, on Flickr"><img src="http://farm5.static.flickr.com/4038/4550282542_4526625b91_o.jpg" width="525" height="525" alt="雨の日の長靴" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4562852698/" title="Untitled by june29, on Flickr"><img src="http://farm5.static.flickr.com/4068/4562852698_6ae8572cca_o.jpg" alt="" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4562222645/" title="Untitled by june29, on Flickr"><img src="http://farm4.static.flickr.com/3032/4562222645_ca78924706_o.jpg" alt="" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4550282542/" title="雨の日の長靴 by june29, on Flickr"><img src="http://farm5.static.flickr.com/4038/4550282542_4526625b91_o.jpg" alt="雨の日の長靴" /></a></p>

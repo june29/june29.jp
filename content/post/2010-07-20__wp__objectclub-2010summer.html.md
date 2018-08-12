@@ -15,7 +15,7 @@ draft = false
 <p>24歳まで続いた学業を終えて、就職のために東京にやってきてから2年と少し。毎日、お仕事しながら、お仕事以外の活動を続けながら、自分と向き合いながら、先人たちの姿を見ながら、考え始めては思考の沼にハマりがちな「どうやってこの世界を生き抜いていくか」について。現時点での自分の考えを90枚の背景画像とともに話す機会となりました。</p>
 <p>講演では、みっつのキーワードとして「Life / Work / Profession」を置きました。</p>
 <p>自分のまわりを見渡してみると「個性を輝かせて生きている人は美しい。こんな人たちが増えたら嬉しい。願わくば、自分もそうありたい」と思わされるときがあります。どのように暮らし、どのように働き、どのように生き続けていくか。自分らしく生きていくために、何を大事にしたらいいか。答えは分かりません。これからもっともっと考えていくことになるのだと思います。</p>
-<p><a href="http://www.flickr.com/photos/hsbt/4798417445/" title="IMG_0026 by hsbt, on Flickr"><img src="http://farm5.static.flickr.com/4100/4798417445_bb491247c5.jpg" width="500" height="374" alt="IMG_0026" /></a></p>
+<p><a href="http://www.flickr.com/photos/hsbt/4798417445/" title="IMG_0026 by hsbt, on Flickr"><img src="http://farm5.static.flickr.com/4100/4798417445_bb491247c5.jpg" alt="IMG_0026" /></a></p>
 <p class="photo-caption"><a href="http://www.flickr.com/photos/hsbt/4798417445/" title="IMG_0026 | Flickr - Photo Sharing!">http://www.flickr.com/photos/hsbt/4798417445/</a></p>
 <h3>イベントについて</h3>
 <h4>関将俊さんの招待講演「ファッションと実践」</h4>

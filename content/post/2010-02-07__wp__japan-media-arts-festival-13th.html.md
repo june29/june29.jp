@@ -9,7 +9,7 @@ draft = false
 <p>去年に続き、今年も行ってきました！ (去年のエントリ: <a href="http://june29.jp/2009/02/12/japan-media-arts-festival-12th/" title="文化庁メディア芸術祭に行ってきた - 準二級.jp">文化庁メディア芸術祭に行ってきた</a>)</p>
 <p><a href="http://plaza.bunka.go.jp/festival/2009/information/" title="平成21年度（第13回）文化庁メディア芸術祭 フェスティバル情報 | 文化庁メディア芸術プラザ">平成21年度（第13回）文化庁メディア芸術祭 フェスティバル情報 | 文化庁メディア芸術プラザ</a></p>
 <p>去年はひとりで行って、帰りがけに偶然、<a href="http://twitter.com/magurojp" title="☆まぐろ☆ (magurojp) on Twitter">@magurojp</a> と <a href="http://twitter.com/hiro_0412" title="ほんだ、 (hiro_0412) on Twitter">@hiro_0412</a> の2人がデートしているところに遭遇したのだった。今年は、一緒に行こうと言ってくれた <a href="http://twitter.com/ZoAmichi" title="ゾアミチ (ZoAmichi) on Twitter">@ZoAmichi</a> くんと行ってきたよ。今回も楽しい写真をバシバシ撮ろうと張り切って向かったのだけれど、場内は撮影禁止でした。仕方のないこととは言え、とても残念だった。「これは撮りたい…！」ってカットが溢れていた。</p>
-<p><a href="http://www.flickr.com/photos/june29/4336573091/" title="文化庁メディア芸術祭 受賞作品集 by june29, on Flickr"><img src="http://farm3.static.flickr.com/2708/4336573091_1ab1d6b9f4.jpg" width="500" height="333" alt="文化庁メディア芸術祭 受賞作品集" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4336573091/" title="文化庁メディア芸術祭 受賞作品集 by june29, on Flickr"><img src="http://farm3.static.flickr.com/2708/4336573091_1ab1d6b9f4.jpg" alt="文化庁メディア芸術祭 受賞作品集" /></a></p>
 <h3>作品たち</h3>
 <p>写真がないので、受賞作品集をめくりながら自分用メモを残します。参照を示しやすい作品が中心。ここには書けないけど面白い展示は他にもいっぱいあったよ！</p>
 <h4>Jamming Gear</h4>

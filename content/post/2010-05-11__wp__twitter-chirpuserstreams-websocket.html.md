@@ -8,7 +8,7 @@ draft = false
 
 <p>Twitter の <a href="http://apiwiki.twitter.com/ChirpUserStreams" title="desc">ChirpUserStreams</a> を WebSocket で垂れ流して閲覧できるアプリを作りました！WebSocket 対応ブラウザ(Chrome 等)でお楽しみください！WebSocket すごい！ユーザ体験が変わる！</p>
 <p><a href="http://libelabo.jp/twitter/" title="ChirpUserStreams =&gt; WebSocket">ChirpUserStreams =&gt; WebSocket</a></p>
-<p><img width="650" src="http://img.skitch.com/20100511-eagmgcsmx6qiwdwjedjydy3f8u.png" alt="Tweets and Events" /></p>
+<p><img src="http://img.skitch.com/20100511-eagmgcsmx6qiwdwjedjydy3f8u.png" alt="Tweets and Events" /></p>
 <p>ボク <a href="http://twitter.com/june29" title="Jun OHWADA (june29) on Twitter">@june29</a> と <a href="http://twitter.com/kei_s" title="kei-s (kei_s) on Twitter">@kei_s</a> から見た世界を体験できるようにしてあります。ChirpUserStreams については、以前にエントリを書きました。</p>
 <p><a href="http://june29.jp/2010/04/29/twitter-chirp-user-streams/" title="TwitterのChirpUserStreamsをごくごくしてみた - 準二級.jp">TwitterのChirpUserStreamsをごくごくしてみた</a></p>
 <p>本家の API がベータ版であり、まだまだ不安定なので、たまにスクリプトの再起動をかけたりしながら動かしています。見てみたいけど「なんにも表示されないよ？」って方がいたら、<a href="http://twitter.com/june29" title="Jun OHWADA (june29) on Twitter">@june29</a> や <a href="http://twitter.com/kei_s" title="kei-s (kei_s) on Twitter">@kei_s</a> に話しかけてみてください。対応できるかもしれません。</p>
@@ -19,7 +19,7 @@ draft = false
 <p>ソースコード: <a href="http://github.com/june29/chirp2websocket" title="june29's chirp2websocket at master - GitHub">june29&#8217;s chirp2websocket at master &#8211; GitHub</a></p>
 <h3>ChirpUserStreams を WebSocket に流すまで</h3>
 <p>システムの基本構成は以下の通りです。</p>
-<p><img width="600" src="http://img.skitch.com/20100511-mhuibnr1t2w2nycdryfq1ek7bk.png" alt="基本構成" /></p>
+<p><img src="http://img.skitch.com/20100511-mhuibnr1t2w2nycdryfq1ek7bk.png" alt="基本構成" /></p>
 <p>Twitter の ChirpUserStreams が「水道の蛇口」だとしたら、Ruby でつくったホースを蛇口につなぎ、ホースのもう一端に WebSocket のアタッチメントをつけました、というところ。protected な対象はホースに仕掛けたフィルタで除去します。Chrome 等の WebSocket 対応ブラウザでアクセスすると、まるで水のように tweet と event が流れてきます。面白いのは、すべてのデータは「フロー」であって、システム内に一切の「ストック」を持たない点です。ユーザが自由に蛇口とホースとアタッチメントを選べるようになったら本当に面白いことになりそう。</p>
 <p>さてさて、せっかくなので ChirpUserStreams で遊びたい放題しようと思い、以下のような構成のシステムを動かしています。</p>
 <p><img src="http://img.skitch.com/20100511-nrxt79mtr2ycueqpmyb5tr4c7y.png" alt="全体構成" /></p>

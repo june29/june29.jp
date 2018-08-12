@@ -6,12 +6,12 @@ draft = false
 
 +++
 
-<p><a href="http://www.flickr.com/photos/kawataso/4316497007/" title="DSC_0892 by kawataso, on Flickr"><img src="http://farm3.static.flickr.com/2725/4316497007_dd21f8190f.jpg" width="500" height="332" alt="DSC_0892" /></a></p>
+<p><a href="http://www.flickr.com/photos/kawataso/4316497007/" title="DSC_0892 by kawataso, on Flickr"><img src="http://farm3.static.flickr.com/2725/4316497007_dd21f8190f.jpg" alt="DSC_0892" /></a></p>
 <p class="photo-caption">(Taken by <a href="http://www.flickr.com/photos/kawataso/" title="Flickr: kawataso's Photostream">kawataso</a>)</p>
 <p>通算10回目の高専カンファレンスとなる<a href="http://kosenconf.jp/012hachinohe" title="高専カンファレンス in 八戸 - 高専カンファレンス Wiki">高専カンファレンス in 八戸</a>に参加してきました。</p>
-<p><a href="http://www.flickr.com/photos/june29/4318024231/" title="発表者の位置から見た会場 by june29, on Flickr"><img src="http://farm3.static.flickr.com/2744/4318024231_aeae8672ab.jpg" width="500" height="334" alt="発表者の位置から見た会場" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4318024231/" title="発表者の位置から見た会場 by june29, on Flickr"><img src="http://farm3.static.flickr.com/2744/4318024231_aeae8672ab.jpg" alt="発表者の位置から見た会場" /></a></p>
 <p>毎回言っていますが、今回も言いましょう。地方開催はとても素晴らしい！そんな風に思わせてくれるカンファレンスでした。楽しい仲間たちと、楽しいひとときを過ごすことができました。</p>
-<p><a href="http://www.flickr.com/photos/kawataso/4317224968/" title="DSC_0742 by kawataso, on Flickr"><img src="http://farm5.static.flickr.com/4008/4317224968_c899347b9f.jpg" width="500" height="332" alt="DSC_0742" /></a></p>
+<p><a href="http://www.flickr.com/photos/kawataso/4317224968/" title="DSC_0742 by kawataso, on Flickr"><img src="http://farm5.static.flickr.com/4008/4317224968_c899347b9f.jpg" alt="DSC_0742" /></a></p>
 <p class="photo-caption">(Taken by <a href="http://www.flickr.com/photos/kawataso/" title="Flickr: kawataso's Photostream">kawataso</a>)</p>
 <h3>寒そうなヤツは大体友達</h3>
 <p>今回は一般発表の枠をひとつもらいました。発表の冒頭に入れたお話をここでもします。</p>
@@ -19,7 +19,7 @@ draft = false
 <div style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;">View more <a style="text-decoration:underline;" href="http://www.slideshare.net/">presentations</a> from <a style="text-decoration:underline;" href="http://www.slideshare.net/june29">Jun OHWADA</a>.</div>
 </div>
 <p>第3回の高専カンファレンスが2008年12月6日(土)に東京で開催されたとき、ボクは Lightning Talks の発表者でした。</p>
-<p><a href="http://www.flickr.com/photos/kawataso/4317231860/" title="DSC_0922 by kawataso, on Flickr"><img src="http://farm3.static.flickr.com/2750/4317231860_f2e4903897.jpg" width="500" height="332" alt="DSC_0922" /></a></p>
+<p><a href="http://www.flickr.com/photos/kawataso/4317231860/" title="DSC_0922 by kawataso, on Flickr"><img src="http://farm3.static.flickr.com/2750/4317231860_f2e4903897.jpg" alt="DSC_0922" /></a></p>
 <p class="photo-caption">(Taken by <a href="http://www.flickr.com/photos/kawataso/" title="Flickr: kawataso's Photostream">kawataso</a>)</p>
 <blockquote><p>
 自己紹介スライドで使った「北海道生まれ北海道育ち 寒そうなヤツは大体友達」ってフレーズは，東北から駆け付けてくれた現役高専生との出会いをもたらしてくれた</p>
@@ -43,26 +43,26 @@ Twitterが有名になればなるほど、地方の若者離れを促進させ�
 <p><a href="http://kosenconf.jp/?012hachinoheTimeTable" title="高専カンファレンス in 八戸 タイムテーブル・発表一覧">高専カンファレンス in 八戸 タイムテーブル・発表一覧</a></p>
 <p>懇親会では、そんな現役生の彼らをまとめてつかまえてお話できて、とっても楽しかった。君たちが「何かある」と感じる方向に向かって、そのままの勢いでどんどん進んでいってほしいと願っています。また君たちの発表を聴きたい。君たちのお話を聴きたい。君たちが熱く話す姿は美しい。また会おう！</p>
 <h3>八戸を満喫</h3>
-<p><a href="http://www.flickr.com/photos/kawataso/4317224906/" title="DSC_0739 by kawataso, on Flickr"><img src="http://farm5.static.flickr.com/4041/4317224906_62876266a9.jpg" width="500" height="332" alt="DSC_0739" /></a></p>
+<p><a href="http://www.flickr.com/photos/kawataso/4317224906/" title="DSC_0739 by kawataso, on Flickr"><img src="http://farm5.static.flickr.com/4041/4317224906_62876266a9.jpg" alt="DSC_0739" /></a></p>
 <p class="photo-caption">(Taken by <a href="http://www.flickr.com/photos/kawataso/" title="Flickr: kawataso's Photostream">kawataso</a>)</p>
-<p><a href="http://www.flickr.com/photos/kawataso/4317277730/" title="DSC_1231 by kawataso, on Flickr"><img src="http://farm5.static.flickr.com/4027/4317277730_1bca60f012.jpg" width="500" height="332" alt="DSC_1231" /></a></p>
+<p><a href="http://www.flickr.com/photos/kawataso/4317277730/" title="DSC_1231 by kawataso, on Flickr"><img src="http://farm5.static.flickr.com/4027/4317277730_1bca60f012.jpg" alt="DSC_1231" /></a></p>
 <p class="photo-caption">(Taken by <a href="http://www.flickr.com/photos/kawataso/" title="Flickr: kawataso's Photostream">kawataso</a>)</p>
 <p>さーて、地方開催と言えば観光がつきものですよー！</p>
-<p><a href="http://www.flickr.com/photos/june29/4318761224/" title="すき焼き by june29, on Flickr"><img src="http://farm5.static.flickr.com/4046/4318761224_e50b6a76ff.jpg" width="500" height="334" alt="すき焼き" /></a></p>
-<p><a href="http://www.flickr.com/photos/june29/4318031655/" title="磯ぞうすい by june29, on Flickr"><img src="http://farm5.static.flickr.com/4001/4318031655_b1d4f0ebe4.jpg" width="500" height="334" alt="磯ぞうすい" /></a></p>
-<p><a href="http://www.flickr.com/photos/june29/4318031899/" title="いかソーメン by june29, on Flickr"><img src="http://farm5.static.flickr.com/4070/4318031899_25954a5ec4.jpg" width="500" height="334" alt="いかソーメン" /></a></p>
-<p><a href="http://www.flickr.com/photos/june29/4318765728/" title="焼きほっけ by june29, on Flickr"><img src="http://farm5.static.flickr.com/4049/4318765728_ba973e2345.jpg" width="500" height="334" alt="焼きほっけ" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4318761224/" title="すき焼き by june29, on Flickr"><img src="http://farm5.static.flickr.com/4046/4318761224_e50b6a76ff.jpg" alt="すき焼き" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4318031655/" title="磯ぞうすい by june29, on Flickr"><img src="http://farm5.static.flickr.com/4001/4318031655_b1d4f0ebe4.jpg" alt="磯ぞうすい" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4318031899/" title="いかソーメン by june29, on Flickr"><img src="http://farm5.static.flickr.com/4070/4318031899_25954a5ec4.jpg" alt="いかソーメン" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4318765728/" title="焼きほっけ by june29, on Flickr"><img src="http://farm5.static.flickr.com/4049/4318765728_ba973e2345.jpg" alt="焼きほっけ" /></a></p>
 <p>普段は小食なボクですが、八戸にいる間は食欲が留まることを知らなくてビックリしました。なんだか、空気が肌に合っていたみたい。面白い人たちと面白いお話をして、美味しいものをもりもり食べて、ぎゃーぎゃー騒いで、これで楽しくないはずがないよ！</p>
-<p><a href="http://www.flickr.com/photos/june29/4318767158/" title="Zig Zag by june29, on Flickr"><img src="http://farm5.static.flickr.com/4045/4318767158_1dc0d96b4f.jpg" width="500" height="334" alt="Zig Zag" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4318767158/" title="Zig Zag by june29, on Flickr"><img src="http://farm5.static.flickr.com/4045/4318767158_1dc0d96b4f.jpg" alt="Zig Zag" /></a></p>
 <p>翌日は、昼間から温泉に入ってお酒を飲んで Hackathon しました！</p>
-<p><a href="http://www.flickr.com/photos/kawataso/4322517834/" title="DSC_1469 by kawataso, on Flickr"><img src="http://farm5.static.flickr.com/4057/4322517834_eee5af6241.jpg" width="500" height="332" alt="DSC_1469" /></a></p>
+<p><a href="http://www.flickr.com/photos/kawataso/4322517834/" title="DSC_1469 by kawataso, on Flickr"><img src="http://farm5.static.flickr.com/4057/4322517834_eee5af6241.jpg" alt="DSC_1469" /></a></p>
 <p class="photo-caption">(Taken by <a href="http://www.flickr.com/photos/kawataso/" title="Flickr: kawataso's Photostream">kawataso</a>)</p>
-<p><a href="http://www.flickr.com/photos/kawataso/4321787707/" title="DSC_1482 by kawataso, on Flickr"><img src="http://farm5.static.flickr.com/4003/4321787707_2b3565eb4e.jpg" width="500" height="332" alt="DSC_1482" /></a></p>
+<p><a href="http://www.flickr.com/photos/kawataso/4321787707/" title="DSC_1482 by kawataso, on Flickr"><img src="http://farm5.static.flickr.com/4003/4321787707_2b3565eb4e.jpg" alt="DSC_1482" /></a></p>
 <p class="photo-caption">(Taken by <a href="http://www.flickr.com/photos/kawataso/" title="Flickr: kawataso's Photostream">kawataso</a>)</p>
-<p><a href="http://www.flickr.com/photos/june29/4318769270/" title="藤川優里さん by june29, on Flickr"><img src="http://farm3.static.flickr.com/2785/4318769270_4d5578c23b.jpg" width="500" height="334" alt="藤川優里さん" /></a></p>
-<p><a href="http://www.flickr.com/photos/june29/4318768818/" title="七福神 + 一人 by june29, on Flickr"><img src="http://farm5.static.flickr.com/4027/4318768818_bd4cf9a7b6.jpg" width="500" height="334" alt="七福神 + 一人" /></a></p>
-<p><a href="http://www.flickr.com/photos/june29/4318771796/" title="八戸駅 by june29, on Flickr"><img src="http://farm5.static.flickr.com/4033/4318771796_97a4a66b5c.jpg" width="500" height="334" alt="八戸駅" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4318769270/" title="藤川優里さん by june29, on Flickr"><img src="http://farm3.static.flickr.com/2785/4318769270_4d5578c23b.jpg" alt="藤川優里さん" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4318768818/" title="七福神 + 一人 by june29, on Flickr"><img src="http://farm5.static.flickr.com/4027/4318768818_bd4cf9a7b6.jpg" alt="七福神 + 一人" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/4318771796/" title="八戸駅 by june29, on Flickr"><img src="http://farm5.static.flickr.com/4033/4318771796_97a4a66b5c.jpg" alt="八戸駅" /></a></p>
 <h3>まとめ</h3>
-<p><a href="http://www.flickr.com/photos/kawataso/4317241808/" title="DSC_1046 by kawataso, on Flickr"><img src="http://farm5.static.flickr.com/4064/4317241808_f9a55b0e1c.jpg" width="500" height="332" alt="DSC_1046" /></a></p>
+<p><a href="http://www.flickr.com/photos/kawataso/4317241808/" title="DSC_1046 by kawataso, on Flickr"><img src="http://farm5.static.flickr.com/4064/4317241808_f9a55b0e1c.jpg" alt="DSC_1046" /></a></p>
 <p class="photo-caption">(Taken by <a href="http://www.flickr.com/photos/kawataso/" title="Flickr: kawataso's Photostream">kawataso</a>)</p>
 <p>高専カンファレンス in 八戸、とても楽しかったです！開催に関わった皆さん、どうもありがとうございました！</p>

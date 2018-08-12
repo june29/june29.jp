@@ -8,7 +8,7 @@ draft = false
 
 <p>「名前、どうしよっか」「んー、Twitter と Notifo だから、Notwifo でいいんじゃないの」「お、いいねー」ってお話をしていたはずなんだけれど、気が付いたら最後の &#8220;o&#8221; が &#8220;e&#8221; に変わって Notwife が名前になっていました。</p>
 <p><a href="http://notwife.heroku.com/" title="Notwife is not your wife.">Notwife is not your wife.</a><br />
-<img width="740" border="0" src="http://img.skitch.com/20101122-ka4is3nh3c643pg9j1qr3nd5nc.png" alt="Notwife is not your wife." /></p>
+<img border="0" src="http://img.skitch.com/20101122-ka4is3nh3c643pg9j1qr3nd5nc.png" alt="Notwife is not your wife." /></p>
 <p><a href="http://twitter.com/kei_s" title="kei-s (kei_s) on Twitter">@kei_s</a> と <a href="http://twitter.com/june29" title="Jun OHWADA (june29) on Twitter">@june29</a> のチームで作ったアプリを紹介します。</p>
 <h3>Notwife ってなあに</h3>
 <p>アプリケーションの説明は <a href="http://notwife.heroku.com/" title="Notwife is not your wife.">Notwife</a> の Web サイトに書いてあります。</p>
