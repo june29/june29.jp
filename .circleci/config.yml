@@ -17,6 +17,9 @@ jobs:
     steps:
       - restore_cache:
           key: hugo-cache
+      - add_ssh_keys:
+          fingerprints:
+            - "c5:9f:01:00:73:c2:d6:cb:32:87:e9:26:73:8f:c4:94"
       - run:
           command: |
             git submodule sync
