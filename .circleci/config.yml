@@ -10,7 +10,7 @@ jobs:
           git submodule sync
           git submodule update --init
       - save_cache:
-          key: hugo-cache-{{ epoch }}
+          key: hugo-cache-{{ .BuildNum }}
           paths:
             - ~/hugo
   build:
@@ -22,10 +22,9 @@ jobs:
           key: hugo-cache
       - run:
           command: |
-            go run ./scripts/generate-entries-json.go
             hugo
       - save_cache:
-          key: hugo-cache-public-{{ epoch }}
+          key: hugo-cache-public-{{ .BuildNum }}
           paths:
             - ~/hugo/public
   deploy:
@@ -37,7 +36,6 @@ jobs:
           key: hugo-cache-public
       - run:
           command: |
-            cd public
             git config --global user.name "${GIT_USER_NAME}"
             git config --global user.email "${GIT_USER_EMAIL}"
             git add --all
