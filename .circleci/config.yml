@@ -25,7 +25,7 @@ jobs:
           command: |
             git init
             git checkout -b gh-pages
-            git remote add origin $CIRCLE_REPOSITORY_URL
+            git remote add origin ssh://git@github.com/june29/june29.jp
             git config --global user.name "${GIT_USER_NAME}"
             git config --global user.email "${GIT_USER_EMAIL}"
             git add --all
