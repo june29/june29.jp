@@ -23,6 +23,8 @@ jobs:
           key: hugo-cache-public-{{ .BuildNum }}
       - run:
           command: |
+            pwd
+            ls -l
             git init
             git checkout -b gh-pages
             git remote add origin ssh://git@github.com/june29/june29.jp
