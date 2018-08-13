@@ -10,7 +10,7 @@ jobs:
           git submodule sync
           git submodule update --init
       - save_cache:
-          key: hugo-cache-{{ .BuildNum }}
+          key: hugo-cache
           paths:
             - ~/hugo
   build:
@@ -24,7 +24,7 @@ jobs:
           command: |
             hugo
       - save_cache:
-          key: hugo-cache-public-{{ .BuildNum }}
+          key: hugo-cache-public
           paths:
             - ~/hugo/public
   deploy:
