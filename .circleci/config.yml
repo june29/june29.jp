@@ -1,0 +1,58 @@
+version: 2
+jobs:
+  checkout_code:
+    docker:
+      - image: june29/golang-hugo
+    working_directory: ~/hugo
+    steps:
+      - checkout
+      - save_cache:
+          key: hugo-cache-{{ epoch }}
+          paths:
+            - ~/hugo
+  build:
+    docker:
+      - image: june29/golang-hugo
+    working_directory: ~/hugo
+    steps:
+      - restore_cache:
+          key: hugo-cache
+      - run:
+          command: |
+            git submodule sync
+            git submodule update --init
+            go run ./scripts/generate-entries-json.go
+            hugo
+      - save_cache:
+          key: hugo-cache-public-{{ epoch }}
+          paths:
+            - ~/hugo/public
+  deploy:
+    machine:
+      enabled: true
+    working_directory: ~/hugo/public
+    steps:
+      - restore_cache:
+          key: hugo-cache-public
+      - run:
+          command: |
+            cd public
+            git config --global user.name "${GIT_USER_NAME}"
+            git config --global user.email "${GIT_USER_EMAIL}"
+            git add --all
+            git diff --quiet --exit-code --cached || git commit -m 'Update content [ci skip]'
+            git push -f origin gh-pages
+workflows:
+  version: 2
+  build_and_deploy:
+    jobs:
+      - checkout_code
+      - build:
+          requires:
+            - checkout_code
+      - deploy:
+          filters:
+            branches:
+              only: master
+          requires:
+            - build
