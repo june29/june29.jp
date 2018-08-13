@@ -1,8 +1,7 @@
 version: 2
 jobs:
   checkout_code:
-    docker:
-      - image: june29/golang-hugo
+    machine: true
     working_directory: ~/hugo
     steps:
       - checkout
@@ -22,15 +21,14 @@ jobs:
           key: hugo-cache-{{ .BuildNum }}
       - run:
           command: |
-            go run ./scripts/generate-entries-json.go
+            go run scripts/generate-entries-json.go
             hugo
       - save_cache:
           key: hugo-cache-public-{{ .BuildNum }}
           paths:
             - ~/hugo/public
   deploy:
-    machine:
-      enabled: true
+    machine: true
     working_directory: ~/hugo/public
     steps:
       - restore_cache:
