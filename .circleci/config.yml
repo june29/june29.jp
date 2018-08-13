@@ -7,14 +7,14 @@ jobs:
     steps:
       - checkout
       - run:
-          name: build
+          name: Build
           command: |
             git submodule sync
             git submodule update --init
             go run scripts/generate-entries-json.go
             hugo
       - run:
-          name: deploy
+          name: Deploy
           command: |
             if [ $CIRCLE_BRANCH = "master" ]; then
               cd public
