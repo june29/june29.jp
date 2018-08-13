@@ -22,6 +22,7 @@ jobs:
           key: hugo-cache
       - run:
           command: |
+            go run ./scripts/generate-entries-json.go
             hugo
       - save_cache:
           key: hugo-cache-public
