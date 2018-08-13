@@ -6,41 +6,24 @@ jobs:
     working_directory: ~/hugo
     steps:
       - checkout
-      - run: |
-          git submodule sync
-          git submodule update --init
-          go run scripts/generate-entries-json.go
-          hugo
-      - save_cache:
-          key: hugo-cache-public-{{ .BuildNum }}
-          paths:
-            - ~/hugo/public
-  deploy:
-    machine: true
-    working_directory: ~/hugo/public
-    steps:
-      - restore_cache:
-          key: hugo-cache-public-{{ .BuildNum }}
       - run:
+          name: build
           command: |
-            pwd
-            ls -l
-            git init
-            git checkout -b gh-pages
-            git remote add origin ssh://git@github.com/june29/june29.jp
-            git config --global user.name "${GIT_USER_NAME}"
-            git config --global user.email "${GIT_USER_EMAIL}"
-            git add --all
-            git diff --quiet --exit-code --cached || git commit -m 'Update content [ci skip]'
-            git push -f origin gh-pages
-workflows:
-  version: 2
-  build_and_deploy:
-    jobs:
-      - build
-      - deploy:
-          filters:
-            branches:
-              only: master
-          requires:
-            - build
+            git submodule sync
+            git submodule update --init
+            go run scripts/generate-entries-json.go
+            hugo
+      - run:
+          name: deploy
+          command: |
+            if [ $CIRCLE_BRANCH = "master" ]; then
+              cd public
+              git init
+              git checkout -b gh-pages
+              git remote add origin ssh://git@github.com/june29/june29.jp
+              git config --global user.name "${GIT_USER_NAME}"
+              git config --global user.email "${GIT_USER_EMAIL}"
+              git add --all
+              git diff --quiet --exit-code --cached || git commit -m 'Update content [ci skip]'
+              git push -f origin gh-pages
+            fi
