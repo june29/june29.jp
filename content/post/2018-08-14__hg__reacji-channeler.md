@@ -50,3 +50,7 @@ Emoji Reaction で発言を飛ばしたあと、Emoji Reaction を削除して�
 ぼくは大好きだけれど、観測範囲ではぜんぜん言及されていないようなので <a href="https://reacji-channeler.builtbyslack.com/" title="Reacji Channeler">Reacji Channeler</a> の紹介文を書いてみました。身近なところでの活用事例もあわせて載せました。後半は犯罪を助長するような内容にもなってしまいましたが、みなさまにおかれましては用法・用量をよく守り健全な Reacji Channeler ライフを送っていただきたいと思います。
 
 興味を持った人は、ぜひあなたの Slack Workspace に導入してみてください！おもしろ便利な使い方が発見されたら @june29 にも教えてください。
+
+### 読者の声
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">うちのSlackも :god: とか自然と流れてくるようになってるチャンネルがあって、各位の神ムーブが可視化されています / “Slack の Reacji Channeler のすゝめ - <a href="https://twitter.com/hashtag/june29jp?src=hash&amp;ref_src=twsrc%5Etfw">#june29jp</a>” <a href="https://t.co/2u51seZCUo">https://t.co/2u51seZCUo</a></p>&mdash; . (@mactkg) <a href="https://twitter.com/mactkg/status/1029286849762578432?ref_src=twsrc%5Etfw">August 14, 2018</a></blockquote>
