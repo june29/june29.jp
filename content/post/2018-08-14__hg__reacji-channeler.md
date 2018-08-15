@@ -54,3 +54,11 @@ Emoji Reaction で発言を飛ばしたあと、Emoji Reaction を削除して�
 ### 読者の声
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">うちのSlackも :god: とか自然と流れてくるようになってるチャンネルがあって、各位の神ムーブが可視化されています / “Slack の Reacji Channeler のすゝめ - <a href="https://twitter.com/hashtag/june29jp?src=hash&amp;ref_src=twsrc%5Etfw">#june29jp</a>” <a href="https://t.co/2u51seZCUo">https://t.co/2u51seZCUo</a></p>&mdash; . (@mactkg) <a href="https://twitter.com/mactkg/status/1029286849762578432?ref_src=twsrc%5Etfw">August 14, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">これめっちゃいいですよね。うちは :cool: で誰がCoolな発言や活動しているのか可視化されてて良い感じになっている。 / “Slack の Reacji Channeler のすゝめ - <a href="https://twitter.com/hashtag/june29jp?src=hash&amp;ref_src=twsrc%5Etfw">#june29jp</a>” <a href="https://t.co/Lu1kPvBqF0">https://t.co/Lu1kPvBqF0</a></p>&mdash; uenot (@braitom) <a href="https://twitter.com/braitom/status/1029394039181733888?ref_src=twsrc%5Etfw">August 14, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">うちは :kintai: 付けると <a href="https://twitter.com/hashtag/kintai?src=hash&amp;ref_src=twsrc%5Etfw">#kintai</a> channel に流れるようになってる。チームの channel に連絡して :kintai: 付ければ社内全体に伝わるので便利。 / “Slack の Reacji Chan…” <a href="https://t.co/wunPhgQzAn">https://t.co/wunPhgQzAn</a></p>&mdash; Takashi Masuda (@masutaka) <a href="https://twitter.com/masutaka/status/1029406616024625153?ref_src=twsrc%5Etfw">August 14, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/dev?src=hash&amp;ref_src=twsrc%5Etfw">#dev</a> に共有するための :dev: っていうよりは、 <a href="https://twitter.com/hashtag/dev?src=hash&amp;ref_src=twsrc%5Etfw">#dev</a> にgoodなengineeringを共有するための :good_engineering: っていう使い方のほうがコンテキスト濃くて好みな気がする</p>&mdash; 👶 (@negipo) <a href="https://twitter.com/negipo/status/1029267046947647488?ref_src=twsrc%5Etfw">August 14, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">reacji channeler、社内ブログに記事書いたらさっそくサポートの人たちがバグ報告を :ant: で集積し始めてて最高</p>&mdash; 👶 (@negipo) <a href="https://twitter.com/negipo/status/1029280275077816320?ref_src=twsrc%5Etfw">August 14, 2018</a></blockquote>
