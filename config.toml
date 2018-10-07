@@ -2,6 +2,7 @@ languageCode = "ja-jp"
 title = "#june29jp"
 baseURL = "https://june29.jp/"
 theme = "hugo29"
+rssLimit = 20
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
