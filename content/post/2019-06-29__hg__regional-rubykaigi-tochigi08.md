@@ -1,6 +1,6 @@
 +++
 date = "2019-06-29T23:00:00+09:00"
-title = "「とちぎRuby会議08」に参加してきました"
+title = "「とちぎRuby会議08」に参加してきました #toruby"
 description = "久しぶりの、とちぎ遠征です。参加してきました。トークしてきました。思い切り楽しんできました。"
 slug = "regional-rubykaigi-tochigi08"
 og_image = "post/2019/06/29/regional-rubykaigi-tochigi08.png"
@@ -41,6 +41,8 @@ draft = false
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">今回は <a href="https://twitter.com/mamipeko?ref_src=twsrc%5Etfw">@mamipeko</a> を人質にしたのでドタキャンなかったなー</p>&mdash; seki at druby.org (@m_seki) <a href="https://twitter.com/m_seki/status/614358640653307904?ref_src=twsrc%5Etfw">June 26, 2015</a></blockquote>
 
 ### 夢の中の世界のような
+
+「とちぎRuby会議08」の体験は、ぼくにとって「夢の中の世界」のようでした。
 
 「将来の夢」の方の夢じゃなくて、眠っているときに見る方の夢。夢の中の世界って、いろんな時代の登場人物や風景が混ざって、レイヤーが重なった状態で描かれるときがありますよね。そんな感じ。
 
