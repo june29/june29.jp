@@ -37,7 +37,7 @@ WIP の方は、GitHub Flow における Pull Request の「Work in Progress」�
 
 <a href="https://github.blog/2019-02-14-introducing-draft-pull-requests/" title="Introducing draft pull requests - The GitHub Blog">Introducing draft pull requests - The GitHub Blog</a>
 
-GitHub 上の機能のお話はいったん置いておいて、ぼくらの考え方としての WIP というのは今も力強くて。今年、とちぎで聴くことができた <a href="https://twitter.com/ken_c_lo" title="taea🐿 (@ken_c_lo) / Twitter">@ken_c_lo</a>の WIP のお話はめっちゃよかったのでまだ資料を見ていない人は見てください。
+GitHub 上の機能のお話はいったん置いておいて、ぼくらの考え方としての WIP というのは今も力強くて。今年、とちぎで聴くことができた <a href="https://twitter.com/ken_c_lo" title="taea🐿 (@ken_c_lo) / Twitter">@ken_c_lo</a> さんの WIP のお話はめっちゃよかったのでまだ資料を見ていない人は見てください。
 
 <a href="https://speakerdeck.com/ken_c_lo/wip-2019?slide=23" title="esaのWIPの話 2019 / wip-2019 - Speaker Deck">esaのWIPの話 2019 - Speaker Deck</a> (ページ 23 にリンクしています)
 
@@ -64,7 +64,7 @@ GitHub 上の機能のお話はいったん置いておいて、ぼくらの考�
 - 頭に思い浮かんだことの出力先、これまでは Twitter だったのだと思う
   - 自分の日記に書くようになってから Twitter への投稿がわかりやすく減った
   - 投稿しなくなると通知があまりこなくなるので、Twitter へのアクセスそのものも減った
-- Twitter にアクセスしなくなったら気持ちがすっきりしてきて、ソーシャルメディア全般のアプリを削除したり通知をオフにしたりと整理を行った
+- Twitter にアクセスしなくなったら気持ちがすっきりしてきて、ソーシャルメディア全般のアプリをスマートフォンから削除したり通知をオフにしたりと整理を行った
   - 結果、特に電車での移動中に情報の波に思考が流される機会が一気に減った
   - ひとつのことを落ち着いて考える時間が増えて、そうして考えたことを日記に書いたりしている
 - 自分にとっては「保存する」「公開する」という明示的な Submit のないツールを選べたのがよかったように感じている
