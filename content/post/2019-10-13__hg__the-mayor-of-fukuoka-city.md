@@ -29,6 +29,8 @@ draft = false
 
 日本という大きな単位で考えてウームとなるの、プログラマらしからぬ悪い向き合い方で、大きすぎるものはモジュールに分割して向き合ったらよかったですね。都市のレベルまで分解して考えて、ひとつひとつの都市を楽しくしていったら結果的に日本もいい感じになりそうだなって思いました。
 
+「能力」があって「しがらみ」がない。そういうリーダーがいると、そのときそのときの最善に近い手をちゃんと打っていけるんだな。日本中にそんなリーダーが増えていくといいなって願っています。
+
 <div class="hatena-asin-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B07KG69NVX/cameralady-22/"><img src="https://images-fe.ssl-images-amazon.com/images/I/51FVHhHNdgL._SL160_.jpg" class="hatena-asin-detail-image" alt="福岡市を経営する" title="福岡市を経営する"></a><div class="hatena-asin-detail-info"><p class="hatena-asin-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B07KG69NVX/cameralady-22/">福岡市を経営する</a></p><ul><li><span class="hatena-asin-detail-label">作者:</span> <a class="keyword" href="http://d.hatena.ne.jp/keyword/%B9%E2%C5%E7%BD%A1%B0%EC%CF%BA">高島宗一郎</a></li><li><span class="hatena-asin-detail-label">出版社/メーカー:</span> <a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%C0%A5%A4%A5%E4%A5%E2%A5%F3%A5%C9%BC%D2">ダイヤモンド社</a></li><li><span class="hatena-asin-detail-label">発売日:</span> 2018/12/06</li><li><span class="hatena-asin-detail-label">メディア:</span> <a class="keyword" href="http://d.hatena.ne.jp/keyword/Kindle">Kindle</a>版</li></ul></div><div class="hatena-asin-detail-foot"></div></div>
 
 ### 読書メモ
