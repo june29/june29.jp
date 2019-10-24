@@ -69,7 +69,7 @@ draft = false
 
 というわけで、興味を持った方は読んでみてください。
 
-<a href="https://www.amazon.co.jp/dp/B07XDM18Q3/" title="人口減少社会のデザイン | 広井 良典 | 工学 | Kindleストア | Amazon">人口減少社会のデザイン | 広井 良典 | 工学 | Kindleストア | Amazon</a>
+<a target="_blank" href="https://www.amazon.co.jp/dp/4492396470?&_encoding=UTF8&tag=cameralady-22&linkCode=ur2&linkId=795c32f30abc56f24fafbe15a1350238&camp=247&creative=1211">人口減少社会のデザイン | 広井 良典 |本 | 通販 | Amazon</a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=cameralady-22&l=ur2&o=9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ### 読書メモ
 
@@ -315,4 +315,4 @@ draft = false
 
 ### もう一度、リンクを置いておきます
 
-<a href="https://www.amazon.co.jp/dp/B07XDM18Q3/" title="人口減少社会のデザイン | 広井 良典 | 工学 | Kindleストア | Amazon">人口減少社会のデザイン | 広井 良典 | 工学 | Kindleストア | Amazon</a>
+<a target="_blank" href="https://www.amazon.co.jp/dp/4492396470?&_encoding=UTF8&tag=cameralady-22&linkCode=ur2&linkId=795c32f30abc56f24fafbe15a1350238&camp=247&creative=1211">人口減少社会のデザイン | 広井 良典 |本 | 通販 | Amazon</a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=cameralady-22&l=ur2&o=9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
