@@ -12,22 +12,22 @@ import (
 )
 
 type Entry struct {
-	Title string `json:"title"`
-	Date  string `json:"date"`
-	Slug  string `json:"slug"`
-	Link  string `json:"link"`
+	Title       string `json:"title"`
+	Description string `json:"description"`
+	Date        string `json:"date"`
+	Slug        string `json:"slug"`
+	Link        string `json:"link"`
+	OgImage     string `json:"og_image"`
 }
 
 func main() {
 	var paths = glob("./content/post")
 
-	columns := [...]string{"title", "slug", "date"}
+	columns := [...]string{"title", "description", "slug", "date", "og_image"}
 	entries := make([]Entry, 0)
 
 	for _, path := range paths {
 		file, err := os.Open(path)
-
-		defer file.Close()
 
 		if err != nil {
 			panic(err)
@@ -54,8 +54,14 @@ func main() {
 		data["date"] = t.Format("2006-01-02")
 		data["link"] = t.Format("/2006/01/02/") + data["slug"]
 
-		entry := Entry{data["title"], data["date"], data["slug"], data["link"]}
+		if len(data["og_image"]) > 0 {
+			data["og_image"] = "/" + data["og_image"]
+		}
+
+		entry := Entry{data["title"], data["description"], data["date"], data["slug"], data["link"], data["og_image"]}
 		entries = append(entries, entry)
+
+		file.Close()
 	}
 
 	jsonString, _ := json.Marshal(entries)
