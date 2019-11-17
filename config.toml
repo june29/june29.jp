@@ -4,6 +4,10 @@ baseURL = "https://june29.jp/"
 theme = "hugo29"
 rssLimit = 20
 
+[author]
+  name = "june29"
+  email = "june29.jp@gmail.com"
+
 [permalinks]
   post = "/:year/:month/:day/:slug/"
 
