@@ -1,13 +1,12 @@
-require 'date'
-require 'fileutils'
+require "date"
+require "fileutils"
 
 slug = ARGV[0]
 time = Time.now
 date = time.to_date
 
-file_path = "content/post/#{date}__hg__#{slug}.md"
-image_dir = "post/#{date.strftime('%Y/%m/%d')}"
-image_path = "#{image_dir}/#{slug}.jpg"
+content_dir = "content/post/#{date.strftime("%Y/%Y-%m/%Y-%m-%d")}__hg__#{slug}"
+file_path = "#{content_dir}/index.md"
 
 metadata = <<~METADATA
   +++
@@ -15,14 +14,14 @@ metadata = <<~METADATA
   title = ""
   description = ""
   slug = "#{slug}"
-  og_image = "#{image_path}"
+  og_image = "#{date.strftime("%Y/%m/%d")}/#{slug}/thumbnail.jpg"
   draft = false
   +++
 
-  <img src="/#{image_path}">
+  <img src="thumbnail.jpg">
 METADATA
 
+FileUtils.mkdir_p(content_dir) unless Dir.exist?(content_dir)
 File.write(file_path, metadata)
 
-raw_image_dir = "static/#{image_dir}"
-FileUtils.mkdir_p(raw_image_dir) unless Dir.exist?(raw_image_dir)
+puts "Created #{file_path}"
