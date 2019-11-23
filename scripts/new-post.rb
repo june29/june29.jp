@@ -18,7 +18,7 @@ metadata = <<~METADATA
   draft = false
   +++
 
-  {{< figure src="thumbnail.jpg" >}}
+  <img src="thumbnail.jpg">
 METADATA
 
 FileUtils.mkdir_p(content_dir) unless Dir.exist?(content_dir)
