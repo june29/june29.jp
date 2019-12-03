@@ -3,11 +3,8 @@ date = "2019-12-03T11:00:00+09:00"
 title = "上長に対する「◯◯していいですか？」を減らす"
 description = "GMO Pepabo Managers Advent Calendar 2019 の 12 月 3 日の担当記事です。"
 slug = "its-better-to-think-by-oneself-than-it-is-to-get-permission"
-og_image = "2019/12/03/its-better-to-think-by-oneself-than-it-is-to-get-permission/thumbnail.jpg"
 draft = false
 +++
-
-<!-- <img src="thumbnail.jpg"> -->
 
 ### はじめに
 
