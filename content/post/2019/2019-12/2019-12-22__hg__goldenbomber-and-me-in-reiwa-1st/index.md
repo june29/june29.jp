@@ -7,9 +7,6 @@ og_image = "2019/12/22/goldenbomber-and-me-in-reiwa-1st/reiwa.jpg"
 draft = false
 +++
 
-<!--
-<img src="thumbnail.jpg"> -->
-
 わたしが最初にゴールデンボンバーを認知したのはいつなのか、それは定かではないのだけれど。おそらく約 10 年ほど前に知ったのだろうと解釈しています。最古の言及ツイートはこれ。
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/hmskmt?src=hash&amp;ref_src=twsrc%5Etfw">#hmskmt</a> の公式 BGM はゴールデンボンバーの曲です！</p>&mdash; Jun OHWADA (@june29) <a href="https://twitter.com/june29/status/9047211777?ref_src=twsrc%5Etfw">February 13, 2010</a></blockquote>
