@@ -45,7 +45,7 @@ draft = false
 
 ### 読書
 
-定常的なにかしらの本を読んで楽しみながら過ごしていたと思います。特に「読めてよかった！」というのは下記。
+定常的になにかしらの本を読んで楽しみながら過ごしていたと思います。特に「読めてよかった！」というのは下記。
 
 - <a href="https://june29.jp/2019/01/22/factfulness/" title="書籍「ファクトフルネス」を読みました - #june29jp">書籍「ファクトフルネス」を読みました - #june29jp</a>
 - <a href="https://june29.jp/2019/05/02/picsy-divicracy-constituent-social-contract/" title="書籍「なめらかな社会とその敵」を読みました - #june29jp">書籍「なめらかな社会とその敵」を読みました - #june29jp</a>
