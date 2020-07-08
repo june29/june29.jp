@@ -87,3 +87,17 @@ https://nosh.jp/c/fPr92
 ぼくが用意したリンクを踏むのが癪！という人は、アドレスバーに nosh.jp と打ち込むか、検索してたどりつくなどしてください。いっしょに nosh 生活していきましょう。
 
 <img src="nosh9.jpg">
+
+### (追記) この記事に対する反応
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">僕も6/1からnoshを使っていて、最初は物足りなかった分量にだんだん慣れてくるの分かる。今はnoshに納豆で満足。 / “ヘルシーな冷凍弁当宅配サービス「nosh」を利用している話 - <a href="https://twitter.com/hashtag/june29jp?src=hash&amp;ref_src=twsrc%5Etfw">#june29jp</a>” <a href="https://t.co/EmRefniSYx">https://t.co/EmRefniSYx</a></p>&mdash; 小野マトペ (@ono_matope) <a href="https://twitter.com/ono_matope/status/1280327948545912832?ref_src=twsrc%5Etfw">July 7, 2020</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">nosh、最初足りないけど満足するようになるのとてもわかる✨我が家は週6食分頼んでいて昼食が週の半分noshという運用なのだけれど、時短と健康、料理するときには料理が楽しいと思う余裕を確保できるようになったので感謝しか無いです😌<a href="https://t.co/RlDCTMPWdK">https://t.co/RlDCTMPWdK</a></p>&mdash; neko (@neko314_) <a href="https://twitter.com/neko314_/status/1280332077745893376?ref_src=twsrc%5Etfw">July 7, 2020</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">良さそうなので頼んでみた <a href="https://t.co/sTtU5yp6AS">https://t.co/sTtU5yp6AS</a></p>&mdash; Yuki AKAMATSU (@ukstudio) <a href="https://twitter.com/ukstudio/status/1280334999061856256?ref_src=twsrc%5Etfw">July 7, 2020</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">電子レンジ買ったので注文してみた <a href="https://t.co/QCcQa2S0OX">https://t.co/QCcQa2S0OX</a></p>&mdash; 豆乳 (@hrysd) <a href="https://twitter.com/hrysd/status/1280373394278453248?ref_src=twsrc%5Etfw">July 7, 2020</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">良さそうだったので早速注文しました！(もちろん記事のリンクから)</p>&mdash; Satoshi Asano (@ninjinkun) <a href="https://twitter.com/ninjinkun/status/1280446646946459648?ref_src=twsrc%5Etfw">July 7, 2020</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">早速注文してみました！</p>&mdash; ま (@Magistol) <a href="https://twitter.com/Magistol/status/1280702982649073664?ref_src=twsrc%5Etfw">July 8, 2020</a></blockquote>
