@@ -15,3 +15,6 @@ rssLimit = 20
   description = "june29's official website"
   twitterUser = "june29"
   hatenaStarToken = "6086952ec2c380a34a31cd307d5424114a0da296"
+
+[markup.goldmark.renderer]
+unsafe= true
