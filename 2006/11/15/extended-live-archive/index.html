@@ -1,0 +1,276 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="alternate" type="application/atom+xml" title="Atom" href="/index.xml"/>
+    
+    <link rel="stylesheet" type="text/css" href="/css/reset.css">
+    <link rel="stylesheet" href="https://june29.jp/hugo29.min.5247624668cfd436bc1d3bbedeac608fb1a06e6c38f124f304f9d02427c7aeaa.css">
+
+    <script type="text/javascript" src="/js/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="/js/underscore-min.js"></script>
+    <script type="text/javascript" src="/js/hugo29.js?t=1628643185"></script>
+
+    <script type="text/javascript" src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
+    <script type="text/javascript">
+    Hatena.Star.Token = '6086952ec2c380a34a31cd307d5424114a0da296';
+    </script>
+
+    <meta property="og:site_name" content="#june29jp" />
+    <meta property="og:locale " content="ja-jp" />
+
+    <meta property="og:url" content="https://june29.jp/2006/11/15/extended-live-archive/" />
+    <meta name="twitter:url" content="https://june29.jp/2006/11/15/extended-live-archive/" />
+    <link rel="canonical" href="https://june29.jp/2006/11/15/extended-live-archive/" />
+
+    <meta name="description" content="june29&#39;s official website" />
+    <meta name="twitter:description" content="june29&#39;s official website">
+    <meta property="og:description" content="june29&#39;s official website" />
+
+    <meta name="twitter:site" content="@june29" />
+    <meta name="twitter:creator" content="@june29" />
+
+
+    <meta property="og:title" content="Archivesページを作成" />
+    <meta name="twitter:title" content="Archivesページを作成" />
+    <title>Archivesページを作成 - #june29jp</title>
+
+    <meta name="twitter:image" content="https://june29.jp/img/og-image.png" />
+    <meta property="og:image" content="https://june29.jp/img/og-image.png" />
+
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="og:type" content="article" />
+    <meta property="og:article:published_time" content="2006-11-15T02:27:58&#43;09:00" />
+    <meta property="og:article:section" content="post" />
+
+
+
+  </head>
+  <body>
+    <header>
+      <h1>
+        <a href="/">#june29jp</a>
+      </h1>
+      <p>
+        <img src="/img/ring.jpg" width="80" height="80" class="circle-icon">
+      </p>
+    </header>
+    <div id="main">
+      <div id="main__inner" class="inner">
+
+
+<article>
+  <div class="article__head">
+    <h2>
+      <a href="https://june29.jp/2006/11/15/extended-live-archive/" title="Archivesページを作成">Archivesページを作成</a>
+    </h2>
+    <p>
+      2006-11-15
+    </p>
+  </div>
+  <div class="article__body">
+    <p>前々から作ろうと思っていたArchivesページを作りました．けっこう苦戦したので手順をメモしておきます．</p>
+<h3><a href="http://www.sonsofskadi.net/extended-live-archive/" target="_blank">Extended Live Archiveの導入</a></h3>
+<p>WordPress日本ユーザの間でもかなり人気のプラグイン<a href="http://www.sonsofskadi.net/extended-live-archive/" target="_blank" >Extended Live Archive</a>を導入しました．ボクが見て回った限りでもこのプラグインを使っている人はたくさんいます．動的にArchivesを生成してくれて，日付ごと，カテゴリごと，さらにはタグごとに閲覧でき，Ajaxバリバリという素晴らしいツール．以下にボクが行った設定の手順をメモしておきます．</p>
+<ol>
+<li><a href="http://www.sonsofskadi.net/extended-live-archive/" target="_blank">配布サイト</a>から最新版をダウンロード</li>
+<li>解凍してディレクトリごとpluginsにアップロード</li>
+<li>WordPressの管理画面からプラグインの有効化</li>
+<li><a href="http://wp.mmrt-jp.net/plugin-japanization-project/20x/wp20-el-archive/" target="_blank">Extended Live Archive 日本語版</a>のファイルをアップロードしたディレクトリの中にコピー</li>
+</ol>
+<p>ここまでが上手くいくと，管理画面のオプションに「Ext. Live Archive」の項目が追加されるはずです．さっそくオプション画面に移動すると「書き込み許可がない！」とギャーギャー喚き出したので，それっぽいディレクトリの属性を変更してから再度オプション画面にアクセスしました．今度は無事にオプションの設定項目が表示され，これでプラグインの設定は終了です．</p>
+<p>Thanx to :</p>
+<ul>
+<li><a href="http://www.sonsofskadi.net/extended-live-archive/" target="_blank">Sons Of Skadi » Extended Live Archive</a></li>
+<li><a href="http://wp.mmrt-jp.net/plugin-japanization-project/20x/wp20-el-archive/" target="_blank">Ext.Live Archive 日本語版 « MMRT daily life</a></li>
+</ul>
+<h3>テーマに合わせたArchivesページテンプレートを作成</h3>
+<p>ボクが現在，利用させてもらっているテーマは<a href="http://www.kaushalsheth.com/fluid-solution-wordpress-theme-released/" target="_blank">Fluid Solution</a>です．このテーマのディレクトリに含まれるpage.phpを編集してarchives.phpを作りました．</p>
+<p>ファイルの冒頭にテンプレート定義の記述を書き，残りの部分はそのまま使います．具体的には以下のようになります．</p>
+<p>[php]<br />
+< ?php
+/*
+Template Name: Extended Live Archives
+*/
+?></p>
+<p>< ?php get_header(); ?></p>
+<div class="content">
+        < ?php if (function_exists('af_ela_super_archive')) {af_ela_super_archive();} ?>
+</div>
+<p>< ?php get_sidebar(); ?></p>
+<p>< ?php get_footer(); ?></p>
+<p>[/php]</p>
+<p>contentに当たる部分にExtended Live Archiveを呼び出すための記述を書いてあるだけです．他のテーマでも同様の書き方が適用できると思います．これを使用中のテーマのディレクトリに保存し，Archivesページのテンプレートが出来上がりとなります．</p>
+<p>ちなみにボクはソースをコピーしたときにシングルクォートが半角ではなくて全角になっていたため，しばらく上手くいかなくて悩む羽目になりました．なかなか上手くいかないという人がいたら，ソースをチェックしてみると良いかもしれません．</p>
+<p>Thanx to :</p>
+<ul>
+<li><a href="http://fish1091.com/wordpress/items/576/" target="_blank">Extended Live Archive &#8211; びんさんのマジかよ〜</a></li>
+</ul>
+<h3>Archivesページの作成</h3>
+<p>いよいよArcihvesページそのものを作ります．まずはページ作成画面に移動します．ここからが重要です．タイトルと投稿スラッグは適当に決めます．ページテンプレートには先ほど作成したテンプレート「Extended Live Archives」を指定し(下部画像参照)，ページの投稿内容は</p>
+<p>[php]< ?php af_ela_super_archive(); ?>[/php]</p>
+<p>のみとします．このとき，投稿内容のPHPのソースコードを解釈して実行してくれる環境が必要になります．ボクは<a href="http://www.nosq.com/blog/2006/01/runphp-plugin-for-wordpress/" target="_blank">runPHP Plugin</a>を導入して対応しました．</p>
+<p><a href="http://www.flickr.com/photos/june29/297414369/" title="Photo Sharing"><img src="http://static.flickr.com/118/297414369_1e8faf6303_o.jpg" alt="Archivesページ作成" /></a></p>
+<p>最後に作成したページを公開すればArchivesページの完成です．</p>
+<p><a href="http://june29.jp/archives/" target="_blank">Archives &#8211; cameraLady</a></p>
+<p>まだページを作成しただけでスタイルも何もいじっていません．表示崩れも多発してひどい状態ですが，手を入れる時間ができるまでは放置です．このサイトのお客さまには謝っておきます．ゴメンなさい．<br />
+しかしこうしてArchivesを見てみると… カテゴリやタグの使い方が下手だなぁと思わされます．整理する時間も作らなくちゃいけません．</p>
+<h3>おまけ : <a href="http://www.nosq.com/blog/2006/01/runphp-plugin-for-wordpress/" target="_blank">runPHP Plugin</a>の導入</h3>
+<p>配布元からダウンロードして解凍してプラグインディレクトリにアップロードして有効化すれば動きます．記事･ページの投稿画面のサイドバーに「run PHP code?」のチェックボックスが表示されるようになるので，必要なときにチェックを入れます．</p>
+
+  </div>
+  <div class="article__foot">
+    
+    <h4 class="for-pc">
+  おもしろかったら、シェアやブックマークや送金などぜひぜひお願いします。サイト運営の励みになります！
+</h4>
+<h4 class="for-mobile">
+  シェアや送金などお待ちしています！
+</h4>
+<p class="hatena-star-container">
+  <a href="https://b.hatena.ne.jp/entry/s/june29.jp/2006/11/15/extended-live-archive/">
+    <img src="https://b.hatena.ne.jp/entry/image/https://june29.jp/2006/11/15/extended-live-archive/">
+  </a>
+  <p class="display-none">
+    <a href="https://june29.jp/2006/11/15/extended-live-archive/" class="original-url">https://june29.jp/2006/11/15/extended-live-archive/</a>
+  </p>
+</p>
+<div class="kyash-me">
+  <div class="for-pc">
+    <img src="/img/kyash-me-pc.gif">
+  </div>
+  <div class="for-mobile">
+    <p>
+      <img src="/img/kyash-me-mobile.gif">
+    </p>
+    <p class="kyash-button-container">
+      <a href="kyash://request/u/3b34827c-cbf0-4ad3-839b-a18108ccb2ff">
+        <img src="/img/kyash-logo.png" height="28">
+        で 99 円を送金する
+      </a>
+    </p>
+  </div>
+</div>
+
+
+  </div>
+</article>
+
+
+<div id="other-entries">
+  <h3>前後の記事や他の記事もどうぞ</h3>
+  <ul>
+  
+    <li>
+      <a href="/2006/11/15/marutenten/" title="まる。てん.てん・＝ほし★">2006-11-15 : まる。てん.てん・＝ほし★</a>
+    </li>
+  
+  
+    <li>
+      <a href="/2006/11/10/cnet-news-url/" title="CNET JapanのニュースのURL">2006-11-10 : CNET JapanのニュースのURL</a>
+    </li>
+  
+  </ul>
+</div>
+
+      </div>
+    </div>
+    <footer>
+      <div class="footer__inner inner">
+        <h2>
+          最近の記事
+        </h2>
+        <ul>
+          
+          <li>
+            <a href="https://june29.jp/2021/08/10/tochigi-nasushiobara-3months/" title="栃木県那須塩原市で3ヶ月間ほど暮らしてみて">2021-08-10 : 栃木県那須塩原市で3ヶ月間ほど暮らしてみて</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/12/31/2020-in-my-house/" title="ふりかえり 2020">2020-12-31 : ふりかえり 2020</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/07/18/vlog/" title="Vlog を 1 ヶ月間やってみた記録">2020-07-18 : Vlog を 1 ヶ月間やってみた記録</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/07/06/nosh/" title="ヘルシーな冷凍弁当宅配サービス「nosh」を利用している話">2020-07-06 : ヘルシーな冷凍弁当宅配サービス「nosh」を利用している話</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/05/24/tell-me-remote-work/" title="教えてリモートワーク @june29 の場合">2020-05-24 : 教えてリモートワーク @june29 の場合</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/04/05/social-distancing-2020/" title="Social Distancing と 2020 年">2020-04-05 : Social Distancing と 2020 年</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2019/12/30/lovely-2019/" title="楽しかった 2019 年">2019-12-30 : 楽しかった 2019 年</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2019/12/22/goldenbomber-and-me-in-reiwa-1st/" title="令和元年のゴールデンボンバーとわたし">2019-12-22 : 令和元年のゴールデンボンバーとわたし</a>
+          </li>
+          
+        </ul>
+        <h2>
+          書き手について
+        </h2>
+        <p>
+          大和田純。源氏名「june29」で活動中。北海道生まれ少年漫画育ち。渋谷区の大和田地方に勤めている。
+        </p>
+        <h2>
+          このサイトについて
+        </h2>
+        <p>
+          このサイトは大和田純によって運営されています。個人の見解や日常のことを書いています。ソースコードは
+          <a href="https://github.com/june29/june29.jp">GitHub</a>
+          にあります。
+        </p>
+      </div>
+    </footer>
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=392332164169856";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+    <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+
+    <script type="text/javascript" src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
+<script type="text/javascript">
+  Hatena.Star.SiteConfig = {
+    entryNodes: {
+      'article': {
+        uri: '.article__foot a.original-url',
+        title: '.article__head h2',
+        container: '.hatena-star-container'
+      }
+    }
+  };
+</script>
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1005149-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+  </body>
+</html>
+

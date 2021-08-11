@@ -1,0 +1,253 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="alternate" type="application/atom+xml" title="Atom" href="/index.xml"/>
+    
+    <link rel="stylesheet" type="text/css" href="/css/reset.css">
+    <link rel="stylesheet" href="https://june29.jp/hugo29.min.5247624668cfd436bc1d3bbedeac608fb1a06e6c38f124f304f9d02427c7aeaa.css">
+
+    <script type="text/javascript" src="/js/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="/js/underscore-min.js"></script>
+    <script type="text/javascript" src="/js/hugo29.js?t=1628643182"></script>
+
+    <script type="text/javascript" src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
+    <script type="text/javascript">
+    Hatena.Star.Token = '6086952ec2c380a34a31cd307d5424114a0da296';
+    </script>
+
+    <meta property="og:site_name" content="#june29jp" />
+    <meta property="og:locale " content="ja-jp" />
+
+    <meta property="og:url" content="https://june29.jp/2014/03/21/133604/" />
+    <meta name="twitter:url" content="https://june29.jp/2014/03/21/133604/" />
+    <link rel="canonical" href="https://june29.jp/2014/03/21/133604/" />
+
+    <meta name="description" content="june29&#39;s official website" />
+    <meta name="twitter:description" content="june29&#39;s official website">
+    <meta property="og:description" content="june29&#39;s official website" />
+
+    <meta name="twitter:site" content="@june29" />
+    <meta name="twitter:creator" content="@june29" />
+
+
+    <meta property="og:title" content="概念としての「ランダム」" />
+    <meta name="twitter:title" content="概念としての「ランダム」" />
+    <title>概念としての「ランダム」 - #june29jp</title>
+
+    <meta name="twitter:image" content="https://june29.jp/post/2014/03/21/133604-og-image.png" />
+    <meta property="og:image" content="https://june29.jp/post/2014/03/21/133604-og-image.png" />
+
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="og:type" content="article" />
+    <meta property="og:article:published_time" content="2014-03-21T13:36:04&#43;09:00" />
+    <meta property="og:article:section" content="post" />
+
+
+
+  </head>
+  <body>
+    <header>
+      <h1>
+        <a href="/">#june29jp</a>
+      </h1>
+      <p>
+        <img src="/img/ring.jpg" width="80" height="80" class="circle-icon">
+      </p>
+    </header>
+    <div id="main">
+      <div id="main__inner" class="inner">
+
+
+<article>
+  <div class="article__head">
+    <h2>
+      <a href="https://june29.jp/2014/03/21/133604/" title="概念としての「ランダム」">概念としての「ランダム」</a>
+    </h2>
+    <p>
+      2014-03-21
+    </p>
+  </div>
+  <div class="article__body">
+    <p></p>
+<blockquote>順次再生する曲を選ぶロジック同士には依存関係がなく、完全にランダムに選択される。よって、同じアーティストの別の曲が次に再生されることも可能性としてはある。<p>これはギャンブラーの誤謬と呼ばれる現象。例えば、<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%B3%A5%A4%A5%F3%A5%C8%A5%B9">コイントス</a>で表が連続してでると、次は裏が出ると思いがちであるが、常に確率は1/2である。従前の結果が次の結果に影響を与えると考えてしまう。よって、「曲がシャッフルされて、まずアーティストAの歌が再生されたら、次に再生されるのはアーティストA以外のものになる可能性が高くなるだろう。」という予想は、確率計算上は誤っている。（けど、Spotifyユーザのサービスに対する期待としては正しい。）</p>
+<p><a class="quote" href="http://wazanova.jp/items/1135" title="Spotify: 曲をシャッフルするのは単純にランダムではいけない - ワザノバ | wazanova">Spotify: 曲をシャッフルするのは単純にランダムではいけない - ワザノバ | wazanova</a></p>
+</blockquote>
+<p>このお話、おもしろかった。「ユーザのサービスに対する期待としては正しい」って部分がおもしろかった。じゃあ、ここで「ユーザの期待」について考えてみる。</p>
+<p>アプリケーションの仕様や挙動や設計や実装について人間とお話していると、ちょくちょく「ここはランダムで」とか「新着順で」とかいうフレーズが飛び交う。ほいで、試しにそれをそのまま実装してみると、「あっ、この場合はこれは表示されてほしくない」「基本は新着なんだけれど、これとこれは連続するとうれしくない」みたいな感覚を持つことがある。その段階で、その段階のお話の通りの挙動になるように実装しようとすると、条件分岐が複雑になりすぎたり、そもそも感覚をうまく言語化できなかったりして、だいたい変な実装に向かいそうになってモヤモヤする。人間はむつかしい。</p>
+<p>そういうのとだいぶ向き合って実装されているんじゃないか、と感じるのが <a class="keyword" href="http://d.hatena.ne.jp/keyword/Facebook">Facebook</a> の News Feed だったりする。なんかの条件で、あるものが表示されたりされなかったり、目立つ位置に出たり出なかったり、している印象を受ける。たぶん、裏側ではいろいろやっていると思う。すごい。</p>
+<p>でも、それがぼくのほしいものかというと必ずしもそうでもなくて、そういえば2012年にこんなことを書いていた。</p>
+<p></p>
+<div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script><br>
+<div class="fb-post" data-href="https://www.facebook.com/june29.jp/posts/10151409354556554" data-width="466"><div class="fb-xfbml-parse-ignore">
+<a href="https://www.facebook.com/june29.jp/posts/10151409354556554">Post</a> by <a href="https://www.facebook.com/june29.jp">Jun Ohwada</a>.</div></div>
+<p>裏側でいろいろやっているな、と感じてしまうと、「いや、そういうのはいいんで、そのまま見せてください」という気持ちになる。なんか、コントロールが効かない感じなのはいやなんだな、きっと。フィードリーダが「これはきっと読まないだろうと思って、スキップしておきました」って言ってきたら「えっえっ」ってなると思う。それに近い感覚。なにを読んでなにを読まないかは自分で決めたい。このへんは、人それぞれなんかな。うまいこと絞って出してくれた方がうれしい、っていう人もいそう。ぼくも不慣れな飲食店では「おまかせで」と言って気持ちよく過ごしていたりするから、<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%C9%A5%E1%A5%A4%A5%F3">ドメイン</a>にも依るお話か。今回は深追いしすぎずに、ここらで止めよう。</p>
+<p>「ユーザの期待」ってのは、たしかにあると思う。顕在化していて言語化されているものだけじゃなくて、潜在的な期待ってのもあると思う。言語化されているけれど、潜在的な真の期待とはずれて言語化されている、ってこともある。それらとは別の層で「自分の見えないところでなにかやっていると感じさせてほしくない」ってのも、あるのかもしれない。</p>
+<p>ミュージックプレイヤーに分類されるアプリケーションの開発チームに属しているとして、口頭でのなんとなくのやりとりで「ランダム再生したいよね〜」なんてフレーズが出ることはあるだろう。でも本当に「ランダム」を期待しているのか、もうちょっと複雑な期待をしているのか、ちゃんと確認した方がよさそう。</p>
+<p><a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%BD%A1%BC%A5%B7%A5%E3%A5%EB%A5%B2%A1%BC%A5%E0">ソーシャルゲーム</a>のガチャにしたって、ユーザは「こんだけお金をつぎこんだんだから、そろそろレアを引くはず」とか期待している。「確率20%で当たる」って言ったら「5回引けば必ず1回は当たる」って思われちゃう場合があるんだから、ユーザの期待と、それの言語化と、それの実装ってのは、本当にむつかしいのだなあ。</p>
+
+  </div>
+  <div class="article__foot">
+    
+    <div class="original-info">
+      <p>
+        この記事は、もともと下記に投稿されたものです。
+      </p>
+      <p>
+        <a href="http://june29.hatenablog.jp/entry/2014/03/21/133604">http://june29.hatenablog.jp/entry/2014/03/21/133604</a>
+      </p>
+    </div>
+    
+    <h4 class="for-pc">
+  おもしろかったら、シェアやブックマークや送金などぜひぜひお願いします。サイト運営の励みになります！
+</h4>
+<h4 class="for-mobile">
+  シェアや送金などお待ちしています！
+</h4>
+<p class="hatena-star-container">
+  <a href="https://b.hatena.ne.jp/entry/s/june29.jp/2014/03/21/133604/">
+    <img src="https://b.hatena.ne.jp/entry/image/https://june29.jp/2014/03/21/133604/">
+  </a>
+  <p class="display-none">
+    <a href="https://june29.jp/2014/03/21/133604/" class="original-url">https://june29.jp/2014/03/21/133604/</a>
+  </p>
+</p>
+<div class="kyash-me">
+  <div class="for-pc">
+    <img src="/img/kyash-me-pc.gif">
+  </div>
+  <div class="for-mobile">
+    <p>
+      <img src="/img/kyash-me-mobile.gif">
+    </p>
+    <p class="kyash-button-container">
+      <a href="kyash://request/u/3b34827c-cbf0-4ad3-839b-a18108ccb2ff">
+        <img src="/img/kyash-logo.png" height="28">
+        で 99 円を送金する
+      </a>
+    </p>
+  </div>
+</div>
+
+
+  </div>
+</article>
+
+
+<div id="other-entries">
+  <h3>前後の記事や他の記事もどうぞ</h3>
+  <ul>
+  
+    <li>
+      <a href="/2014/03/30/003306/" title="開発環境構築">2014-03-30 : 開発環境構築</a>
+    </li>
+  
+  
+    <li>
+      <a href="/2014/03/19/131919/" title="給油ポイント">2014-03-19 : 給油ポイント</a>
+    </li>
+  
+  </ul>
+</div>
+
+      </div>
+    </div>
+    <footer>
+      <div class="footer__inner inner">
+        <h2>
+          最近の記事
+        </h2>
+        <ul>
+          
+          <li>
+            <a href="https://june29.jp/2021/08/10/tochigi-nasushiobara-3months/" title="栃木県那須塩原市で3ヶ月間ほど暮らしてみて">2021-08-10 : 栃木県那須塩原市で3ヶ月間ほど暮らしてみて</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/12/31/2020-in-my-house/" title="ふりかえり 2020">2020-12-31 : ふりかえり 2020</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/07/18/vlog/" title="Vlog を 1 ヶ月間やってみた記録">2020-07-18 : Vlog を 1 ヶ月間やってみた記録</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/07/06/nosh/" title="ヘルシーな冷凍弁当宅配サービス「nosh」を利用している話">2020-07-06 : ヘルシーな冷凍弁当宅配サービス「nosh」を利用している話</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/05/24/tell-me-remote-work/" title="教えてリモートワーク @june29 の場合">2020-05-24 : 教えてリモートワーク @june29 の場合</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/04/05/social-distancing-2020/" title="Social Distancing と 2020 年">2020-04-05 : Social Distancing と 2020 年</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2019/12/30/lovely-2019/" title="楽しかった 2019 年">2019-12-30 : 楽しかった 2019 年</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2019/12/22/goldenbomber-and-me-in-reiwa-1st/" title="令和元年のゴールデンボンバーとわたし">2019-12-22 : 令和元年のゴールデンボンバーとわたし</a>
+          </li>
+          
+        </ul>
+        <h2>
+          書き手について
+        </h2>
+        <p>
+          大和田純。源氏名「june29」で活動中。北海道生まれ少年漫画育ち。渋谷区の大和田地方に勤めている。
+        </p>
+        <h2>
+          このサイトについて
+        </h2>
+        <p>
+          このサイトは大和田純によって運営されています。個人の見解や日常のことを書いています。ソースコードは
+          <a href="https://github.com/june29/june29.jp">GitHub</a>
+          にあります。
+        </p>
+      </div>
+    </footer>
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=392332164169856";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+    <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+
+    <script type="text/javascript" src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
+<script type="text/javascript">
+  Hatena.Star.SiteConfig = {
+    entryNodes: {
+      'article': {
+        uri: '.article__foot a.original-url',
+        title: '.article__head h2',
+        container: '.hatena-star-container'
+      }
+    }
+  };
+</script>
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1005149-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+  </body>
+</html>
+

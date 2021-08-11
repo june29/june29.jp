@@ -1,0 +1,344 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="alternate" type="application/atom+xml" title="Atom" href="/index.xml"/>
+    
+    <link rel="stylesheet" type="text/css" href="/css/reset.css">
+    <link rel="stylesheet" href="https://june29.jp/hugo29.min.5247624668cfd436bc1d3bbedeac608fb1a06e6c38f124f304f9d02427c7aeaa.css">
+
+    <script type="text/javascript" src="/js/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="/js/underscore-min.js"></script>
+    <script type="text/javascript" src="/js/hugo29.js?t=1628643181"></script>
+
+    <script type="text/javascript" src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
+    <script type="text/javascript">
+    Hatena.Star.Token = '6086952ec2c380a34a31cd307d5424114a0da296';
+    </script>
+
+    <meta property="og:site_name" content="#june29jp" />
+    <meta property="og:locale " content="ja-jp" />
+
+    <meta property="og:url" content="https://june29.jp/2017/12/22/ethereum-for-web-application-developers/" />
+    <meta name="twitter:url" content="https://june29.jp/2017/12/22/ethereum-for-web-application-developers/" />
+    <link rel="canonical" href="https://june29.jp/2017/12/22/ethereum-for-web-application-developers/" />
+
+    <meta name="description" content="今日まで自分が Ethereum について学んできたことをまとめるつもりで、Web アプリケーション開発者を主な対象とした入門記事を書きました。ブロックチェーンアプリケーションやスマートコントラクトについてざっと概要を把握したい人にはおすすめです。" />
+    <meta name="twitter:description" content="今日まで自分が Ethereum について学んできたことをまとめるつもりで、Web アプリケーション開発者を主な対象とした入門記事を書きました。ブロックチェーンアプリケーションやスマートコントラクトについてざっと概要を把握したい人にはおすすめです。">
+    <meta property="og:description" content="今日まで自分が Ethereum について学んできたことをまとめるつもりで、Web アプリケーション開発者を主な対象とした入門記事を書きました。ブロックチェーンアプリケーションやスマートコントラクトについてざっと概要を把握したい人にはおすすめです。" />
+
+    <meta name="twitter:site" content="@june29" />
+    <meta name="twitter:creator" content="@june29" />
+
+
+    <meta property="og:title" content="Web アプリケーション開発者のための Ethereum 入門" />
+    <meta name="twitter:title" content="Web アプリケーション開発者のための Ethereum 入門" />
+    <title>Web アプリケーション開発者のための Ethereum 入門 - #june29jp</title>
+
+    <meta name="twitter:image" content="https://june29.jp/post/2017/12/22/ethereum.png" />
+    <meta property="og:image" content="https://june29.jp/post/2017/12/22/ethereum.png" />
+
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="og:type" content="article" />
+    <meta property="og:article:published_time" content="2017-12-22T23:55:00&#43;09:00" />
+    <meta property="og:article:section" content="post" />
+
+
+
+  </head>
+  <body>
+    <header>
+      <h1>
+        <a href="/">#june29jp</a>
+      </h1>
+      <p>
+        <img src="/img/ring.jpg" width="80" height="80" class="circle-icon">
+      </p>
+    </header>
+    <div id="main">
+      <div id="main__inner" class="inner">
+
+
+<article>
+  <div class="article__head">
+    <h2>
+      <a href="https://june29.jp/2017/12/22/ethereum-for-web-application-developers/" title="Web アプリケーション開発者のための Ethereum 入門">Web アプリケーション開発者のための Ethereum 入門</a>
+    </h2>
+    <p>
+      2017-12-22
+    </p>
+  </div>
+  <div class="article__body">
+    
+
+<h3 id="はじめに">はじめに</h3>
+
+<p><img src="/post/2017/12/22/ethereum.png"></p>
+
+<p>この記事は <a href="https://qiita.com/advent-calendar/2017/ethereum">Ethereum Advent Calendar 2017</a> の参加記事です。12月22日(金)の担当です。</p>
+
+<p>ぼくは大学生だった2006年頃に「<a href="https://en.wikipedia.org/wiki/Web_2.0">Web 2.0</a>」の熱気にモロにあてられ、以降約10年間ほど広大な Web の世界を旅することを趣味としながら、Web アプリケーション開発をメインのお仕事として生計を立てて今日まで暮らしました。そんな自分が2017年に新しく興味を持つことになった <a href="https://www.ethereum.org/">Ethereum</a> について、Web アプリケーション開発者向けの文章を書いてみようと思います。</p>
+
+<p>書くにあたってのモチベーションは、こんな感じでしょうか。</p>
+
+<ul>
+<li>ここまでに自分が学んだことを、この機会に整理しておきたい</li>
+<li>自分のまわりにたくさんいる Web 方面の人々と Ethereum のおもしろさを共有したい</li>
+</ul>
+
+<p>それでなくとも、これを読んでいるみなさんは今年「FinTech」という言葉をたくさん見聞きしてきたことでしょう。ぼくがこんな記事を書かなくとも、この手の情報はとめどなく流れ込んでくる最近です。その中でぼくは、テクノロジ的な面にフォーカスして書くことで Web 方面のエンジニア向けの記事とします。ちょうど今日、日本時間の12月22日には 1 BTC の価格が 50 万円ほど下がったりもしていますが、Bitcoin で大儲けしたい！とか FinTech ビジネスで財を成したい！という人にとってはつまらない内容になるでしょう。</p>
+
+<p>さて、少しだけ話を戻して。なぜ大学生だった当時のぼくが Web 2.0 と呼ばれた潮流に惹かれたかというと、テクノロジによって人々のコミュニケーションのありさまや考え方を Hack できるようになると感じたからです。ブログ、SNS、Twitter などなどの登場によって、ぼくらの日々が API 化していったからですね。事実、この10年の間にぼくらの日々は Hack され続け、2017年の日本では「インスタ映え」が流行語になりました。「写真を撮る」という行為がテクノロジによって Hack されたのです。写真を通したコミュニケーションのあり方がものすごい勢いで変わってきました。</p>
+
+<p>そして、似たような名前を持つ書籍「<a href="https://www.amazon.co.jp/dp/B077N93YYV/">お金2.0</a>」を読んでいる今年のぼくは、同様に「これから、人間とお金の関係が Hack されていくのだ」と感じるから興奮しているのです。10年後、人々のお金に対する認識や考え方は今とは違ったものになっているでしょう。それも、テクノロジがもたらす変化によって。</p>
+
+<h3 id="記事のつくり">記事のつくり</h3>
+
+<p>なるべく「この記事を上から下まで読めば、Ethereum の概要を理解できる」状態を目指します。</p>
+
+<p>すべての枠が生まり今日まで続いてきた <a href="https://qiita.com/advent-calendar/2017/ethereum">Ethereum Advent Calendar 2017</a> の記事たちが有益なものばかりなので、ひとつひとつの項目の詳細は積極的にそれらの記事に委ねてリンクしていきます。</p>
+
+<h3 id="ethereum-とは">Ethereum とは？</h3>
+
+<p>前置きが長くなりましたが、ここからは <a href="https://www.ethereum.org/">Ethereum</a> について述べます。現時点での公式サイトには、以下の説明文が置いてあります。</p>
+
+<blockquote>
+<p>Ethereum is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference.</p>
+</blockquote>
+
+<ul>
+<li>Ethereum はスマートコントラクトを動作させるための分散プラットフォームです。</li>
+<li>そこで動くアプリケーションにはダウンタイムも、検閲も、イカサマも、第3者による干渉もなく、プログラムされた通りに動作します。</li>
+</ul>
+
+<h3 id="スマートコントラクトとは">スマートコントラクトとは？</h3>
+
+<p>Ethereum の説明の中に耳慣れない言葉が出てきました。スマートコントラクトとはなんでしょうか。雑に邦訳すると「賢い契約」「ちゃんとした契約」になります。</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Smart_contract">Smart contract - Wikipedia</a> によれば、この概念に「スマートコントラクト (Smart Contract)」という名前がついたのは1996年のことだそうです。最近生まれた概念じゃないんですね！当時は実装例として「自動販売機」が挙げられていたそうです。なるほど、言われてみればたしかに「人間を介さずカネとモノを交換できる契約」を体現しているわけです。ぼくも気付かぬうちにスマートコントラクトのお世話になっていました。</p>
+
+<p>ブロックチェーンの登場によってあらためて騒がれるようになった現代のスマートコントラクトは、デジタル版・ソフトウェア版・インターネット版といったところでしょうか。</p>
+
+<h3 id="スマートとは言うものの">スマートとは言うものの</h3>
+
+<p>ぼくはしばらく、スマートコントラクトという言葉から受ける印象を素直に受け取って「スマートな契約」というニュアンスで捉えていました。しかし数ヶ月間に渡ってスマートコントラクトのことを考えたりそれで遊んだりしているうちに、実態はもっと「堅い」というか、ハードな契約という印象を抱くようになってきました。きっかけのひとつとなったのが <a href="https://medium.com/@alismedia/alis%E3%81%AEico%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E6%8A%80%E8%A1%93%E7%9A%84faq-61028da1d8bd">ALISのICOについての技術的FAQ</a> に書かれている以下の一文です。</p>
+
+<blockquote>
+<p>WEBの開発というよりは組み込み系等の方が感覚的に近い。</p>
+</blockquote>
+
+<p>ぼくは組み込み系の開発に携わったことがないのでわかったようなことは言えませんが、一方で Web アプリケーションの「問題があったら、変更してデプロイすればいい」という感覚はすっかり染み付いているので、それが通用しないのだ、という意味だと理解しました。</p>
+
+<p>自動販売機でのお買い物では「あ、やっぱコレじゃないのにしたい」と思っても返品はできませんよね。どうしても返品したかったら人間を呼んでくることになるでしょう。そう考えると、スマートコントラクトというのは「契約の強制執行装置」なのではないか、と思えるわけです。約束を破ったり数値をちょろまかしたりはできないけれど、同時に、融通の利かないものでもあると。</p>
+
+<p>この性質はしっかりと押さえておくべきだと思います。都度都度で柔軟に扱う必要のない手続きや、事前にすべてのロジックを決めておける対象でなければ、運用中に困ってしまうかもしれませんね。</p>
+
+<h3 id="solidity-ではじめてみよう">Solidity ではじめてみよう</h3>
+
+<p>なんとなく雰囲気を掴めた(？)ところで、文章を読まされるのも飽きてきたでしょうから実装寄りの話をしていきましょう。</p>
+
+<p>Ethereum のブロックチェーン上で動作するスマートコントラクトを実装する現時点での有力な選択肢として <a href="https://github.com/ethereum/solidity">Solidity</a> というプログラミング言語があります。まずはこれに触れてみるのがおすすめです。なんとも便利なことに、<a href="https://qiita.com/advent-calendar/2017/ethereum">Ethereum Advent Calendar 2017</a> には Solidity のチュートリアルとして使える記事がたくさんありますね〜。</p>
+
+<ul>
+<li>12月2日の記事
+
+<ul>
+<li><a href="https://qiita.com/amachino/items/8cf609f6345959ffc450">Truffle で始める Ethereum 入門 - ERC20 トークンを作ってみよう - Qiita</a></li>
+</ul></li>
+<li>12月4日の記事
+
+<ul>
+<li><a href="https://qiita.com/sot528/items/0decc6f3a6b328f135fb">【Ethereum】実務で使う開発環境 - Qiita</a></li>
+</ul></li>
+<li>12月6日の記事
+
+<ul>
+<li><a href="https://tech.pepabo.com/2017/12/06/erc20-token-on-ropsten/">Ropstenのテストネット上でERC20トークンを作成・送付してみる - ペパボテックブログ</a></li>
+</ul></li>
+<li>12月13日の記事
+
+<ul>
+<li><a href="http://lotz84.hatenablog.com/entry/2017/12/13/081920">Ethereum上のトークンを送金するWebアプリを作ってDecentralizedな方法で公開してみる - lotz84の日記</a></li>
+</ul></li>
+</ul>
+
+<p>ちなみに Ethereum 方面のツール群は Golang、Python、JavaScript で書かれているものが多く、これらの言語が得意な人にとっては手を出しやすいでしょう。</p>
+
+<h3 id="solidity-の雰囲気">Solidity の雰囲気</h3>
+
+<p>GitHub のシンタックスハイライトが Solidity に対応しておらず、すっぴんの状態で載せてもわかりにくいので <a href="https://github.com/OpenZeppelin/zeppelin-solidity/blob/master/contracts/token/BasicToken.sol">BasicToken.sol</a> を手元のエディタに放り込んで着色したときのスクリーンショットを載せます。</p>
+
+<p><img src="/post/2017/12/22/solidity-standard-token.png"></p>
+
+<p>ぼくがこれまで触れてきた言語の中でいうと、コード面は Java に似ている感じですね。言語仕様もそこまで大きくなく、なにかしら ALGOL 系の言語をひとつでも触ってきた人なら基本的なデータ型や文法などはスッと習得できると思います。</p>
+
+<p>先に紹介したチュートリアル的な記事たちに従ってひとつでもオリジナルのトークンをつくってみると、見える景色が一気に広がるはずです。</p>
+
+<h3 id="おわりに">おわりに</h3>
+
+<p>つい最近も Apple が <a href="https://developer.apple.com/app-store/review/guidelines/#in-app-purchase">App Store Review Guidelines</a> に「アプリ内でガチャを提供するときは確率をぜったいに表示しておけよ」という項目を追記したことが話題になっていました。また、クローズドな環境においてよくないことをしたのがバレて炎上する事案をいくつも見かけた今年でした。社会の情報化がますます加速し、ありとあらゆるものが記録されてログに残るようになると、人々は必然的に「高い透明性」を求めるようになるのだと思います。</p>
+
+<p>そこにスマートコントラクトがうまくハマれば、公的な立場の人が約束を守らないとか、よくわからないことにお金を使ってしまうとか、言った言っていないで揉めちゃうとか、そういうことを減らしていけるのかな〜と妄想しています。「動作するドキュメント」に倣って「動作する約束」とでも呼びましょうか。よくないことをして炎上したい人なんていないでしょうから、よくないことをせずに済む仕組みが整備されていくといいなあ。</p>
+
+<p>ここまでお読みいただき、ありがとうございました。もし少しでも「おもしろそう！」と思えた人がいたのなら、いっしょにわいわいやりましょう！12月1日の記事である <a href="https://qiita.com/amachino/items/605ff76209d7193dc92c">Ethereum 開発者向けコミュニティを作ったよ</a> にて紹介されている「Hi-Ether」の Slack にぼくもいますので、お話相手しにきてくださいまし〜。</p>
+
+<p>冒頭にも書いた通り、ここ数年ぼくは Web 界隈でワイワイやってきて、おかげで業界の知り合いも増えたのですが、Ethereum 方面のコミュニティをのぞいてみると、金融系の界隈からやってきた人たちもいるので自分にとっては顔ぶれが新鮮でおもしろいです。</p>
+
+<p>たまたま流れてきた<a href="https://www.wantedly.com/projects/173027">メルカリの求人</a>を見ていたら「ソフトウェアエンジニア（Blockchain）」と書いてあって、人材市場的にもこのあたりは熱くなってきそうですね。数年後には「フルスタックエンジニア」と言われるときのスタックがもう2〜3層ほど厚くなっていそうで、ソフトウェアエンジニアってのはつくづく退屈しない職種だなぁと思います。</p>
+
+  </div>
+  <div class="article__foot">
+    
+    <h4 class="for-pc">
+  おもしろかったら、シェアやブックマークや送金などぜひぜひお願いします。サイト運営の励みになります！
+</h4>
+<h4 class="for-mobile">
+  シェアや送金などお待ちしています！
+</h4>
+<p class="hatena-star-container">
+  <a href="https://b.hatena.ne.jp/entry/s/june29.jp/2017/12/22/ethereum-for-web-application-developers/">
+    <img src="https://b.hatena.ne.jp/entry/image/https://june29.jp/2017/12/22/ethereum-for-web-application-developers/">
+  </a>
+  <p class="display-none">
+    <a href="https://june29.jp/2017/12/22/ethereum-for-web-application-developers/" class="original-url">https://june29.jp/2017/12/22/ethereum-for-web-application-developers/</a>
+  </p>
+</p>
+<div class="kyash-me">
+  <div class="for-pc">
+    <img src="/img/kyash-me-pc.gif">
+  </div>
+  <div class="for-mobile">
+    <p>
+      <img src="/img/kyash-me-mobile.gif">
+    </p>
+    <p class="kyash-button-container">
+      <a href="kyash://request/u/3b34827c-cbf0-4ad3-839b-a18108ccb2ff">
+        <img src="/img/kyash-logo.png" height="28">
+        で 99 円を送金する
+      </a>
+    </p>
+  </div>
+</div>
+
+
+  </div>
+</article>
+
+
+<div id="other-entries">
+  <h3>前後の記事や他の記事もどうぞ</h3>
+  <ul>
+  
+    <li>
+      <a href="/2017/12/25/think-by-myself/" title="自分の頭で考える機会を奪われるということ">2017-12-25 : 自分の頭で考える機会を奪われるということ</a>
+    </li>
+  
+  
+    <li>
+      <a href="/2017/12/19/my-favorite-comics-2017/" title="2017年に読んだ漫画たち">2017-12-19 : 2017年に読んだ漫画たち</a>
+    </li>
+  
+  </ul>
+</div>
+
+      </div>
+    </div>
+    <footer>
+      <div class="footer__inner inner">
+        <h2>
+          最近の記事
+        </h2>
+        <ul>
+          
+          <li>
+            <a href="https://june29.jp/2021/08/10/tochigi-nasushiobara-3months/" title="栃木県那須塩原市で3ヶ月間ほど暮らしてみて">2021-08-10 : 栃木県那須塩原市で3ヶ月間ほど暮らしてみて</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/12/31/2020-in-my-house/" title="ふりかえり 2020">2020-12-31 : ふりかえり 2020</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/07/18/vlog/" title="Vlog を 1 ヶ月間やってみた記録">2020-07-18 : Vlog を 1 ヶ月間やってみた記録</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/07/06/nosh/" title="ヘルシーな冷凍弁当宅配サービス「nosh」を利用している話">2020-07-06 : ヘルシーな冷凍弁当宅配サービス「nosh」を利用している話</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/05/24/tell-me-remote-work/" title="教えてリモートワーク @june29 の場合">2020-05-24 : 教えてリモートワーク @june29 の場合</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/04/05/social-distancing-2020/" title="Social Distancing と 2020 年">2020-04-05 : Social Distancing と 2020 年</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2019/12/30/lovely-2019/" title="楽しかった 2019 年">2019-12-30 : 楽しかった 2019 年</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2019/12/22/goldenbomber-and-me-in-reiwa-1st/" title="令和元年のゴールデンボンバーとわたし">2019-12-22 : 令和元年のゴールデンボンバーとわたし</a>
+          </li>
+          
+        </ul>
+        <h2>
+          書き手について
+        </h2>
+        <p>
+          大和田純。源氏名「june29」で活動中。北海道生まれ少年漫画育ち。渋谷区の大和田地方に勤めている。
+        </p>
+        <h2>
+          このサイトについて
+        </h2>
+        <p>
+          このサイトは大和田純によって運営されています。個人の見解や日常のことを書いています。ソースコードは
+          <a href="https://github.com/june29/june29.jp">GitHub</a>
+          にあります。
+        </p>
+      </div>
+    </footer>
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=392332164169856";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+    <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+
+    <script type="text/javascript" src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
+<script type="text/javascript">
+  Hatena.Star.SiteConfig = {
+    entryNodes: {
+      'article': {
+        uri: '.article__foot a.original-url',
+        title: '.article__head h2',
+        container: '.hatena-star-container'
+      }
+    }
+  };
+</script>
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1005149-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+  </body>
+</html>
+

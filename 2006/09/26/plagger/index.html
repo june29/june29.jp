@@ -1,0 +1,345 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="alternate" type="application/atom+xml" title="Atom" href="/index.xml"/>
+    
+    <link rel="stylesheet" type="text/css" href="/css/reset.css">
+    <link rel="stylesheet" href="https://june29.jp/hugo29.min.5247624668cfd436bc1d3bbedeac608fb1a06e6c38f124f304f9d02427c7aeaa.css">
+
+    <script type="text/javascript" src="/js/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="/js/underscore-min.js"></script>
+    <script type="text/javascript" src="/js/hugo29.js?t=1628643185"></script>
+
+    <script type="text/javascript" src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
+    <script type="text/javascript">
+    Hatena.Star.Token = '6086952ec2c380a34a31cd307d5424114a0da296';
+    </script>
+
+    <meta property="og:site_name" content="#june29jp" />
+    <meta property="og:locale " content="ja-jp" />
+
+    <meta property="og:url" content="https://june29.jp/2006/09/26/plagger/" />
+    <meta name="twitter:url" content="https://june29.jp/2006/09/26/plagger/" />
+    <link rel="canonical" href="https://june29.jp/2006/09/26/plagger/" />
+
+    <meta name="description" content="june29&#39;s official website" />
+    <meta name="twitter:description" content="june29&#39;s official website">
+    <meta property="og:description" content="june29&#39;s official website" />
+
+    <meta name="twitter:site" content="@june29" />
+    <meta name="twitter:creator" content="@june29" />
+
+
+    <meta property="og:title" content="続Plaggerいじり" />
+    <meta name="twitter:title" content="続Plaggerいじり" />
+    <title>続Plaggerいじり - #june29jp</title>
+
+    <meta name="twitter:image" content="https://june29.jp/img/og-image.png" />
+    <meta property="og:image" content="https://june29.jp/img/og-image.png" />
+
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="og:type" content="article" />
+    <meta property="og:article:published_time" content="2006-09-26T13:31:58&#43;09:00" />
+    <meta property="og:article:section" content="post" />
+
+
+
+  </head>
+  <body>
+    <header>
+      <h1>
+        <a href="/">#june29jp</a>
+      </h1>
+      <p>
+        <img src="/img/ring.jpg" width="80" height="80" class="circle-icon">
+      </p>
+    </header>
+    <div id="main">
+      <div id="main__inner" class="inner">
+
+
+<article>
+  <div class="article__head">
+    <h2>
+      <a href="https://june29.jp/2006/09/26/plagger/" title="続Plaggerいじり">続Plaggerいじり</a>
+    </h2>
+    <p>
+      2006-09-26
+    </p>
+  </div>
+  <div class="article__body">
+    <p><h3>del.icio.usのブックマークをはてなブックマーク及びLivedoor Clipへ</h3>
+<p>すごく便利だなぁと思ったのだけれど，ボクの環境では<a href="http://watcher.moe-nifty.com/memo/2005/10/bookey.html" target="_blank">ソーシャルブックマーク管理ツールbookey</a>が動きません．でもいざというときのためにdel.icio.usのブックマークをはてなブックマークや他のソーシャルブックマークサービスにも残しておきたい．それPla，と思ってやってみました．</p>
+<p>なぜブックマークのバックアップを考えたか，理由はいくつかあります．まず単純に，del.icio.usがメンテナンスなどで利用不能になっているときに，代わりに利用できるものがほしい．そして，それぞれのサービスにはそれぞれの良さがあって，上手に使い分けていけたらもっと便利に使えるだろうと考えました．del.icio.usは投稿がしやすくて好きです．一方ではてなブックマークは，再利用の仕組みがたくさんあって楽しいです．特に最近，<a href="http://d.hatena.ne.jp/keyword/%A4%CF%A4%C6%A4%CA%A5%D6%A5%C3%A5%AF%A5%DE%A1%BC%A5%AF%A5%B3%A5%E1%A5%F3%A5%C8%A4%BD%A4%CE%BE%EC%A4%C7%C9%BD%BC%A8%A5%E9%A5%A4%A5%D6%A5%E9%A5%EA" target="_blank">はてなブックマークコメントその場で表示ライブラリ</a>がリリースされてますます楽しいです．ボクも自分の作ったWebサイトでこのライブラリを利用させてもらおうと思ったのですが，自分のコメントが表示されないってのは寂しいものです．それで，はてなブックマークにも同期させてしまえと思いました．ついでにサムネイル表示が嬉しいLivedoor Clipにも同期させます．</p>
+<p>yamlは<a href="http://plagger.g.hatena.ne.jp/Seacolor/20060801/1150540074" target="_blank">Plaggerグループ &#8211; Seacolor&#8217;s Labs. &#8211; del.icio.usとはてなブックマークを同期させるyaml（完全版）</a>を参考にさせてもらいました．感謝です．</p>
+<p>del.icio.us2hatebdoor.yaml<br />
+[code]<br />
+global:<br />
+  timezone: Asia/Tokyo<br />
+  log:<br />
+    level: info</p>
+<p>plugins:<br />
+  &#8211; module: Subscription::Config<br />
+    config:<br />
+      feed:<br />
+        &#8211; url: <a href="http://del.icio.us/rss/june29">http://del.icio.us/rss/june29</a></p>
+<p>  &#8211; module: Filter::Rule<br />
+    rule:<br />
+      module: Deduped<br />
+      path: /home/june29/plagger/cache_rule/delicious2hatebdoor.tmp<br />
+      compare_body: 1</p>
+<p>  &#8211; module: Filter::Reverse<br />
+  &#8211; module: Filter::DeliciousFeedTags</p>
+<p>  &#8211; module: Publish::HatenaBookmark<br />
+    config:<br />
+      username: (hatena_id)<br />
+      password: (hatena_password)<br />
+      interval: 8<br />
+      post_body: 1</p>
+<p>  &#8211; module: Publish::LivedoorClip<br />
+    config:<br />
+      livedoor_id: (livedoor_id)<br />
+      password: (livedoor_password)<br />
+      interval: 5<br />
+      post_body: 1<br />
+[/code]</p>
+<p>Dedupedを指定して重複ポストを防ぎます．delicious2hatebdoor.tmpはそのためのファイルのようです．指定したファイルが存在しない状態でこのyamlを実行すると途中で止まります．事前に用意しておく必要があるのでしょうか．</p>
+<p>[code]<br />
+touch /home/june29/plagger/cache_rule/delicious2hatebdoor.tmp<br />
+plagger -c del.icio.us2hatebdoor.yaml<br />
+[/code]</p>
+<p>上記のようにコマンドを実行したところ，上手く動いてくれました．各intervalは適当です．急ぐものでもないので，他の使用者の皆さんのソースを参考にしつつ気持ち長めに設定．</p>
+<h3>自分と仲間たちのブックマークを全文にしてGmailへ</h3>
+<p>これはもう，「誰かがブックマークしていたなぁ」をいつでも全文検索できるようにしたい，それだけです．<a href="http://subtech.g.hatena.ne.jp/miyagawa/20060412/1144846549" target="_blank">Bulknews::Subtech &#8211; atode.cc クローン by Plagger</a>をほとんどそのまま利用させてもらいました．感謝です．</p>
+<p>sbm2gmail.yaml<br />
+[code]<br />
+global:<br />
+  timezone: Asia/Tokyo</p>
+<p>plugins:<br />
+  &#8211; module: Subscription::Config<br />
+    config:<br />
+      feed:<br />
+        &#8211; FEED_URL_1<br />
+        &#8211; FEED_URL_2<br />
+        &#8211; FEED_URL_3<br />
+                 ･<br />
+                 ･<br />
+                 ･</p>
+<p>  &#8211; module: Filter::EntryFullText<br />
+    config:<br />
+      store_html_on_failure: 1</p>
+<p>  &#8211; module: Filter::ResolveRelativeLink</p>
+<p>  &#8211; module: Filter::Rule<br />
+    rule:<br />
+      module: Fresh<br />
+      mtime:<br />
+        path: /home/june29/plagger/cache_rule/sbm2gmail.tmp<br />
+        autoupdate: 1</p>
+<p>  &#8211; module: Filter::BreakEntriesToFeeds</p>
+<p>  &#8211; module: Publish::Gmail<br />
+    config:<br />
+      mailto: you@example.com<br />
+      mailfrom: you@example.com<br />
+      mailroute:<br />
+        via: smtp<br />
+        host: localhost:25<br />
+[/code]</p>
+<p>リンク先に説明があるのでここでは省きます．mtimeがよく分かっていないのですが，これも重複チェックのための機構だと思います．先ほどと同じように予めテンポラリを作っておくときちんと動きます．</p>
+<p>[code]<br />
+touch /home/june29/plagger/cache_rule/sbm2gmail.tmp<br />
+plagger -c sbm2gmail.yaml<br />
+[/code]</p>
+<p>指定するフィードの数が多くなると，全文取得や画像の相対パスを絶対パスに変換する処理などでけっこうな時間がかかるので，このyamlは3時間に1回だけ実行するようにcronを設定しました．</p>
+<h3>複数フィードを1つのフィードに統合</h3>
+<p>ウチの組織では，お互いがお互いに相手のブログ，ソーシャルブックマーク等のフィードをRSSリーダで購読しています．だからメンバーが1人増えるたびに登録の手間が発生するわけです．だったら全員分のフィードを1つにまとめて，みんなもそのフィードだけを購読するようにすれば良いということでPlaggerでやりました．</p>
+<p>members2feed.yaml<br />
+[code]<br />
+global:<br />
+  timezone: Asia/Tokyo<br />
+  level: info<br />
+  cache:<br />
+    base: /home/june29/plagger/cache_rule</p>
+<p>plugins:<br />
+  &#8211; module: Subscription::Config<br />
+    config:<br />
+      feed:<br />
+        &#8211; FEED_URL_1<br />
+        &#8211; FEED_URL_2<br />
+        &#8211; FEED_URL_3<br />
+                 ･<br />
+                 ･<br />
+                 ･</p>
+<p>  &#8211; module: SmartFeed::All<br />
+    config:<br />
+      title: &#8220;FEED TITLE&#8221;</p>
+<p>  &#8211; module: Publish::Feed<br />
+    rule:<br />
+      expression: $args-&gt;{feed}-&gt;id eq &#8216;smartfeed:all&#8217;<br />
+    config:<br />
+      dir: /var/www/public_html/rss/<br />
+      format: RSS<br />
+      filename: feedtitle.rss</p>
+<p>[/code]</p>
+<p>指定したフィードをまとめてタイトルを付けて外から見える場所にファイルとして出力しているだけです．最初，sudoなしではmkdirしようとして止まってしまっていたのですが，globalのところでcacheのbaseを指定したらsudoなしでも実行できるようになりました．仕組みはまだよく分かっていないので，これから勉強しなければなりません．</p>
+<h3>今回のまとめ</h3>
+<p>ひとまず「やりたい！」ことはPlaggerを利用して1つずつ実現できています．世間的にはPlaggerでなんでもできる感じになっていますが，ボクはまだまだ「誰かがすでにやっていて，記録を残してくれているもの」しかできていません．もう少し触ってみて理解を深めて，もっと便利な使い方を見付けられたらなぁと感じています．ともあれ，こんなに便利なツールを提供してくれている皆さんにはとても感謝です！Plagger！</p>
+<h3>追記</h3>
+<p><a href="http://june29.jp/2006/09/27/plagger-2/" alt="続Plaggerいじり補足">続Plaggerいじり補足</a>にて内容を補足しています．</p></p>
+
+  </div>
+  <div class="article__foot">
+    
+    <h4 class="for-pc">
+  おもしろかったら、シェアやブックマークや送金などぜひぜひお願いします。サイト運営の励みになります！
+</h4>
+<h4 class="for-mobile">
+  シェアや送金などお待ちしています！
+</h4>
+<p class="hatena-star-container">
+  <a href="https://b.hatena.ne.jp/entry/s/june29.jp/2006/09/26/plagger/">
+    <img src="https://b.hatena.ne.jp/entry/image/https://june29.jp/2006/09/26/plagger/">
+  </a>
+  <p class="display-none">
+    <a href="https://june29.jp/2006/09/26/plagger/" class="original-url">https://june29.jp/2006/09/26/plagger/</a>
+  </p>
+</p>
+<div class="kyash-me">
+  <div class="for-pc">
+    <img src="/img/kyash-me-pc.gif">
+  </div>
+  <div class="for-mobile">
+    <p>
+      <img src="/img/kyash-me-mobile.gif">
+    </p>
+    <p class="kyash-button-container">
+      <a href="kyash://request/u/3b34827c-cbf0-4ad3-839b-a18108ccb2ff">
+        <img src="/img/kyash-logo.png" height="28">
+        で 99 円を送金する
+      </a>
+    </p>
+  </div>
+</div>
+
+
+  </div>
+</article>
+
+
+<div id="other-entries">
+  <h3>前後の記事や他の記事もどうぞ</h3>
+  <ul>
+  
+    <li>
+      <a href="/2006/09/26/lemonwater/" title="レモンウォーターでニンテンドーDS Lite">2006-09-26 : レモンウォーターでニンテンドーDS Lite</a>
+    </li>
+  
+  
+    <li>
+      <a href="/2006/09/25/distribute-raw-feed/" title="RSSを加工なしで配信">2006-09-25 : RSSを加工なしで配信</a>
+    </li>
+  
+  </ul>
+</div>
+
+      </div>
+    </div>
+    <footer>
+      <div class="footer__inner inner">
+        <h2>
+          最近の記事
+        </h2>
+        <ul>
+          
+          <li>
+            <a href="https://june29.jp/2021/08/10/tochigi-nasushiobara-3months/" title="栃木県那須塩原市で3ヶ月間ほど暮らしてみて">2021-08-10 : 栃木県那須塩原市で3ヶ月間ほど暮らしてみて</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/12/31/2020-in-my-house/" title="ふりかえり 2020">2020-12-31 : ふりかえり 2020</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/07/18/vlog/" title="Vlog を 1 ヶ月間やってみた記録">2020-07-18 : Vlog を 1 ヶ月間やってみた記録</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/07/06/nosh/" title="ヘルシーな冷凍弁当宅配サービス「nosh」を利用している話">2020-07-06 : ヘルシーな冷凍弁当宅配サービス「nosh」を利用している話</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/05/24/tell-me-remote-work/" title="教えてリモートワーク @june29 の場合">2020-05-24 : 教えてリモートワーク @june29 の場合</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/04/05/social-distancing-2020/" title="Social Distancing と 2020 年">2020-04-05 : Social Distancing と 2020 年</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2019/12/30/lovely-2019/" title="楽しかった 2019 年">2019-12-30 : 楽しかった 2019 年</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2019/12/22/goldenbomber-and-me-in-reiwa-1st/" title="令和元年のゴールデンボンバーとわたし">2019-12-22 : 令和元年のゴールデンボンバーとわたし</a>
+          </li>
+          
+        </ul>
+        <h2>
+          書き手について
+        </h2>
+        <p>
+          大和田純。源氏名「june29」で活動中。北海道生まれ少年漫画育ち。渋谷区の大和田地方に勤めている。
+        </p>
+        <h2>
+          このサイトについて
+        </h2>
+        <p>
+          このサイトは大和田純によって運営されています。個人の見解や日常のことを書いています。ソースコードは
+          <a href="https://github.com/june29/june29.jp">GitHub</a>
+          にあります。
+        </p>
+      </div>
+    </footer>
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=392332164169856";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+    <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+
+    <script type="text/javascript" src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
+<script type="text/javascript">
+  Hatena.Star.SiteConfig = {
+    entryNodes: {
+      'article': {
+        uri: '.article__foot a.original-url',
+        title: '.article__head h2',
+        container: '.hatena-star-container'
+      }
+    }
+  };
+</script>
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1005149-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+  </body>
+</html>
+

@@ -1,0 +1,290 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="alternate" type="application/atom+xml" title="Atom" href="/index.xml"/>
+    
+    <link rel="stylesheet" type="text/css" href="/css/reset.css">
+    <link rel="stylesheet" href="https://june29.jp/hugo29.min.5247624668cfd436bc1d3bbedeac608fb1a06e6c38f124f304f9d02427c7aeaa.css">
+
+    <script type="text/javascript" src="/js/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="/js/underscore-min.js"></script>
+    <script type="text/javascript" src="/js/hugo29.js?t=1628643181"></script>
+
+    <script type="text/javascript" src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
+    <script type="text/javascript">
+    Hatena.Star.Token = '6086952ec2c380a34a31cd307d5424114a0da296';
+    </script>
+
+    <meta property="og:site_name" content="#june29jp" />
+    <meta property="og:locale " content="ja-jp" />
+
+    <meta property="og:url" content="https://june29.jp/2016/08/18/some-tips-for-making-web-crawler/" />
+    <meta name="twitter:url" content="https://june29.jp/2016/08/18/some-tips-for-making-web-crawler/" />
+    <link rel="canonical" href="https://june29.jp/2016/08/18/some-tips-for-making-web-crawler/" />
+
+    <meta name="description" content="june29&#39;s official website" />
+    <meta name="twitter:description" content="june29&#39;s official website">
+    <meta property="og:description" content="june29&#39;s official website" />
+
+    <meta name="twitter:site" content="@june29" />
+    <meta name="twitter:creator" content="@june29" />
+
+
+    <meta property="og:title" content="私が簡易なクローラをつくるとき" />
+    <meta name="twitter:title" content="私が簡易なクローラをつくるとき" />
+    <title>私が簡易なクローラをつくるとき - #june29jp</title>
+
+    <meta name="twitter:image" content="https://june29.jp/post/2016/08/18/some-tips-for-making-web-crawler-og-image.png" />
+    <meta property="og:image" content="https://june29.jp/post/2016/08/18/some-tips-for-making-web-crawler-og-image.png" />
+
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="og:type" content="article" />
+    <meta property="og:article:published_time" content="2016-08-18T23:57:34&#43;09:00" />
+    <meta property="og:article:section" content="post" />
+
+
+
+  </head>
+  <body>
+    <header>
+      <h1>
+        <a href="/">#june29jp</a>
+      </h1>
+      <p>
+        <img src="/img/ring.jpg" width="80" height="80" class="circle-icon">
+      </p>
+    </header>
+    <div id="main">
+      <div id="main__inner" class="inner">
+
+
+<article>
+  <div class="article__head">
+    <h2>
+      <a href="https://june29.jp/2016/08/18/some-tips-for-making-web-crawler/" title="私が簡易なクローラをつくるとき">私が簡易なクローラをつくるとき</a>
+    </h2>
+    <p>
+      2016-08-18
+    </p>
+  </div>
+  <div class="article__body">
+    <h4>はじめに</h4>
+
+<p>お盆の前後にまとまった自由時間があり、久しぶり (といっても数ヶ月ぶりくらい) に Web クローラ的なものを書いた。大量のデータが収集されていくログの様子を眺めるのは楽しい。今回も楽しかった。</p>
+
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="/post/2016/08/18/some-tips-for-making-web-crawler-20160818001157.png" alt="f:id:june29:20160818001157p:plain" title="f:id:june29:20160818001157p:plain" class="hatena-fotolife" itemprop="image"></span></p>
+
+<p>再利用するかどうかもその時点ではわからない簡易な Web クローラを書くとき「だいたいこんな感じだな」というのを言語化してみる試み。この内容は、何度かいっしょにクローリング業務をこなしたことのある <a href="https://twitter.com/darashi">@darashi</a> に大きく影響を受けているだろうな、ってことは最初に書いておこう。最近は共同クローリングがごぶさたなので、またいっしょにやりたいなって思っています。</p>
+
+<h4>作業の流れ</h4>
+
+<ul>
+<li>(01) あんまりクラス設計とか気にせず、処理の流れを思いつくままに書いていく
+
+<ul>
+<li>最初のエントリポイントにアクセスして、データを取得して、ストレージに保存して、ってな感じで</li>
+</ul>
+</li>
+<li>(02) 効率のよいクローリング戦略を考えながら、ページングやループの終了条件のロジックを書く</li>
+<li>(03) こんなもんかな〜っていう処理が書けたら、とにかく起動して適当に動かしてみる</li>
+<li>(04) 想定した通りのデータの形をしているときはいい感じに動くものの、ほぼ間違いなく想定外の形のデータに遭遇してエラーを吐いて死ぬ</li>
+<li>(05) 遭遇した想定外の形のデータに合わせて処理をプチ更新する</li>
+<li>(06) 何度か (04)〜(05) を繰り返しているうちに、次第にしっかりと動くクローラの姿になってくる</li>
+<li>(07) ある程度の量のデータを収集できてくると、このデータの持ち方じゃ破綻するな〜とわかってくるタイミングが訪れる</li>
+<li>(08) ここまでに収集したデータをぜんぶ捨てるつもりで、最新の知見をもとにデータの持ち方を設計して実装に反映させる</li>
+<li>(09) ここまでくると、動かせば動かすだけデータを集められるようになるので、<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%B9%A5%AF%A5%EA%A5%D7%A5%C8">スクリプト</a>を再起動したときにいい感じに続きから実行してくれるようなレジューム機構を入れる</li>
+<li>(10) そろそろけっこう堅牢なクローラになっているので、ひたすら動かしておいて、外的要因で止まったら自動で再起動するような仕組みを入れて動かし続ける</li>
+<li>(11) お目当てのデータがたくさん集まってきて、桶屋が儲かる</li>
+</ul>
+
+<h4>コツっぽいもの</h4>
+
+<ul>
+<li>(A) 取得したデータは、なるべく取得したまんまの生データを保存しておく
+
+<ul>
+<li>加工した上で保存すると、加工方法を変えたときに最初からデータを取り直す羽目になる</li>
+<li>データの取得と加工は別工程と考えておくのが吉</li>
+<li>特に HTML は「<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%B9%A5%AF%A5%EC%A5%A4%A5%D4%A5%F3%A5%B0">スクレイピング</a>して、必要なデータだけ保存」って、昔のぼくはやりがちだった、今はとりあえず HTML を丸ごと保存する</li>
+<li>これは <a href="https://twitter.com/darashi">@darashi</a> がそうしているのを見て真似した</li>
+</ul>
+</li>
+<li>(B) <a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%B9%A5%AF%A5%EA%A5%D7%A5%C8">スクリプト</a>の起動時とか「データ取得10,000件ごと」とか例外発生時とか、わかりのいいタイミングで Slack 等へ通知させるとよい
+
+<ul>
+<li>基本は放置で動かしておきたいけど、進捗とか異常系はちょいちょい把握したいときに便利</li>
+<li>手元の開発マシンを離れて <a class="keyword" href="http://d.hatena.ne.jp/keyword/VPS">VPS</a> なんかで動かす場合にも、コンソールへのログ以外に Slack 等に通知しておくと移動中にも確認できて便利だったり</li>
+</ul>
+</li>
+</ul>
+
+<p>他にもある気がするので、思い付いたら追記したい。</p>
+
+<p>しかし、最近は Web <a class="keyword" href="http://d.hatena.ne.jp/keyword/API">API</a> が豊富で、きれいにフォーマットされた <a class="keyword" href="http://d.hatena.ne.jp/keyword/JSON">JSON</a> が簡単に手に入るから、昔みたいに「クローラとスクレイパの両方をがんばらなきゃいけない」ってことが減ってきた。<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%B9%A5%AF%A5%EC%A5%A4%A5%D4%A5%F3%A5%B0">スクレイピング</a>職人は働き口も後継者も見つからず、このまま絶滅してしまいそう。</p>
+
+  </div>
+  <div class="article__foot">
+    
+    <div class="original-info">
+      <p>
+        この記事は、もともと下記に投稿されたものです。
+      </p>
+      <p>
+        <a href="http://june29.hatenablog.jp/entry/some-tips-for-making-web-crawler">http://june29.hatenablog.jp/entry/some-tips-for-making-web-crawler</a>
+      </p>
+    </div>
+    
+    <h4 class="for-pc">
+  おもしろかったら、シェアやブックマークや送金などぜひぜひお願いします。サイト運営の励みになります！
+</h4>
+<h4 class="for-mobile">
+  シェアや送金などお待ちしています！
+</h4>
+<p class="hatena-star-container">
+  <a href="https://b.hatena.ne.jp/entry/s/june29.jp/2016/08/18/some-tips-for-making-web-crawler/">
+    <img src="https://b.hatena.ne.jp/entry/image/https://june29.jp/2016/08/18/some-tips-for-making-web-crawler/">
+  </a>
+  <p class="display-none">
+    <a href="https://june29.jp/2016/08/18/some-tips-for-making-web-crawler/" class="original-url">https://june29.jp/2016/08/18/some-tips-for-making-web-crawler/</a>
+  </p>
+</p>
+<div class="kyash-me">
+  <div class="for-pc">
+    <img src="/img/kyash-me-pc.gif">
+  </div>
+  <div class="for-mobile">
+    <p>
+      <img src="/img/kyash-me-mobile.gif">
+    </p>
+    <p class="kyash-button-container">
+      <a href="kyash://request/u/3b34827c-cbf0-4ad3-839b-a18108ccb2ff">
+        <img src="/img/kyash-logo.png" height="28">
+        で 99 円を送金する
+      </a>
+    </p>
+  </div>
+</div>
+
+
+  </div>
+</article>
+
+
+<div id="other-entries">
+  <h3>前後の記事や他の記事もどうぞ</h3>
+  <ul>
+  
+    <li>
+      <a href="/2016/08/20/beauticians-and-me/" title="2ヶ月に1回くらいずつ会う人が話しやすいタイプだとうれしい">2016-08-20 : 2ヶ月に1回くらいずつ会う人が話しやすいタイプだとうれしい</a>
+    </li>
+  
+  
+    <li>
+      <a href="/2016/08/11/counterattack-of-visual-kei-the-book/" title="書籍「逆襲の&lt;ヴィジュアル系&gt;」を読んだ">2016-08-11 : 書籍「逆襲の&lt;ヴィジュアル系&gt;」を読んだ</a>
+    </li>
+  
+  </ul>
+</div>
+
+      </div>
+    </div>
+    <footer>
+      <div class="footer__inner inner">
+        <h2>
+          最近の記事
+        </h2>
+        <ul>
+          
+          <li>
+            <a href="https://june29.jp/2021/08/10/tochigi-nasushiobara-3months/" title="栃木県那須塩原市で3ヶ月間ほど暮らしてみて">2021-08-10 : 栃木県那須塩原市で3ヶ月間ほど暮らしてみて</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/12/31/2020-in-my-house/" title="ふりかえり 2020">2020-12-31 : ふりかえり 2020</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/07/18/vlog/" title="Vlog を 1 ヶ月間やってみた記録">2020-07-18 : Vlog を 1 ヶ月間やってみた記録</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/07/06/nosh/" title="ヘルシーな冷凍弁当宅配サービス「nosh」を利用している話">2020-07-06 : ヘルシーな冷凍弁当宅配サービス「nosh」を利用している話</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/05/24/tell-me-remote-work/" title="教えてリモートワーク @june29 の場合">2020-05-24 : 教えてリモートワーク @june29 の場合</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/04/05/social-distancing-2020/" title="Social Distancing と 2020 年">2020-04-05 : Social Distancing と 2020 年</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2019/12/30/lovely-2019/" title="楽しかった 2019 年">2019-12-30 : 楽しかった 2019 年</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2019/12/22/goldenbomber-and-me-in-reiwa-1st/" title="令和元年のゴールデンボンバーとわたし">2019-12-22 : 令和元年のゴールデンボンバーとわたし</a>
+          </li>
+          
+        </ul>
+        <h2>
+          書き手について
+        </h2>
+        <p>
+          大和田純。源氏名「june29」で活動中。北海道生まれ少年漫画育ち。渋谷区の大和田地方に勤めている。
+        </p>
+        <h2>
+          このサイトについて
+        </h2>
+        <p>
+          このサイトは大和田純によって運営されています。個人の見解や日常のことを書いています。ソースコードは
+          <a href="https://github.com/june29/june29.jp">GitHub</a>
+          にあります。
+        </p>
+      </div>
+    </footer>
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=392332164169856";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+    <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+
+    <script type="text/javascript" src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
+<script type="text/javascript">
+  Hatena.Star.SiteConfig = {
+    entryNodes: {
+      'article': {
+        uri: '.article__foot a.original-url',
+        title: '.article__head h2',
+        container: '.hatena-star-container'
+      }
+    }
+  };
+</script>
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1005149-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+  </body>
+</html>
+

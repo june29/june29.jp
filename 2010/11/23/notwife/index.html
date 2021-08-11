@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="alternate" type="application/atom+xml" title="Atom" href="/index.xml"/>
+    
+    <link rel="stylesheet" type="text/css" href="/css/reset.css">
+    <link rel="stylesheet" href="https://june29.jp/hugo29.min.5247624668cfd436bc1d3bbedeac608fb1a06e6c38f124f304f9d02427c7aeaa.css">
+
+    <script type="text/javascript" src="/js/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="/js/underscore-min.js"></script>
+    <script type="text/javascript" src="/js/hugo29.js?t=1628643184"></script>
+
+    <script type="text/javascript" src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
+    <script type="text/javascript">
+    Hatena.Star.Token = '6086952ec2c380a34a31cd307d5424114a0da296';
+    </script>
+
+    <meta property="og:site_name" content="#june29jp" />
+    <meta property="og:locale " content="ja-jp" />
+
+    <meta property="og:url" content="https://june29.jp/2010/11/23/notwife/" />
+    <meta name="twitter:url" content="https://june29.jp/2010/11/23/notwife/" />
+    <link rel="canonical" href="https://june29.jp/2010/11/23/notwife/" />
+
+    <meta name="description" content="june29&#39;s official website" />
+    <meta name="twitter:description" content="june29&#39;s official website">
+    <meta property="og:description" content="june29&#39;s official website" />
+
+    <meta name="twitter:site" content="@june29" />
+    <meta name="twitter:creator" content="@june29" />
+
+
+    <meta property="og:title" content="TwitterのイベントをNotifo経由でプッシュする「Notwife」をリリースしました" />
+    <meta name="twitter:title" content="TwitterのイベントをNotifo経由でプッシュする「Notwife」をリリースしました" />
+    <title>TwitterのイベントをNotifo経由でプッシュする「Notwife」をリリースしました - #june29jp</title>
+
+    <meta name="twitter:image" content="https://june29.jp/img/og-image.png" />
+    <meta property="og:image" content="https://june29.jp/img/og-image.png" />
+
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="og:type" content="article" />
+    <meta property="og:article:published_time" content="2010-11-23T00:04:28&#43;09:00" />
+    <meta property="og:article:section" content="post" />
+
+
+
+  </head>
+  <body>
+    <header>
+      <h1>
+        <a href="/">#june29jp</a>
+      </h1>
+      <p>
+        <img src="/img/ring.jpg" width="80" height="80" class="circle-icon">
+      </p>
+    </header>
+    <div id="main">
+      <div id="main__inner" class="inner">
+
+
+<article>
+  <div class="article__head">
+    <h2>
+      <a href="https://june29.jp/2010/11/23/notwife/" title="TwitterのイベントをNotifo経由でプッシュする「Notwife」をリリースしました">TwitterのイベントをNotifo経由でプッシュする「Notwife」をリリースしました</a>
+    </h2>
+    <p>
+      2010-11-23
+    </p>
+  </div>
+  <div class="article__body">
+    <p>「名前、どうしよっか」「んー、Twitter と Notifo だから、Notwifo でいいんじゃないの」「お、いいねー」ってお話をしていたはずなんだけれど、気が付いたら最後の &#8220;o&#8221; が &#8220;e&#8221; に変わって Notwife が名前になっていました。</p>
+<p><a href="http://notwife.heroku.com/" title="Notwife is not your wife.">Notwife is not your wife.</a><br />
+<img border="0" src="http://img.skitch.com/20101122-ka4is3nh3c643pg9j1qr3nd5nc.png" alt="Notwife is not your wife." /></p>
+<p><a href="http://twitter.com/kei_s" title="kei-s (kei_s) on Twitter">@kei_s</a> と <a href="http://twitter.com/june29" title="Jun OHWADA (june29) on Twitter">@june29</a> のチームで作ったアプリを紹介します。</p>
+<h3>Notwife ってなあに</h3>
+<p>アプリケーションの説明は <a href="http://notwife.heroku.com/" title="Notwife is not your wife.">Notwife</a> の Web サイトに書いてあります。</p>
+<h3>なんで Notwife を作ろうと思ったの</h3>
+<p>モチベーションはみっつくらいありました。</p>
+<ul>
+<li>Twitter の Site Streams に触れてみたい</li>
+<li>Pushable Web への布石にしたい</li>
+<li>むしゃくしゃしてやった</li>
+</ul>
+<h4>Twitter の Site Streams に触れてみたい</h4>
+<p>2010年9月28日に投稿された <a href="http://groups.google.com/group/twitter-development-talk/browse_thread/thread/39f188e6f71d93b6" title="User Streams goes Production, Site Streams adds Home Timelines - Twitter Development Talk | Google Groups">User Streams goes Production, Site Streams adds Home Timelines &#8211; Twitter Development Talk | Google Groups</a> を読んで <a href="http://dev.twitter.com/pages/site_streams" title="Site Streams | dev.twitter.com">Site Streams</a> は面白そうだなぁと思いました。</p>
+<p>Twitter のユーザは数え切れないほどたくさんいて、API に触れているのは、そのうちの100人に1人くらい。さらに、Streaming API に触れているのは、そのうちの100人に1人くらい。さらにさらに、Site Streams の API に触れている人となると、そのうちの100人に1人くらい。そんなふうにざっくりと仮定してみて、Site Streams は遊び甲斐がありそう、遊んでみよう、と思うに至りました。</p>
+<p>いやあ、<a href="http://favstar.fm/" title="Most popular recent tweets">Favstar.fm</a> の「速さ」には恐れ入ったのですよ。クローリングとかスパイダリングとかスクレイピングとか API を叩くとか、データを取得する方法はお行儀の悪い方法から正式な方法まで色々とありますけれど、たくさんのユーザの行動データを Streaming API で取得できると、ここまでユーザ体験が変わるもんですか、ってね。</p>
+<h4>Pushable Web への布石にしたい</h4>
+<p><a href="http://june29.jp/2010/05/11/twitter-chirpuserstreams-websocket/" title="TwitterのChirpUserStreamsをWebSocketで垂れ流す - 準二級.jp">TwitterのChirpUserStreamsをWebSocketで垂れ流す</a>で書いたような個人用システムは半年前にはすでに動いていて、プルだけじゃなく「プッシュ」という選択を自由に活用できる状態で Twitter を楽しんできた。ときには、他の Twitter ユーザさんの iPhone にプッシュを送る「プッシュ代行業」を趣味で展開したりもしていて、喜んでくれていて、この状態はもっと多くのユーザが簡単に体験できるべきだ、との考えを強めていた。</p>
+<p>たとえば「ふぁぼられた！」を瞬間に検知できるのと、その日の夜に「あ、ふぁぼられていたのか」と遅延とともに知らされるのとでは、休み時間の教室でボケをかましたときに、その場で笑いが起きるのと、その日の夜にメールで「あれ、面白かったよ」と知らされるのと、それくらいの違いがある。その場で笑いが起きれば、縦続けに次の言葉をつなげられるかもしれないところで、フィードバックが得られないとなると、コミュニケーションの質は下がり量も減ってしまう。</p>
+<p>目の前にお話相手がいれば、自然と笑い声が耳に届くように、本来、ボクらの生活には「プッシュ」が溢れている。ところが、舞台を Web に移すと、途端に「プル」だらけの世界になって、なんだかそれが当たり前だと言わんばかりの空気さえある。違う違う、情報の種類に応じて、コミュニケーションの種類に合わせて、プッシュとプルは上手に共存するべきものです。</p>
+<p>Twitter のようにリアルタイム性の高いデータを流通させてくれるサービスや、<a href="http://www.webhooks.org/" title="WebHooks">WebHooks</a>、<a href="http://code.google.com/p/pubsubhubbub/" title="pubsubhubbub - Project Hosting on Google Code">pubsubhubbub</a> などの概念、プロトコル、実装のラインナップが増えてきて、Web は次第にプッシュフレンドリーになってきたと言えます。さらに、iPhone 等のスマートフォンなんかがあれば、これらをいつでもどこでも受信できる。これらが人々の生活に自然に溶け込む世界を思い描いている。</p>
+<p><a href="http://notifo.com/user" title="Recent Notifications - Notifo">Notifo</a> は、よくできているので、もっと多くの人が活用を始めたらいいなって思っています。今回、ボクらが作成した Notwife の体験を通じて、誰かひとりでも「ああ、プッシュってこういうことか」「じゃあ、あの情報もプッシュで受け取れた方がいい！」「Notifo を使えば簡単に iPhone にプッシュできるのか！」なんて思ってくれたら、プロジェクトとしての Notwife は成功ってことです。</p>
+<p>Notwife が、Pushable Web への布石になりますように。</p>
+<h4>むしゃくしゃしてやった</h4>
+<p>Web アプリケーション開発ならなんでもよかった。今でも反省していない。とても楽しかった。やっぱり自分は Web が好きなんだな。</p>
+<p>開発の動機をざっくりまとめると「Rails」と「Twitter」と「Notifo」で遊びたくて、Notwife はちょうどいい遊び相手になってくれました、ということです。</p>
+<h3>まとめ</h3>
+<p>Twitter のイベントを Notifo 経由でプッシュする <a href="http://notwife.heroku.com/" title="Notwife is not your wife.">Notwife</a> をリリースしました。このエントリには、開発の裏側にあるコンセプトを書きました。</p>
+<p>企画、設計、実装、運用。まるっとすべての作業を <a href="http://twitter.com/kei_s" title="kei-s (kei_s) on Twitter">@kei_s</a> と <a href="http://twitter.com/june29" title="Jun OHWADA (june29) on Twitter">@june29</a> の2人で分担してこなしています。フロントエンドはボクが作り、バックエンドは <a href="http://twitter.com/kei_s" title="kei-s (kei_s) on Twitter">@kei_s</a> さんがしっかり作ってくれました。実装の詳細は、<a href="http://twitter.com/kei_s" title="kei-s (kei_s) on Twitter">@kei_s</a> さんと整理した上で、エントリを改めて書きます。準備中です。</p>
+<p><ins datetime="2010-12-31T04:08:17+00:00"><br />
+あとで書いた。<a href="http://twitter.com/kei_s" title="kei-s (kei_s) on Twitter">@kei_s</a> さんの<a href="http://d.hatena.ne.jp/kei-s/20101208/1291738179" title="Notwife というサービスを始めました - 札幌市西区">Notwife というサービスを始めました &#8211; 札幌市西区</a>や、<a href="http://notwife.heroku.com/about" title="About - Notwife">Notwife の About ページ</a>をご覧ください。<br />
+</ins></p>
+<p>思い付いたアイディアを「Twitter のさ、Site Streams でさ、新着イベントをさ、Notifo でさ、iPhone にさ…」ぐらいのぼんやりした感じで話しただけで、このエントリに書いたようなコンセプトの深いところまで読み取って、すぐに作業を始めてくれた <a href="http://twitter.com/kei_s" title="kei-s (kei_s) on Twitter">@kei_s</a> さんには、今回も感謝しています。これまで過ごしてきた時間の密度に支えらえて、ブレなくプロジェクトを進行できたと思います。</p>
+<p>裏側のお話ばかりになりましたが、Notwife をどうぞよろしくお願いします。よかったら使ってみてください！プッシュ生活をあなたにも！</p>
+
+  </div>
+  <div class="article__foot">
+    
+    <h4 class="for-pc">
+  おもしろかったら、シェアやブックマークや送金などぜひぜひお願いします。サイト運営の励みになります！
+</h4>
+<h4 class="for-mobile">
+  シェアや送金などお待ちしています！
+</h4>
+<p class="hatena-star-container">
+  <a href="https://b.hatena.ne.jp/entry/s/june29.jp/2010/11/23/notwife/">
+    <img src="https://b.hatena.ne.jp/entry/image/https://june29.jp/2010/11/23/notwife/">
+  </a>
+  <p class="display-none">
+    <a href="https://june29.jp/2010/11/23/notwife/" class="original-url">https://june29.jp/2010/11/23/notwife/</a>
+  </p>
+</p>
+<div class="kyash-me">
+  <div class="for-pc">
+    <img src="/img/kyash-me-pc.gif">
+  </div>
+  <div class="for-mobile">
+    <p>
+      <img src="/img/kyash-me-mobile.gif">
+    </p>
+    <p class="kyash-button-container">
+      <a href="kyash://request/u/3b34827c-cbf0-4ad3-839b-a18108ccb2ff">
+        <img src="/img/kyash-logo.png" height="28">
+        で 99 円を送金する
+      </a>
+    </p>
+  </div>
+</div>
+
+
+  </div>
+</article>
+
+
+<div id="other-entries">
+  <h3>前後の記事や他の記事もどうぞ</h3>
+  <ul>
+  
+    <li>
+      <a href="/2010/11/28/tedxseeds2010/" title="今年もTEDxSeedsに参加してきた">2010-11-28 : 今年もTEDxSeedsに参加してきた</a>
+    </li>
+  
+  
+    <li>
+      <a href="/2010/10/22/grow-your-own-seed/" title="「開催する」を目標にするのはよくない">2010-10-22 : 「開催する」を目標にするのはよくない</a>
+    </li>
+  
+  </ul>
+</div>
+
+      </div>
+    </div>
+    <footer>
+      <div class="footer__inner inner">
+        <h2>
+          最近の記事
+        </h2>
+        <ul>
+          
+          <li>
+            <a href="https://june29.jp/2021/08/10/tochigi-nasushiobara-3months/" title="栃木県那須塩原市で3ヶ月間ほど暮らしてみて">2021-08-10 : 栃木県那須塩原市で3ヶ月間ほど暮らしてみて</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/12/31/2020-in-my-house/" title="ふりかえり 2020">2020-12-31 : ふりかえり 2020</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/07/18/vlog/" title="Vlog を 1 ヶ月間やってみた記録">2020-07-18 : Vlog を 1 ヶ月間やってみた記録</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/07/06/nosh/" title="ヘルシーな冷凍弁当宅配サービス「nosh」を利用している話">2020-07-06 : ヘルシーな冷凍弁当宅配サービス「nosh」を利用している話</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/05/24/tell-me-remote-work/" title="教えてリモートワーク @june29 の場合">2020-05-24 : 教えてリモートワーク @june29 の場合</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/04/05/social-distancing-2020/" title="Social Distancing と 2020 年">2020-04-05 : Social Distancing と 2020 年</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2019/12/30/lovely-2019/" title="楽しかった 2019 年">2019-12-30 : 楽しかった 2019 年</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2019/12/22/goldenbomber-and-me-in-reiwa-1st/" title="令和元年のゴールデンボンバーとわたし">2019-12-22 : 令和元年のゴールデンボンバーとわたし</a>
+          </li>
+          
+        </ul>
+        <h2>
+          書き手について
+        </h2>
+        <p>
+          大和田純。源氏名「june29」で活動中。北海道生まれ少年漫画育ち。渋谷区の大和田地方に勤めている。
+        </p>
+        <h2>
+          このサイトについて
+        </h2>
+        <p>
+          このサイトは大和田純によって運営されています。個人の見解や日常のことを書いています。ソースコードは
+          <a href="https://github.com/june29/june29.jp">GitHub</a>
+          にあります。
+        </p>
+      </div>
+    </footer>
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=392332164169856";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+    <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+
+    <script type="text/javascript" src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
+<script type="text/javascript">
+  Hatena.Star.SiteConfig = {
+    entryNodes: {
+      'article': {
+        uri: '.article__foot a.original-url',
+        title: '.article__head h2',
+        container: '.hatena-star-container'
+      }
+    }
+  };
+</script>
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1005149-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+  </body>
+</html>
+

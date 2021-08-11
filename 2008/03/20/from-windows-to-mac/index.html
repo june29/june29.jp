@@ -1,0 +1,277 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="alternate" type="application/atom+xml" title="Atom" href="/index.xml"/>
+    
+    <link rel="stylesheet" type="text/css" href="/css/reset.css">
+    <link rel="stylesheet" href="https://june29.jp/hugo29.min.5247624668cfd436bc1d3bbedeac608fb1a06e6c38f124f304f9d02427c7aeaa.css">
+
+    <script type="text/javascript" src="/js/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="/js/underscore-min.js"></script>
+    <script type="text/javascript" src="/js/hugo29.js?t=1628643184"></script>
+
+    <script type="text/javascript" src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
+    <script type="text/javascript">
+    Hatena.Star.Token = '6086952ec2c380a34a31cd307d5424114a0da296';
+    </script>
+
+    <meta property="og:site_name" content="#june29jp" />
+    <meta property="og:locale " content="ja-jp" />
+
+    <meta property="og:url" content="https://june29.jp/2008/03/20/from-windows-to-mac/" />
+    <meta name="twitter:url" content="https://june29.jp/2008/03/20/from-windows-to-mac/" />
+    <link rel="canonical" href="https://june29.jp/2008/03/20/from-windows-to-mac/" />
+
+    <meta name="description" content="june29&#39;s official website" />
+    <meta name="twitter:description" content="june29&#39;s official website">
+    <meta property="og:description" content="june29&#39;s official website" />
+
+    <meta name="twitter:site" content="@june29" />
+    <meta name="twitter:creator" content="@june29" />
+
+
+    <meta property="og:title" content="WindowsからMacに乗り換えて" />
+    <meta name="twitter:title" content="WindowsからMacに乗り換えて" />
+    <title>WindowsからMacに乗り換えて - #june29jp</title>
+
+    <meta name="twitter:image" content="https://june29.jp/img/og-image.png" />
+    <meta property="og:image" content="https://june29.jp/img/og-image.png" />
+
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="og:type" content="article" />
+    <meta property="og:article:published_time" content="2008-03-20T15:52:56&#43;09:00" />
+    <meta property="og:article:section" content="post" />
+
+
+
+  </head>
+  <body>
+    <header>
+      <h1>
+        <a href="/">#june29jp</a>
+      </h1>
+      <p>
+        <img src="/img/ring.jpg" width="80" height="80" class="circle-icon">
+      </p>
+    </header>
+    <div id="main">
+      <div id="main__inner" class="inner">
+
+
+<article>
+  <div class="article__head">
+    <h2>
+      <a href="https://june29.jp/2008/03/20/from-windows-to-mac/" title="WindowsからMacに乗り換えて">WindowsからMacに乗り換えて</a>
+    </h2>
+    <p>
+      2008-03-20
+    </p>
+  </div>
+  <div class="article__body">
+    <p>Twitterで<a href="http://twitter.com/june29/statuses/402698672">MacBookを買った</a>と発言したのが去年の11月10日のことですから，もう4ヶ月ぐらい経つんだな．</p>
+<p>今月になって，研究室のメンバーだけで4人もMacBookを買った．この展開は想像できなかったよ．せっかくだから，Macの使い方について情報共有しましょう！というわけで，メインの環境をWindowsからMacに変えたボクが感じた途惑いなんかを中心に書いてみよう．</p>
+<p>何しろまだまだ初心者なので，誤った記述などあればツッコミをお願いします！</p>
+<h3>基本的なこと</h3>
+<p>初めてすぎてまったく分からなかったことがいくつかありました．言葉の対応は以下のような感じ．英語での呼び方も合わせて記しているのは，コマンドランチャから起動するときに覚えておくと嬉しいからです．</p>
+<ul>
+<li>Windowsのコントロールパネル的なもの : Macの「システム環境設定」(System Preferences)</li>
+<li>Windowsのプロセス管理(強制終了とかさせるやつ) : Macの「アクティビティモニタ」(Activity Monitor)</li>
+<li>Windowsのエクスプローラ : MacのFinder</li>
+<li>Windowsのタスクバー : Macのメニューバー</li>
+<li>WindowsのProgram Filesフォルダ : Macのアプリケーションフォルダ(Applications)</li>
+</ul>
+<p>Macでは，アプリケーションのすべてのウィンドウを閉じても，アプリケーション自体は終了していない．これはDockにアイコンが残っていたりすると気が付く．アプリケーションを終了させるには，メニューバーから終了させるか，よくやるのは「Command + Q」での終了．</p>
+<p>Windowsでもそうだけど，Macでもデフォルトではファイルの拡張子がFinder上に表示されない設定になっているようなので，まずFinderの環境設定を開いて「すべてのファイル拡張子を表示」にチェックを入れておくといいと思う．</p>
+<p>アプリケーションのインストールは，インストーラがあればそれを起動し，なければ実行ファイル(拡張子.app)をアプリケーションフォルダにコピーすることになる．拡張子が.dmgのファイルは，開くとマウントされて中身が見える．用事が済んだらアンマウントしてあげよう．外付けのデバイスと同じ感じの扱い．拡張子が.mpkgとか.pkgのファイルは開くと何かが実行される．拡張子が.zipのファイルは開くと展開されてフォルダが出てくる．</p>
+<p>大体の場合，dmgやzipを開いて中にappファイルがあればアプリケーションフォルダに放り込んでやればいい．mpkgとかpkgはインストーラが起動することが多いので，GUIのインストーラに従って「次へ/進む」とやっていけば大丈夫．</p>
+<p>様々なOS向けに提供されているアプリケーションでも，OSごとに挙動が違ったりするので注意！例えばSkypeはWindows/Linux/Macでちょっとずつメニューとか違うね！よく分かりません！</p>
+<h3>日本語入力のON/OFF</h3>
+<p>今のところIMEはATOKで，日本語配列のキーボードを使っています．</p>
+<p>スペースキーの右にある「かな」キーで日本語入力ON，スペースキーの左にある「英数」キーで日本語入力OFFです．Windowsを使っていた頃もON/OFFは1つのキーでトグルじゃなく，別々のキーに割り当てていたので，この感じには慣れている．文章を打ち終わったら日本語入力を必ずOFFにする癖が付いている．基本はOFFにしておくと嬉しいことが多い．</p>
+<h3>Control と Command</h3>
+<p>慣れるまでに最も苦労するのはこれじゃないかなぁ．WindowsでいうControlキーはMacだとCommandキーで，配置も違うので，Macに移行したばかりの頃はコピペしようとして「Ctrl + c」「Ctrl + v」ってのを何回もやった．「Command + c」「Command + v」に慣れるまでが大変だった．</p>
+<h3>C-fbnp でのカーソル移動</h3>
+<p>「Ctrl + f」「Ctrl + b」「Ctrl + n」「Ctrl + p」でカーソル移動できるのは本当に気持ちがいい．あと削除系では「Ctrl + h」「Ctrl + d」「Ctrl + k」が使える．Emacs好きの人ならほぼすべての入力欄でこれらが使えるMac環境は素晴らしい世界だと思う．</p>
+<p>問題は，たまにWindowsを使うときにもこれらの手癖が出ること．Firefox on WindowsでURLを打ち間違えてとっさに「Ctrl + h」を押すと「履歴」のサイドバーがパカパカする．</p>
+<h3>コマンドランチャー</h3>
+<p>Windowsでは<a href="http://cspace.s2.xrea.com/software/bluewind/">bluewind</a>を使っていた．Macになって最初はSpotlightを，今では<a href="http://blacktree.com/">Quicksilver</a>を使っている．まだみんなが騒ぐほどのQuicksilverの良さが分かっていない．全然使いこなせていない．ただのランチャーです．</p>
+<p>bluewindがよかったのは，任意のコマンドに任意の名前を付けられること．頻繁に行う操作には短い名前を当てておくと便利．shell系のaliasみたいな感じで使っていた．あとは，フォルダ名をタブで補完してくれて，次々と下のフォルダに潜っていけるのも好き．Quicksilverでフォルダを潜っていくには矢印キー「→」を使わなきゃいけないのかな．使い方を知らないだけかも．</p>
+<p><ins datetime="2008-03-22T07:19:38+00:00">下の階層のフォルダに移動したいときは「/」を押せばいいってことが分かりました！逆に上の階層に行く操作は「?」です．「Shift + /」と覚えておくとよさそう．</ins></p>
+<p>あんまり関係ないけど，bluewindの入力欄で「Ctrl + h」を押すと，バックスペースしてくれるよね．あれ好き．</p>
+<p>ちなみにQuicksilverのホットキーの設定で少し悩んでいます．「Ctrl + スペース」だとEmacsで問題が起こるし，「Command + スペース」だと英語キーボードでの日本語入力ON/OFFと衝突します．皆さんはどう設定されているのでしょうか．</p>
+<h3>Firefox</h3>
+<p>FirefoxはOSに依存しないから，移行しても大丈夫！</p>
+<p>そんな風に考えていた時期がボクにもありました．キーバインドはけっこう違うよ！まずはやっぱりControlとCommandの違いに苦しんだ．ボクがよく使う「Ctrl + c」「Ctrl + v」「Ctrl + l」「Ctrl + u」辺りはもちろん「Command + c」「Command + v」「Command + l」「Command + u」になっちゃうから，最初は手が動かなくて大変だった．</p>
+<p>Windows時にはタブの切り替えを「Ctrl + n」「Ctrl + p」にしていた．これは，<a href="http://piro.sakura.ne.jp/xul/_treestyletab.html">Tree Style Tab</a>でタブを縦に並べて配置していると，「下のタブへ移動」「上のタブへ移動」が直感的に操作できるから．でもこれ，Firefox on Macでテキスト入力欄にフォーカスしていると，カーソル移動のキーバインドと被ってしまう．今はSafariやTerminalと揃えて「Command + Shift + ]」「Command + Shift + [」を割り当ててみている．ようやく慣れてきたところ．</p>
+<h3>ウィンドウの切り替えAlt + Tab</h3>
+<p>これは色んなところで言われている話．Windowsでいうウィンドウ切り替え「Alt + Tab」はMacでは「Command + Tab」で，キーの配置もほとんど同じだから指は無意識に動いてくれるんだけど，挙動が違う．Windowsでは「ウィンドウ単位で切り替え」のところがMacでは「アプリケーション単位での切り替え」になる．だから，Firefoxを2枚開いていたりすると，好きな方にフォーカスできない．</p>
+<p>というわけで<a href="http://www.manytricks.com/witch/">Witch</a>を使います．このソフトをインストールすると「Option + Tab」にウィンドウ単位でのフォーカスの切り替え操作を割り当ててくれる．システム環境設定のユニバーサルアクセスの項目内の「補助装置にアクセスできるようにする」にチェックを入れないとダメっぽい．</p>
+<h3>Finderでのファイル操作</h3>
+<p>アイコン表示のときの話．</p>
+<p>Finder上でファイルやフォルダにフォーカスしているときにEnterすると，名前の変更になる！これはビックリした．開くためには「Command + o」もしくはフォルダであれば「Command + ↓」です．</p>
+<p><img src="http://img.skitch.com/20080320-bjri2ardgqc4jim8xpu9xibhnj.png" alt="Finder306E631952D5"/></p>
+<h3>キーリピートの加速</h3>
+<p>Windowsでは<a href="http://www.jsdlab.co.jp/~kei/download/index.html">kbdacc</a>というソフトを使って，キーリピートを加速させていました．プログラムを書いているときとか，長い文章を書いているときとか，カーソルの移動量が多いときには加速させておかないともどかしく感じちゃいます．Macでは<a href="http://www.pqrs.org/tekezo/macosx/keyremap4macbook/index.html.ja">KeyRemap4MacBook</a>で実現できます．でも</p>
+<p><a href="http://d.hatena.ne.jp/amachang/20080311/1205220291">キーリピートを限界まで遅くした &#8211; IT戦記</a></p>
+<p>の本文やコメント欄で書かれているように，検索コマンドなどを駆使するようにした方がいいかもなぁ．キーリピートに頼りすぎている．</p>
+<h3>そのほか</h3>
+<p>Macは特にWebに近い位置の人には愛され系！そんなイメージです．</p>
+<p>フォントきれい！ <a href="http://growl.info/">Growl</a> 素晴らしい！ Safari は速くてキレイ！ 思い付いたことがあったら追記する！</p>
+
+  </div>
+  <div class="article__foot">
+    
+    <h4 class="for-pc">
+  おもしろかったら、シェアやブックマークや送金などぜひぜひお願いします。サイト運営の励みになります！
+</h4>
+<h4 class="for-mobile">
+  シェアや送金などお待ちしています！
+</h4>
+<p class="hatena-star-container">
+  <a href="https://b.hatena.ne.jp/entry/s/june29.jp/2008/03/20/from-windows-to-mac/">
+    <img src="https://b.hatena.ne.jp/entry/image/https://june29.jp/2008/03/20/from-windows-to-mac/">
+  </a>
+  <p class="display-none">
+    <a href="https://june29.jp/2008/03/20/from-windows-to-mac/" class="original-url">https://june29.jp/2008/03/20/from-windows-to-mac/</a>
+  </p>
+</p>
+<div class="kyash-me">
+  <div class="for-pc">
+    <img src="/img/kyash-me-pc.gif">
+  </div>
+  <div class="for-mobile">
+    <p>
+      <img src="/img/kyash-me-mobile.gif">
+    </p>
+    <p class="kyash-button-container">
+      <a href="kyash://request/u/3b34827c-cbf0-4ad3-839b-a18108ccb2ff">
+        <img src="/img/kyash-logo.png" height="28">
+        で 99 円を送金する
+      </a>
+    </p>
+  </div>
+</div>
+
+
+  </div>
+</article>
+
+
+<div id="other-entries">
+  <h3>前後の記事や他の記事もどうぞ</h3>
+  <ul>
+  
+    <li>
+      <a href="/2008/03/20/graduation/" title="卒業です">2008-03-20 : 卒業です</a>
+    </li>
+  
+  
+    <li>
+      <a href="/2008/01/12/ldrize-microformats/" title="LDRizeとmicroformats">2008-01-12 : LDRizeとmicroformats</a>
+    </li>
+  
+  </ul>
+</div>
+
+      </div>
+    </div>
+    <footer>
+      <div class="footer__inner inner">
+        <h2>
+          最近の記事
+        </h2>
+        <ul>
+          
+          <li>
+            <a href="https://june29.jp/2021/08/10/tochigi-nasushiobara-3months/" title="栃木県那須塩原市で3ヶ月間ほど暮らしてみて">2021-08-10 : 栃木県那須塩原市で3ヶ月間ほど暮らしてみて</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/12/31/2020-in-my-house/" title="ふりかえり 2020">2020-12-31 : ふりかえり 2020</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/07/18/vlog/" title="Vlog を 1 ヶ月間やってみた記録">2020-07-18 : Vlog を 1 ヶ月間やってみた記録</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/07/06/nosh/" title="ヘルシーな冷凍弁当宅配サービス「nosh」を利用している話">2020-07-06 : ヘルシーな冷凍弁当宅配サービス「nosh」を利用している話</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/05/24/tell-me-remote-work/" title="教えてリモートワーク @june29 の場合">2020-05-24 : 教えてリモートワーク @june29 の場合</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/04/05/social-distancing-2020/" title="Social Distancing と 2020 年">2020-04-05 : Social Distancing と 2020 年</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2019/12/30/lovely-2019/" title="楽しかった 2019 年">2019-12-30 : 楽しかった 2019 年</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2019/12/22/goldenbomber-and-me-in-reiwa-1st/" title="令和元年のゴールデンボンバーとわたし">2019-12-22 : 令和元年のゴールデンボンバーとわたし</a>
+          </li>
+          
+        </ul>
+        <h2>
+          書き手について
+        </h2>
+        <p>
+          大和田純。源氏名「june29」で活動中。北海道生まれ少年漫画育ち。渋谷区の大和田地方に勤めている。
+        </p>
+        <h2>
+          このサイトについて
+        </h2>
+        <p>
+          このサイトは大和田純によって運営されています。個人の見解や日常のことを書いています。ソースコードは
+          <a href="https://github.com/june29/june29.jp">GitHub</a>
+          にあります。
+        </p>
+      </div>
+    </footer>
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=392332164169856";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+    <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+
+    <script type="text/javascript" src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
+<script type="text/javascript">
+  Hatena.Star.SiteConfig = {
+    entryNodes: {
+      'article': {
+        uri: '.article__foot a.original-url',
+        title: '.article__head h2',
+        container: '.hatena-star-container'
+      }
+    }
+  };
+</script>
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1005149-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+  </body>
+</html>
+

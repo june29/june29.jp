@@ -1,0 +1,258 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="alternate" type="application/atom+xml" title="Atom" href="/index.xml"/>
+    
+    <link rel="stylesheet" type="text/css" href="/css/reset.css">
+    <link rel="stylesheet" href="https://june29.jp/hugo29.min.5247624668cfd436bc1d3bbedeac608fb1a06e6c38f124f304f9d02427c7aeaa.css">
+
+    <script type="text/javascript" src="/js/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="/js/underscore-min.js"></script>
+    <script type="text/javascript" src="/js/hugo29.js?t=1628643185"></script>
+
+    <script type="text/javascript" src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
+    <script type="text/javascript">
+    Hatena.Star.Token = '6086952ec2c380a34a31cd307d5424114a0da296';
+    </script>
+
+    <meta property="og:site_name" content="#june29jp" />
+    <meta property="og:locale " content="ja-jp" />
+
+    <meta property="og:url" content="https://june29.jp/2006/11/30/firefox-keyboard-findtoolbar/" />
+    <meta name="twitter:url" content="https://june29.jp/2006/11/30/firefox-keyboard-findtoolbar/" />
+    <link rel="canonical" href="https://june29.jp/2006/11/30/firefox-keyboard-findtoolbar/" />
+
+    <meta name="description" content="june29&#39;s official website" />
+    <meta name="twitter:description" content="june29&#39;s official website">
+    <meta property="og:description" content="june29&#39;s official website" />
+
+    <meta name="twitter:site" content="@june29" />
+    <meta name="twitter:creator" content="@june29" />
+
+
+    <meta property="og:title" content="Firefoxのキーコンフィグ : Ctrl&#43;Fで検索バーの開閉" />
+    <meta name="twitter:title" content="Firefoxのキーコンフィグ : Ctrl&#43;Fで検索バーの開閉" />
+    <title>Firefoxのキーコンフィグ : Ctrl&#43;Fで検索バーの開閉 - #june29jp</title>
+
+    <meta name="twitter:image" content="https://june29.jp/img/og-image.png" />
+    <meta property="og:image" content="https://june29.jp/img/og-image.png" />
+
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="og:type" content="article" />
+    <meta property="og:article:published_time" content="2006-11-30T22:04:18&#43;09:00" />
+    <meta property="og:article:section" content="post" />
+
+
+
+  </head>
+  <body>
+    <header>
+      <h1>
+        <a href="/">#june29jp</a>
+      </h1>
+      <p>
+        <img src="/img/ring.jpg" width="80" height="80" class="circle-icon">
+      </p>
+    </header>
+    <div id="main">
+      <div id="main__inner" class="inner">
+
+
+<article>
+  <div class="article__head">
+    <h2>
+      <a href="https://june29.jp/2006/11/30/firefox-keyboard-findtoolbar/" title="Firefoxのキーコンフィグ : Ctrl&#43;Fで検索バーの開閉">Firefoxのキーコンフィグ : Ctrl&#43;Fで検索バーの開閉</a>
+    </h2>
+    <p>
+      2006-11-30
+    </p>
+  </div>
+  <div class="article__body">
+    <p>過去のエントリでこんなことを書きました．</p>
+<blockquote><p>
+ページ内検索のボックスをキーボードショートカットで表示/非表示切り替えできたらな</p>
+<p><a href="http://june29.jp/2006/11/08/review-firefox/" title="Firefox 2.0とエクステンション - cameraLady" target="_blank"><strong>Firefox 2.0とエクステンション &#8211; cameraLady</strong></a>
+</p></blockquote>
+<p>デフォルトの設定では，Ctrl+Fで検索バーを開くことはできますが，閉じることはできません．ESCキーを使って閉じるか，マウスで「×」(閉じる)ボタンを押すか，はたまたマウスジェスチャーで操作するか… ボクはもっと良い方法があればなぁと思いながらもガマンして使ってきました．</p>
+<p>これを解決する方法が<a href="http://d.hatena.ne.jp/nozom/20061129/1164802318" target="_blank">ヒビノキロク &#8211; ページ内検索バーに関する覚え書き</a>で紹介されていたので飛び付きました！以下にボクが行った設定の手順をメモしておきます．</p>
+<p>まず，この設定を行うためには<a href="http://june29.jp/2006/10/03/firefox-keyconfig/">Firefoxのキーコンフィグ</a>というエントリで紹介した2つの拡張機能が必要になります．</p>
+<p>ツールメニューの中から「キーボードショートカットのカスタマイズ」を選びます．続いて「新しいキーを追加」ボタンを押します．キーに好きな名前をつけて，ソースコードを次のようにします．</p>
+<p>[code]<br />
+var bar = document.getElementById(&#8220;FindToolbar&#8221;);<br />
+if (bar.hidden) {<br />
+  gFindBar.onFindCmd();<br />
+  var findField = document.getElementById(&#8220;find-field&#8221;);<br />
+  findField.value = &#8221;;<br />
+} else {<br />
+  gFindBar.closeFindBar();<br />
+}<br />
+[/code]</p>
+<p><a href="http://www.flickr.com/photos/june29/310126991/" title="Photo Sharing"><img src="http://static.flickr.com/110/310126991_fa03639ed1_o.jpg" alt="キーボードショートカットのカスタマイズ" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/310126992/" title="Photo Sharing"><img src="http://static.flickr.com/104/310126992_dde912d73c_o.jpg" alt="新しいキーを追加" /></a></p>
+<p><a href="http://www.flickr.com/photos/june29/310126994/" title="Photo Sharing"><img src="http://static.flickr.com/109/310126994_f13e55fbaa_o.jpg" alt="検索バーの開閉" /></a></p>
+<p>あとは好きなキーボードショートカットを割り当てるだけです．ボクはキーの名前を「検索バーの開閉」としてショートカットを「Ctrl+F」に割り当てました．「次を検索」と「前を検索」はそれぞれ「Enter」「Shift+Enter」で行います．これでキーボード操作だけで快適にページ内のテキスト検索ができるようになりました．<a href="http://d.hatena.ne.jp/nozom/" target="_blank">id:nozom</a>さん，ありがとうございます！</p>
+<h3>関連エントリ</h3>
+<ul>
+<li><a href="http://june29.jp/2006/11/08/review-firefox/">Firefox 2.0とエクステンション</a></li>
+</ul>
+<p>自分ってば，この手のネタが好きなんですね．カスタマイズ万歳！ しかし，カスタマイズすればするほど初期設定のPCが使えなくなって困ります…</p>
+<h3>追記</h3>
+<p><ins><a href="https://addons.mozilla.org/en-US/firefox/addon/5239">XUL/Migemo :: Firefox Add-ons</a> が素晴らしすぎるのでこれを使うといいですね！</ins></p>
+
+  </div>
+  <div class="article__foot">
+    
+    <h4 class="for-pc">
+  おもしろかったら、シェアやブックマークや送金などぜひぜひお願いします。サイト運営の励みになります！
+</h4>
+<h4 class="for-mobile">
+  シェアや送金などお待ちしています！
+</h4>
+<p class="hatena-star-container">
+  <a href="https://b.hatena.ne.jp/entry/s/june29.jp/2006/11/30/firefox-keyboard-findtoolbar/">
+    <img src="https://b.hatena.ne.jp/entry/image/https://june29.jp/2006/11/30/firefox-keyboard-findtoolbar/">
+  </a>
+  <p class="display-none">
+    <a href="https://june29.jp/2006/11/30/firefox-keyboard-findtoolbar/" class="original-url">https://june29.jp/2006/11/30/firefox-keyboard-findtoolbar/</a>
+  </p>
+</p>
+<div class="kyash-me">
+  <div class="for-pc">
+    <img src="/img/kyash-me-pc.gif">
+  </div>
+  <div class="for-mobile">
+    <p>
+      <img src="/img/kyash-me-mobile.gif">
+    </p>
+    <p class="kyash-button-container">
+      <a href="kyash://request/u/3b34827c-cbf0-4ad3-839b-a18108ccb2ff">
+        <img src="/img/kyash-logo.png" height="28">
+        で 99 円を送金する
+      </a>
+    </p>
+  </div>
+</div>
+
+
+  </div>
+</article>
+
+
+<div id="other-entries">
+  <h3>前後の記事や他の記事もどうぞ</h3>
+  <ul>
+  
+    <li>
+      <a href="/2006/12/02/dp-syntaxhighlighter/" title="dp.SyntaxHighlighter">2006-12-02 : dp.SyntaxHighlighter</a>
+    </li>
+  
+  
+    <li>
+      <a href="/2006/11/30/plagger-jojo/" title="アルファギークな兄貴">2006-11-30 : アルファギークな兄貴</a>
+    </li>
+  
+  </ul>
+</div>
+
+      </div>
+    </div>
+    <footer>
+      <div class="footer__inner inner">
+        <h2>
+          最近の記事
+        </h2>
+        <ul>
+          
+          <li>
+            <a href="https://june29.jp/2021/08/10/tochigi-nasushiobara-3months/" title="栃木県那須塩原市で3ヶ月間ほど暮らしてみて">2021-08-10 : 栃木県那須塩原市で3ヶ月間ほど暮らしてみて</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/12/31/2020-in-my-house/" title="ふりかえり 2020">2020-12-31 : ふりかえり 2020</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/07/18/vlog/" title="Vlog を 1 ヶ月間やってみた記録">2020-07-18 : Vlog を 1 ヶ月間やってみた記録</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/07/06/nosh/" title="ヘルシーな冷凍弁当宅配サービス「nosh」を利用している話">2020-07-06 : ヘルシーな冷凍弁当宅配サービス「nosh」を利用している話</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/05/24/tell-me-remote-work/" title="教えてリモートワーク @june29 の場合">2020-05-24 : 教えてリモートワーク @june29 の場合</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/04/05/social-distancing-2020/" title="Social Distancing と 2020 年">2020-04-05 : Social Distancing と 2020 年</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2019/12/30/lovely-2019/" title="楽しかった 2019 年">2019-12-30 : 楽しかった 2019 年</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2019/12/22/goldenbomber-and-me-in-reiwa-1st/" title="令和元年のゴールデンボンバーとわたし">2019-12-22 : 令和元年のゴールデンボンバーとわたし</a>
+          </li>
+          
+        </ul>
+        <h2>
+          書き手について
+        </h2>
+        <p>
+          大和田純。源氏名「june29」で活動中。北海道生まれ少年漫画育ち。渋谷区の大和田地方に勤めている。
+        </p>
+        <h2>
+          このサイトについて
+        </h2>
+        <p>
+          このサイトは大和田純によって運営されています。個人の見解や日常のことを書いています。ソースコードは
+          <a href="https://github.com/june29/june29.jp">GitHub</a>
+          にあります。
+        </p>
+      </div>
+    </footer>
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=392332164169856";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+    <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+
+    <script type="text/javascript" src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
+<script type="text/javascript">
+  Hatena.Star.SiteConfig = {
+    entryNodes: {
+      'article': {
+        uri: '.article__foot a.original-url',
+        title: '.article__head h2',
+        container: '.hatena-star-container'
+      }
+    }
+  };
+</script>
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1005149-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+  </body>
+</html>
+

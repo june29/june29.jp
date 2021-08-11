@@ -1,0 +1,325 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="alternate" type="application/atom+xml" title="Atom" href="/index.xml"/>
+    
+    <link rel="stylesheet" type="text/css" href="/css/reset.css">
+    <link rel="stylesheet" href="https://june29.jp/hugo29.min.5247624668cfd436bc1d3bbedeac608fb1a06e6c38f124f304f9d02427c7aeaa.css">
+
+    <script type="text/javascript" src="/js/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="/js/underscore-min.js"></script>
+    <script type="text/javascript" src="/js/hugo29.js?t=1628643181"></script>
+
+    <script type="text/javascript" src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
+    <script type="text/javascript">
+    Hatena.Star.Token = '6086952ec2c380a34a31cd307d5424114a0da296';
+    </script>
+
+    <meta property="og:site_name" content="#june29jp" />
+    <meta property="og:locale " content="ja-jp" />
+
+    <meta property="og:url" content="https://june29.jp/2019/05/12/m5stack-getting-started/" />
+    <meta name="twitter:url" content="https://june29.jp/2019/05/12/m5stack-getting-started/" />
+    <link rel="canonical" href="https://june29.jp/2019/05/12/m5stack-getting-started/" />
+
+    <meta name="description" content="自作した天気予報ガジェットのことや、M5Stack を活用したガジェットについて考えたことなどを書きました。" />
+    <meta name="twitter:description" content="自作した天気予報ガジェットのことや、M5Stack を活用したガジェットについて考えたことなどを書きました。">
+    <meta property="og:description" content="自作した天気予報ガジェットのことや、M5Stack を活用したガジェットについて考えたことなどを書きました。" />
+
+    <meta name="twitter:site" content="@june29" />
+    <meta name="twitter:creator" content="@june29" />
+
+
+    <meta property="og:title" content="M5Stack の世界に入門して簡易な天気予報ガジェットをつくりました" />
+    <meta name="twitter:title" content="M5Stack の世界に入門して簡易な天気予報ガジェットをつくりました" />
+    <title>M5Stack の世界に入門して簡易な天気予報ガジェットをつくりました - #june29jp</title>
+
+    <meta name="twitter:image" content="https://june29.jp/post/2019/05/12/m5stack-getting-started.jpg" />
+    <meta property="og:image" content="https://june29.jp/post/2019/05/12/m5stack-getting-started.jpg" />
+
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="og:type" content="article" />
+    <meta property="og:article:published_time" content="2019-05-12T22:00:00&#43;09:00" />
+    <meta property="og:article:section" content="post" />
+
+
+
+  </head>
+  <body>
+    <header>
+      <h1>
+        <a href="/">#june29jp</a>
+      </h1>
+      <p>
+        <img src="/img/ring.jpg" width="80" height="80" class="circle-icon">
+      </p>
+    </header>
+    <div id="main">
+      <div id="main__inner" class="inner">
+
+
+<article>
+  <div class="article__head">
+    <h2>
+      <a href="https://june29.jp/2019/05/12/m5stack-getting-started/" title="M5Stack の世界に入門して簡易な天気予報ガジェットをつくりました">M5Stack の世界に入門して簡易な天気予報ガジェットをつくりました</a>
+    </h2>
+    <p>
+      2019-05-12
+    </p>
+  </div>
+  <div class="article__body">
+    
+
+<p><img src="/post/2019/05/12/m5stack-getting-started.jpg"></p>
+
+<p>今年は <a href="https://scrapbox.io/hub/%E5%A4%A7%E5%92%8C%E7%94%B0%E5%AE%B6%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E5%8C%96%E8%A8%88%E7%94%BB_2019" title="大和田家スマート化計画 2019 - hub">大和田家スマート化計画 2019</a> というのを進めていて、そんなに大それたことは実施していないものの、堅実に少しずつ生活の中のちょっとした困りごとを技術で解決しながら過ごしています。既製品を導入して便利にする、ってのは一段落したので、次はガジェットの自作に取り組んでみようかな〜と思って <a href="https://m5stack.com/" title="M5Stack">M5Stack</a> を買ってみました。</p>
+
+<p>ぼくが「買うぞ〜」となった 2019 年 4 月 21 日には <a href="https://www.switch-science.com/" title="トップページ - スイッチサイエンス">スイッチサイエンス</a> で <a href="https://www.switch-science.com/catalog/3647/" title="M5Stack Basic - スイッチサイエンス">M5Stack Basic</a> の在庫が切れていたので、Aliexpress で購入しました。</p>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">本を読み終わったところで次のおもちゃが届くのうれしいね🤪💨 <a href="https://t.co/ShLC81zrDT">pic.twitter.com/ShLC81zrDT</a></p>&mdash; 昭和ベイビー👶🍼 (@june29) <a href="https://twitter.com/june29/status/1123944689059684355?ref_src=twsrc%5Etfw">May 2, 2019</a></blockquote>
+
+<p>M5Stack を選んだのには同僚たちの影響もあり、特に <a href="https://techbookfest.org/event/tbf06" title="技術書典６ | 技術書典">技術書典6</a> にて販売された <a href="https://booth.pm/ja/items/1316190" title="M5Stack入門01 - kumak1 - BOOTH">M5Stack入門01</a> という入門書があったのは大きかったです。こちらを購入して中身をざっと見て概要を把握し、M5Stack でどんなことができるかイメージがついたので購入に踏み切れたと思います。あとは 10 連休の存在も大きかったですね。新しいことを始めるにはうってつけでした。</p>
+
+<h3 id="やったこと">やったこと</h3>
+
+<ul>
+<li><a href="https://github.com/june29/otenki-kun" title="june29/otenki-kun">otenki-kun</a> という簡易な天気予報ガジェットをつくった</li>
+<li>otenki-kun を自宅のトイレにデプロイした</li>
+</ul>
+
+<p>トイレにデプロイというと脱糞を想起させますね！</p>
+
+<p><img src="/post/2019/05/12/m5stack-on-toilet.jpg"></p>
+
+<h3 id="なぜこれをつくろうと思ったか">なぜこれをつくろうと思ったか</h3>
+
+<ul>
+<li>M5Stack の習作として「ウェブ上のどこかから情報を取ってきて表示する」というガジェットをつくってみたかった</li>
+<li>天気予報はちゃんと見た方がいいな〜と思いつつなかなか見なくて、そのせいで服選びに失敗することがあるので、生活導線上に天気予報を表示させてみたらどうか？と考えていた</li>
+</ul>
+
+<p>ぼくは最初はお着替えをするお部屋にある姿見のところに設置するとよさそう、と考えていたのですが、奥さんと相談した結果、トイレに設置するのがよさそうと思い直しました。起床してトイレに行かない日はまずないのと、ぼくは座ション派ってこともあり、便座に着席したときに見やすい位置に情報が表示されていたら確実に見るのでは〜！と思ったのですね。</p>
+
+<p>かくして我が家にも Internet of Toilet の流れがやってきました。</p>
+
+<h3 id="実装について">実装について</h3>
+
+<p>環境構築の手順なんかは、丁寧に解説している他の文献がたくさんあるので省略します。それこそ <a href="https://booth.pm/ja/items/1316190" title="M5Stack入門01 - kumak1 - BOOTH">M5Stack入門01</a> をおすすめしておきますね。</p>
+
+<ul>
+<li>最初は Arduino で Hello, World! を動かしてワイワイしていた</li>
+<li>想像していたよりもライブラリが洗練されていて簡単に Hello, World! できたので、このまま Arduino で開発を進めていくか〜と思った</li>
+<li>HTTP リクエストを発行したりそのレスポンスを JSON でパースしたりしようとすると、途端に面倒になって MicroPython 環境に乗り換えようと決める</li>
+<li><code>m5stack-20180516-v0.4.0.bin</code> というファームウェアを入れる</li>
+<li>Wi-Fi のアクセスポイントに接続する処理が思うようにいかなくてハマりまくった</li>
+<li><a href="https://github.com/m5stack/M5Cloud/tree/master/firmwares" title="M5Cloud/firmwares at master · m5stack/M5Cloud">M5Cloud</a> のファームウェアだと Wi-Fi 接続はいい感じにやってくれるっぽいと気付いて、そっちに乗り換えようと決める</li>
+<li><code>m5cloud-20180516-v0.4.0.bin</code> というファームウェアを入れる</li>
+<li>Python の文法自体はすぐに馴染んだものの、不慣れな MicroPython で HTML のスクレイピングをやるのはなかなか大変と気付く</li>
+<li>「コードを書く、M5Stack に反映させる、動かす、なにが起きているか確認する」というサイクルを素早くまわす方法がわからん、という気持ちになる</li>
+<li>JSON を受け取って M5Stack の画面に表示する、ってのはできそうな手応えがつかめてきたので、必要な情報を揃えるところはどこか別の場所でやろうと決心する</li>
+<li>AWS Lambda で Ruby 2.5 の環境を使って必要な情報を揃えて JSON にして返すエンドポイントをシュッとつくる</li>
+<li>天気予報 JSON を受け取って画面の表示をつくるところを淡々とこなす</li>
+<li>一定時間ごとに画面が最新の情報に更新される仕組みをつくる</li>
+</ul>
+
+<p>こんな感じでした！ふだんと違う環境での開発で、思わぬところでハマりまくったりしながらも、楽しく取り組めてよかったな〜という感想です。</p>
+
+<h3 id="よくわかっていないこと">よくわかっていないこと</h3>
+
+<ul>
+<li>M5Stack でなにかをつくるとき、みなさんはどのようにデバッグされているんですか…？
+
+<ul>
+<li>効率のよい開発方法を知りたい</li>
+<li>エラーログとか見たい</li>
+<li>今の自分のやり方だと複雑なものはぜんぜんつくれなさそう</li>
+</ul></li>
+<li>何時間も動かしているとたまに勝手に再起動しているっぽいんだけど、これをどう捉えたらいい…？
+
+<ul>
+<li>「毎秒、現在時刻を画面に表示する」って処理を入れたときは約 3 分ごとに再起動する状態になってとても困った</li>
+</ul></li>
+<li>今の実装だと HTTP リクエストを発行してエラーになったときに処理全体が止まりそう</li>
+</ul>
+
+<p>まずは同僚の M5Stack の常連さんたちにこのあたりを相談してみようかな、と思っています。今は知見がぜんぜんなくて、このままだと初級者を抜け出せなさそう。</p>
+
+<h3 id="こうしたガジェットについて考えたこと">こうしたガジェットについて考えたこと</h3>
+
+<p>スマートフォンが登場して「好きなアプリをインストールして使う」という行動体系が定着した昨今、スマートフォンがあれば済む、って状況はどんどん強まってきました。たとえばぼくの日常でいうと、ふらっと自宅近くのコンビニ行くときは iPhone だけ持って出発すればいいわけですね。それで玄関の施錠もできるし、決済もできるから、物理的な鍵やお財布を持ち物として管理しなくて済むようになりました。</p>
+
+<p>その観点でいうと、今回の「天気予報ガジェット」って逆行しているわけじゃないですか。天気予報を見るだけだったらスマートフォンでできちゃうし、実際ぼくのふだん使いの iPhone にもお天気情報関連のアプリはインストールされています。それなのに。</p>
+
+<p><img src="/post/2019/05/12/smartphone.png"></p>
+
+<p>お天気情報アプリはインストールされていても、テレビの電源を ON にすればなにかしらの番組がお天気情報を伝えてくれるにしても、スマートスピーカーに尋ねればお天気情報を読み上げてくれるにしても。結局それらは、ぼくたち夫婦の生活導線上には乗っていなくて。それで今回、トイレの壁に小さなディスプレイを貼り付けるに至ったわけで。</p>
+
+<p>これはなかなかおもしろいことだな〜と思っています。今後 M5Stack が「アプリのプラットフォーム」のような場所を提供し、価格も今より安価になるとして。たとえば 500 円くらいで、今回ぼくが作ったような天気予報ガジェットを誰もが簡単に買えるような状況になり、自宅の住所を設定したらその地域のお天気情報を表示できるようになったら。スマートフォンでの利用が適したアプリはそのまま活用され、必ずしもそうではないアプリは独立したガジェットに切り出されていく。そんな未来もあるんじゃないかな〜と感じました。</p>
+
+<p>これはだいぶ前からいろんなところで言われていたことではあるものの、より強く自身の実感を伴って感じられる未来になったので、このタイミングであらためて自分の言葉で書き残しておくことにしました。</p>
+
+<h3 id="まとめ">まとめ</h3>
+
+<p><a href="https://m5stack.com/" title="M5Stack">M5Stack</a> の世界に入門し、簡易な天気予報ガジェットをつくりました。今回やったこと、苦労したこと、これから知りたいこと、こうしたガジェットについて考えたことなどを書きました。</p>
+
+<p>M5Stack の基本的なことはわかったので、これからも継続的に、自分たちの生活を豊かに便利におもしろくしてくれるようなガジェットをカジュアルにつくっていきたいと思います。</p>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="ja" dir="ltr">追加でいろいろが届いたのでいろいろとやってみるぞ💪 <a href="https://twitter.com/hashtag/M5Stack?src=hash&amp;ref_src=twsrc%5Etfw">#M5Stack</a> <a href="https://t.co/qkztdg24vI">pic.twitter.com/qkztdg24vI</a></p>&mdash; 昭和ベイビー👶🍼 (@june29) <a href="https://twitter.com/june29/status/1126808374652194816?ref_src=twsrc%5Etfw">May 10, 2019</a></blockquote>
+
+  </div>
+  <div class="article__foot">
+    
+    <h4 class="for-pc">
+  おもしろかったら、シェアやブックマークや送金などぜひぜひお願いします。サイト運営の励みになります！
+</h4>
+<h4 class="for-mobile">
+  シェアや送金などお待ちしています！
+</h4>
+<p class="hatena-star-container">
+  <a href="https://b.hatena.ne.jp/entry/s/june29.jp/2019/05/12/m5stack-getting-started/">
+    <img src="https://b.hatena.ne.jp/entry/image/https://june29.jp/2019/05/12/m5stack-getting-started/">
+  </a>
+  <p class="display-none">
+    <a href="https://june29.jp/2019/05/12/m5stack-getting-started/" class="original-url">https://june29.jp/2019/05/12/m5stack-getting-started/</a>
+  </p>
+</p>
+<div class="kyash-me">
+  <div class="for-pc">
+    <img src="/img/kyash-me-pc.gif">
+  </div>
+  <div class="for-mobile">
+    <p>
+      <img src="/img/kyash-me-mobile.gif">
+    </p>
+    <p class="kyash-button-container">
+      <a href="kyash://request/u/3b34827c-cbf0-4ad3-839b-a18108ccb2ff">
+        <img src="/img/kyash-logo.png" height="28">
+        で 99 円を送金する
+      </a>
+    </p>
+  </div>
+</div>
+
+
+  </div>
+</article>
+
+
+<div id="other-entries">
+  <h3>前後の記事や他の記事もどうぞ</h3>
+  <ul>
+  
+    <li>
+      <a href="/2019/06/01/pros-and-cons-of-buzz-phrases/" title="キャッチーな言葉は人々の認識をあるところまで一気に引き上げるし、そこに留めもする">2019-06-01 : キャッチーな言葉は人々の認識をあるところまで一気に引き上げるし、そこに留めもする</a>
+    </li>
+  
+  
+    <li>
+      <a href="/2019/05/02/picsy-divicracy-constituent-social-contract/" title="書籍「なめらかな社会とその敵」を読みました">2019-05-02 : 書籍「なめらかな社会とその敵」を読みました</a>
+    </li>
+  
+  </ul>
+</div>
+
+      </div>
+    </div>
+    <footer>
+      <div class="footer__inner inner">
+        <h2>
+          最近の記事
+        </h2>
+        <ul>
+          
+          <li>
+            <a href="https://june29.jp/2021/08/10/tochigi-nasushiobara-3months/" title="栃木県那須塩原市で3ヶ月間ほど暮らしてみて">2021-08-10 : 栃木県那須塩原市で3ヶ月間ほど暮らしてみて</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/12/31/2020-in-my-house/" title="ふりかえり 2020">2020-12-31 : ふりかえり 2020</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/07/18/vlog/" title="Vlog を 1 ヶ月間やってみた記録">2020-07-18 : Vlog を 1 ヶ月間やってみた記録</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/07/06/nosh/" title="ヘルシーな冷凍弁当宅配サービス「nosh」を利用している話">2020-07-06 : ヘルシーな冷凍弁当宅配サービス「nosh」を利用している話</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/05/24/tell-me-remote-work/" title="教えてリモートワーク @june29 の場合">2020-05-24 : 教えてリモートワーク @june29 の場合</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/04/05/social-distancing-2020/" title="Social Distancing と 2020 年">2020-04-05 : Social Distancing と 2020 年</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2019/12/30/lovely-2019/" title="楽しかった 2019 年">2019-12-30 : 楽しかった 2019 年</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2019/12/22/goldenbomber-and-me-in-reiwa-1st/" title="令和元年のゴールデンボンバーとわたし">2019-12-22 : 令和元年のゴールデンボンバーとわたし</a>
+          </li>
+          
+        </ul>
+        <h2>
+          書き手について
+        </h2>
+        <p>
+          大和田純。源氏名「june29」で活動中。北海道生まれ少年漫画育ち。渋谷区の大和田地方に勤めている。
+        </p>
+        <h2>
+          このサイトについて
+        </h2>
+        <p>
+          このサイトは大和田純によって運営されています。個人の見解や日常のことを書いています。ソースコードは
+          <a href="https://github.com/june29/june29.jp">GitHub</a>
+          にあります。
+        </p>
+      </div>
+    </footer>
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=392332164169856";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+    <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+
+    <script type="text/javascript" src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
+<script type="text/javascript">
+  Hatena.Star.SiteConfig = {
+    entryNodes: {
+      'article': {
+        uri: '.article__foot a.original-url',
+        title: '.article__head h2',
+        container: '.hatena-star-container'
+      }
+    }
+  };
+</script>
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1005149-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+  </body>
+</html>
+

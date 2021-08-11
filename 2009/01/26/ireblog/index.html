@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="alternate" type="application/atom+xml" title="Atom" href="/index.xml"/>
+    
+    <link rel="stylesheet" type="text/css" href="/css/reset.css">
+    <link rel="stylesheet" href="https://june29.jp/hugo29.min.5247624668cfd436bc1d3bbedeac608fb1a06e6c38f124f304f9d02427c7aeaa.css">
+
+    <script type="text/javascript" src="/js/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="/js/underscore-min.js"></script>
+    <script type="text/javascript" src="/js/hugo29.js?t=1628643184"></script>
+
+    <script type="text/javascript" src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
+    <script type="text/javascript">
+    Hatena.Star.Token = '6086952ec2c380a34a31cd307d5424114a0da296';
+    </script>
+
+    <meta property="og:site_name" content="#june29jp" />
+    <meta property="og:locale " content="ja-jp" />
+
+    <meta property="og:url" content="https://june29.jp/2009/01/26/ireblog/" />
+    <meta name="twitter:url" content="https://june29.jp/2009/01/26/ireblog/" />
+    <link rel="canonical" href="https://june29.jp/2009/01/26/ireblog/" />
+
+    <meta name="description" content="june29&#39;s official website" />
+    <meta name="twitter:description" content="june29&#39;s official website">
+    <meta property="og:description" content="june29&#39;s official website" />
+
+    <meta name="twitter:site" content="@june29" />
+    <meta name="twitter:creator" content="@june29" />
+
+
+    <meta property="og:title" content="iPhoneから指1本でReblogを楽しむためのWebアプリ" />
+    <meta name="twitter:title" content="iPhoneから指1本でReblogを楽しむためのWebアプリ" />
+    <title>iPhoneから指1本でReblogを楽しむためのWebアプリ - #june29jp</title>
+
+    <meta name="twitter:image" content="https://june29.jp/img/og-image.png" />
+    <meta property="og:image" content="https://june29.jp/img/og-image.png" />
+
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="og:type" content="article" />
+    <meta property="og:article:published_time" content="2009-01-26T00:25:22&#43;09:00" />
+    <meta property="og:article:section" content="post" />
+
+
+
+  </head>
+  <body>
+    <header>
+      <h1>
+        <a href="/">#june29jp</a>
+      </h1>
+      <p>
+        <img src="/img/ring.jpg" width="80" height="80" class="circle-icon">
+      </p>
+    </header>
+    <div id="main">
+      <div id="main__inner" class="inner">
+
+
+<article>
+  <div class="article__head">
+    <h2>
+      <a href="https://june29.jp/2009/01/26/ireblog/" title="iPhoneから指1本でReblogを楽しむためのWebアプリ">iPhoneから指1本でReblogを楽しむためのWebアプリ</a>
+    </h2>
+    <p>
+      2009-01-26
+    </p>
+  </div>
+  <div class="article__body">
+    <p>作りました．名を iReblog といいます．</p>
+<h3>まえおき</h3>
+<p>もうこれを言うのは何度目になるか分かりませんが，ボクは <a href="http://www.tumblr.com/" title="Tumblr">Tumblr</a> が大好きです．そして <a href="http://wiki.github.com/to/tombloo" title="Home - tombloo - GitHub">Tombloo</a> のおかげで Tumblr と楽しく接することができて，心に平穏がもたらされています．</p>
+<p>ところが欲張りなボクは，お出かけ中のちょっとした空き時間にも，iPhone を使って Tumblr を楽しみたいと思うようになりました．iPhone の文字入力や写真撮影は得意ではないので，とにかく Reblog さえできればいい．次から次へと流れてくる七色のポスト(Text, Photo, Quote, Link, Chat, Audio, Video)を，一心不乱にタップしてやりたいと思ったのでした．</p>
+<p>残念ながら <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=290058741&#038;mt=8" title="">Tumblr 公式の iPhone アプリ</a>は，ボクの使い方に合うようなものではありませんでした．Text のポストなんかできなくてもいい… 気持ちよく Reblog したいだけなんです！</p>
+<p>知る限り，最も理想に近い実装は <a href="http://ido.nu/kuma/" title="ku">ku</a> さんの <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=283998370&#038;mt=8">iview</a> です．写真に特化していて，Tumblr 以外のソースからも写真を選んでポストできるのが素晴らしいです．iview との棲み分けを考える意味もあって，iReblog は写真以外も Reblog できるようにしました．</p>
+<h3>実装</h3>
+<p>手軽な Web アプリケーションとして実装しました．iPhone の Safari からアクセスする他，PC のブラウザから使うこともできます．ホームアイコンにするとこんな感じです．</p>
+<p><img src="http://img.skitch.com/20090125-jqycs79n14bjbt7qr15ct2rws7.jpg" alt="iReblog ホームアイコン" /></p>
+<p>jQuery に溺れてひたすら自分に優しいコードを書いて作ったプロトタイプに，<a href="http://twitter.com/kei_s" title="Twitter / kei_s">kei_s</a> さんが手を入れてくれて助かりました．具体的には，Selectors による DOM の選択と，DOM の生成及び削除の処理を減らしたら，体感できるくらいに動作が速くなりました．jQuery を使っていると「書けるから書いてしまう」ってのが危ういなぁと思いました．勉強になります．多謝．</p>
+<h3>楽しみ方</h3>
+<p>UI のコンセプトということで，使ってもらえるようなものを以下の場所に設置しました．iPhone か iPod touch の Safari からアクセスしてみてほしいです．普通にアクセスすると新着順，URL に #random を付けてアクセスするとランダムページングの Endless Summer モードになります．呼び方は <a href="http://taizooo.tumblr.com/" title="The Whole World is peaceful.">taizooo</a> さんの <a href="http://taizooo.tumblr.com/post/69415607/endless-summer-on-dashboard-ver-0-0-3" title="The Whole World is peaceful. - endless summer on dashboard ver 0.0.3">The Whole World is peaceful. &#8211; endless summer on dashboard ver 0.0.3</a> のステキな命名を真似っこ．</p>
+<ul>
+<li><del datetime="2011-02-06T03:28:04+00:00">http://ireblog.libelabo.jp/</del> <a href="http://ireblog.heroku.com/" title="iReblog">http://ireblog.heroku.com</a></li>
+<li><del datetime="2011-02-06T03:28:04+00:00">http://ireblog.libelabo.jp/#random</del> <a href="http://ireblog.heroku.com/#random" title="iReblog">http://ireblog.heroku.com/#random</a> (Endless Summer)</li>
+</ul>
+<p>(2011年2月6日に設置場所を変更しました。詳細はこちら : <a href="http://june29.jp/2011/02/06/i-remade-ireblog/" title="iReblogとの出会いをもう一度やり直した - 準二級.jp">iReblogとの出会いをもう一度やり直した &#8211; 準二級.jp</a>)</p>
+<p>アクションはたった2つだけ．</p>
+<ul>
+<li>画面の左半分をタップすると「Reblog して次に進む」</li>
+<li>画面の右半分をタップすると「Reblog しないで次に進む」</li>
+</ul>
+<p><object type="application/x-shockwave-flash" width="400" height="300" data="http://www.flickr.com/apps/video/stewart.swf?v=66545" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="flashvars" value="intl_lang=en-us&amp;photo_secret=f6c649b411&amp;photo_id=3224881525"></param><param name="movie" value="http://www.flickr.com/apps/video/stewart.swf?v=66545"></param><param name="bgcolor" value="#000000"></param><param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/video/stewart.swf?v=66545" bgcolor="#000000" allowfullscreen="true" flashvars="intl_lang=en-us&amp;photo_secret=f6c649b411&amp;photo_id=3224881525" height="300" width="400"></embed></object></p>
+<p>「Reblog or Not!」進んだら後戻りはできません．PC のブラウザではそれぞれ「u」「j」にキーバインドを充ててあります．が，Firefox と Safari でしか表示と動作の確認をしていません．</p>
+<p>あと，先ほど七色のポストと書きましたが，どうせ iPhone Safari で Flash は動作しないので Audio と Video は Dashboard のスクレイピングの時点で無視しています．</p>
+<p>一応，先回りして Dashboard を読み込んでおく作りにはなっていますが，通信の状況によってはバッファが空になっちゃって画面がまっさらになったりするかもしれません．そういうときは，ちょっと一呼吸おくか，それでもダメなら画面の右側を優しくタップしてみてください．通信速度が Reblog 速度に追いつかないときにどうしたらいいか，解決策が見つかっていません．</p>
+<p><img src="http://img.skitch.com/20090125-k22yatkutmgjwp45ukc7qwunse.jpg" alt="iReblog" /></p>
+<p><a href="http://www.flickr.com/photos/june29/3224881817/" title="iReblog by june29, on Flickr"><img src="http://farm4.static.flickr.com/3462/3224881817_314443c952.jpg" alt="iReblog" /></a></p>
+<h3>匿名 Tumblelog</h3>
+<p>もともと自分で使うことが目的だったので，自分用の iReblog は自分しか知らない場所に置いてあって，自分の Dashboard から自分の Tumblr へ Reblog しています．</p>
+<p>上述の iReblog は，Tumblr に作成した <a href="http://ireblog.tumblr.com/" title="weReblog">http://ireblog.tumblr.com/</a> のアカウントを利用していて，この子の Dashboard の内容が流れてきて，Reblog するとこの子のポストになります．誰かに試しに iReblog に触れてもらうために作成した共有アカウントなわけですが，匿名 Tumblelog ってのはそれはそれで面白いってことにも気が付きました．</p>
+<p>動作確認のために数人で適当に Reblog を繰り返していたら，<a href="http://ireblog.tumblr.com/" title="weReblog">http://ireblog.tumblr.com/</a> はよく分からないことになってきました．とても面白い．</p>
+<p>この子は今，5000アカウントぐらいを follow していて(絶賛 follow 増強中)，自分のアカウントで潜る Dashboard とはまた違う世界を見せてくれます．そして投稿先が自分の Tumblelog じゃないと思うと，気まぐれにいつもは通り過ぎるようなものも Reblog してしまったりして，なんだか不思議な感覚です．自分以外の Dashboard，タイムラインは面白い．その人の世界を垣間見ることができる．新はてなブックマークも，他のユーザのブックマークページにいくと，そのユーザのお気に入りユーザのコメントなんかもあわせて表示されて面白い．同じことですね．</p>
+<h3>まとめ</h3>
+<p>Reblog 特化アプリケーション iReblog を作りました．手の平サイズで Reblog を楽しめるようになりました．Endless Summer モードがあれば何回アクセスしても新鮮な気持ちで楽しめます．自分以外の Dashboard を楽しむことも覚えました．とてもよかったです．</p>
+
+  </div>
+  <div class="article__foot">
+    
+    <h4 class="for-pc">
+  おもしろかったら、シェアやブックマークや送金などぜひぜひお願いします。サイト運営の励みになります！
+</h4>
+<h4 class="for-mobile">
+  シェアや送金などお待ちしています！
+</h4>
+<p class="hatena-star-container">
+  <a href="https://b.hatena.ne.jp/entry/s/june29.jp/2009/01/26/ireblog/">
+    <img src="https://b.hatena.ne.jp/entry/image/https://june29.jp/2009/01/26/ireblog/">
+  </a>
+  <p class="display-none">
+    <a href="https://june29.jp/2009/01/26/ireblog/" class="original-url">https://june29.jp/2009/01/26/ireblog/</a>
+  </p>
+</p>
+<div class="kyash-me">
+  <div class="for-pc">
+    <img src="/img/kyash-me-pc.gif">
+  </div>
+  <div class="for-mobile">
+    <p>
+      <img src="/img/kyash-me-mobile.gif">
+    </p>
+    <p class="kyash-button-container">
+      <a href="kyash://request/u/3b34827c-cbf0-4ad3-839b-a18108ccb2ff">
+        <img src="/img/kyash-logo.png" height="28">
+        で 99 円を送金する
+      </a>
+    </p>
+  </div>
+</div>
+
+
+  </div>
+</article>
+
+
+<div id="other-entries">
+  <h3>前後の記事や他の記事もどうぞ</h3>
+  <ul>
+  
+    <li>
+      <a href="/2009/02/03/i-wanna-b-with-u/" title="「一緒に何かやりたいねー」">2009-02-03 : 「一緒に何かやりたいねー」</a>
+    </li>
+  
+  
+    <li>
+      <a href="/2009/01/25/1983party-2/" title="1983パーリィをやりたい！その2">2009-01-25 : 1983パーリィをやりたい！その2</a>
+    </li>
+  
+  </ul>
+</div>
+
+      </div>
+    </div>
+    <footer>
+      <div class="footer__inner inner">
+        <h2>
+          最近の記事
+        </h2>
+        <ul>
+          
+          <li>
+            <a href="https://june29.jp/2021/08/10/tochigi-nasushiobara-3months/" title="栃木県那須塩原市で3ヶ月間ほど暮らしてみて">2021-08-10 : 栃木県那須塩原市で3ヶ月間ほど暮らしてみて</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/12/31/2020-in-my-house/" title="ふりかえり 2020">2020-12-31 : ふりかえり 2020</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/07/18/vlog/" title="Vlog を 1 ヶ月間やってみた記録">2020-07-18 : Vlog を 1 ヶ月間やってみた記録</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/07/06/nosh/" title="ヘルシーな冷凍弁当宅配サービス「nosh」を利用している話">2020-07-06 : ヘルシーな冷凍弁当宅配サービス「nosh」を利用している話</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/05/24/tell-me-remote-work/" title="教えてリモートワーク @june29 の場合">2020-05-24 : 教えてリモートワーク @june29 の場合</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/04/05/social-distancing-2020/" title="Social Distancing と 2020 年">2020-04-05 : Social Distancing と 2020 年</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2019/12/30/lovely-2019/" title="楽しかった 2019 年">2019-12-30 : 楽しかった 2019 年</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2019/12/22/goldenbomber-and-me-in-reiwa-1st/" title="令和元年のゴールデンボンバーとわたし">2019-12-22 : 令和元年のゴールデンボンバーとわたし</a>
+          </li>
+          
+        </ul>
+        <h2>
+          書き手について
+        </h2>
+        <p>
+          大和田純。源氏名「june29」で活動中。北海道生まれ少年漫画育ち。渋谷区の大和田地方に勤めている。
+        </p>
+        <h2>
+          このサイトについて
+        </h2>
+        <p>
+          このサイトは大和田純によって運営されています。個人の見解や日常のことを書いています。ソースコードは
+          <a href="https://github.com/june29/june29.jp">GitHub</a>
+          にあります。
+        </p>
+      </div>
+    </footer>
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=392332164169856";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+    <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+
+    <script type="text/javascript" src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
+<script type="text/javascript">
+  Hatena.Star.SiteConfig = {
+    entryNodes: {
+      'article': {
+        uri: '.article__foot a.original-url',
+        title: '.article__head h2',
+        container: '.hatena-star-container'
+      }
+    }
+  };
+</script>
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1005149-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+  </body>
+</html>
+

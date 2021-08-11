@@ -1,0 +1,284 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="alternate" type="application/atom+xml" title="Atom" href="/index.xml"/>
+    
+    <link rel="stylesheet" type="text/css" href="/css/reset.css">
+    <link rel="stylesheet" href="https://june29.jp/hugo29.min.5247624668cfd436bc1d3bbedeac608fb1a06e6c38f124f304f9d02427c7aeaa.css">
+
+    <script type="text/javascript" src="/js/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="/js/underscore-min.js"></script>
+    <script type="text/javascript" src="/js/hugo29.js?t=1628643181"></script>
+
+    <script type="text/javascript" src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
+    <script type="text/javascript">
+    Hatena.Star.Token = '6086952ec2c380a34a31cd307d5424114a0da296';
+    </script>
+
+    <meta property="og:site_name" content="#june29jp" />
+    <meta property="og:locale " content="ja-jp" />
+
+    <meta property="og:url" content="https://june29.jp/2018/08/14/reacji-channeler/" />
+    <meta name="twitter:url" content="https://june29.jp/2018/08/14/reacji-channeler/" />
+    <link rel="canonical" href="https://june29.jp/2018/08/14/reacji-channeler/" />
+
+    <meta name="description" content="Slack 社が Slack 用に提供している Reacji Channeler という仕組みがあります。あまり知られていないように感じたので紹介してみます。" />
+    <meta name="twitter:description" content="Slack 社が Slack 用に提供している Reacji Channeler という仕組みがあります。あまり知られていないように感じたので紹介してみます。">
+    <meta property="og:description" content="Slack 社が Slack 用に提供している Reacji Channeler という仕組みがあります。あまり知られていないように感じたので紹介してみます。" />
+
+    <meta name="twitter:site" content="@june29" />
+    <meta name="twitter:creator" content="@june29" />
+
+
+    <meta property="og:title" content="Slack の Reacji Channeler のすゝめ" />
+    <meta name="twitter:title" content="Slack の Reacji Channeler のすゝめ" />
+    <title>Slack の Reacji Channeler のすゝめ - #june29jp</title>
+
+    <meta name="twitter:image" content="https://june29.jp/post/2018/08/14/reacji-channeler.png" />
+    <meta property="og:image" content="https://june29.jp/post/2018/08/14/reacji-channeler.png" />
+
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="og:type" content="article" />
+    <meta property="og:article:published_time" content="2018-08-14T12:00:00&#43;09:00" />
+    <meta property="og:article:section" content="post" />
+
+
+
+  </head>
+  <body>
+    <header>
+      <h1>
+        <a href="/">#june29jp</a>
+      </h1>
+      <p>
+        <img src="/img/ring.jpg" width="80" height="80" class="circle-icon">
+      </p>
+    </header>
+    <div id="main">
+      <div id="main__inner" class="inner">
+
+
+<article>
+  <div class="article__head">
+    <h2>
+      <a href="https://june29.jp/2018/08/14/reacji-channeler/" title="Slack の Reacji Channeler のすゝめ">Slack の Reacji Channeler のすゝめ</a>
+    </h2>
+    <p>
+      2018-08-14
+    </p>
+  </div>
+  <div class="article__body">
+    
+
+<p><a href="https://reacji-channeler.builtbyslack.com/" title="Reacji Channeler">Reacji Channeler</a> という、Slack 社が提供する Slack 用の便利機能があります。明示的にインストールしなきゃ利用できないので、Slack を使いつつも存在を知らないという人も多いように感じています。チャンネル数が少ない Slack Workspace ではそれほど意味をなさない、という性質もありますしね。一方、ぼくが所属するペパボのような数百人規模の組織で活用されている Slack においてはなかなかおもしろい働きをするので、周知のために書いてみようと思い立ちました。</p>
+
+<p><img src="/post/2018/08/14/reacji-channeler.png"></p>
+
+<p>Slack 社、これをどれくらい推したいのかよくわからないのもおもしろいです。公式っぽい機能のわりにはぜんぜんアピールする気配がないような。あと名前がわかりにくい！リアクジ・チャンネラー。たぶん「Reaction + Emoji + Channel」あたりを混ぜて生成された言葉。日本語でいうと「リアクション絵文字チャンネル太郎」みたいなニュアンスだと思います。</p>
+
+<h3 id="reacji-channeler-の機能">Reacji Channeler の機能</h3>
+
+<p>使い始めるには導入を済ませる必要があるので <a href="https://reacji-channeler.builtbyslack.com/" title="Reacji Channeler">Reacji Channeler</a> からエイヤッとお願いします。</p>
+
+<p>導入が済んだら、続いて設定を施していきます。設定といっても作業は簡単で「任意の Emoji を、任意の Channel に紐付ける」それだけです。具体的には Slack の発言入力欄に以下のようにコマンドを打ち込むだけ。</p>
+
+<pre><code>/reacji-channeler :emoji: #channel
+</code></pre>
+
+<p>そうすると、Slack の発言に :emoji: のリアクションがついたときに #channel にシェアされるようになります。下のスクリーンショットは、ほとんどぼくが独りで活用している #29channel という Channel の様子です。ぼくは「大和田」という印鑑の Emoji がつけられた発言は #29channel に流れてくるように設定しています。</p>
+
+<p><img src="/post/2018/08/14/reacji-channeler-example.png"></p>
+
+<p>誰かが @june29 関連の話題に「大和田」の Emoji Reaction をつけるだけでぼくのもとに情報が届くので便利です。また、ぼくの勤務先の地域には「大和田」と呼ばれるエリアがあり、それ関連の情報もちょいちょい流れてきておもしろいのでした。</p>
+
+<p><a href="https://twitter.com/kenchan" title="ウォッチ (@kenchan) | Twitter">@kenchan</a> も似たような設定をしていて、同じく印鑑の「高橋」の Emoji の Reaction がついた発言は @kenchan が個人でワイワイしている Channel に飛んでいきます。</p>
+
+<h3 id="ぼくのまわりでの-reacji-channeler-の活用事例">ぼくのまわりでの Reacji Channeler の活用事例</h3>
+
+<p>ペパボの Slack には「エンジニアみんなが集まる場所」があって、多くのエンジニアや、あるいはエンジニアの生態に興味がある他の職種の人も自由に出入りする Channel になっています。そこの Channel にシェアするための Emoji が設定してあるので「これはエンジニアみんなと共有したいな」となったものはバシバシと飛ばされています。</p>
+
+<p>Reacji Channeler を導入していなかったとしても「これは共有したい」と思った発言って Copy link して然るべき Channel にペーストされていくじゃないですか。それをもっと気軽に、カジュアルにやれるようにしてくれる感じです。</p>
+
+<p>他にも「社が提供するサービスごとの Emoji が、そのサービスの Channel に共有される」設定があったり、この Emoji をつけたら広報のみなさんの Channel に共有される、といった使われ方をしています。おもしろ枠でいうと :curry: がついたら #curry にシェアされる、というのもあります。</p>
+
+<h3 id="より高度な使い方">より高度な使い方</h3>
+
+<p>Slack においては、発言するにはその Channel に Join する必要があります。しかし Reacji Channeler では飛ばし先の Channel に入らなくても利用できるため、一方的に情報を投げ付けることができます。この特徴を利用して、ぼくは @kenchan に一方的に投げ付けたい社内の情報をよく飛ばしています。ぼくの #29channel にも各方面からいろんな情報が投げ込まれています。</p>
+
+<p>Emoji Reaction で発言を飛ばしたあと、Emoji Reaction を削除してもシェアされた発言は残ります。この挙動を利用すると完全犯罪が成立してしまってやばいです。たまに誰かが「大和田」の Emoji で #29channel に情報を飛ばしたあと、その「大和田」の Reaction を取り消ししているんですよね。誰が飛ばしてきたかわからなくなります。ぼくらはこの行為を俗に「投石」と呼んでいて、Reacji Channeler は投石器にもなり得るので注意が必要です。</p>
+
+<h3 id="まとめ">まとめ</h3>
+
+<p>ぼくは大好きだけれど、観測範囲ではぜんぜん言及されていないようなので <a href="https://reacji-channeler.builtbyslack.com/" title="Reacji Channeler">Reacji Channeler</a> の紹介文を書いてみました。身近なところでの活用事例もあわせて載せました。後半は犯罪を助長するような内容にもなってしまいましたが、みなさまにおかれましては用法・用量をよく守り健全な Reacji Channeler ライフを送っていただきたいと思います。</p>
+
+<p>興味を持った人は、ぜひあなたの Slack Workspace に導入してみてください！おもしろ便利な使い方が発見されたら @june29 にも教えてください。</p>
+
+<h3 id="読者の声">読者の声</h3>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">うちのSlackも :god: とか自然と流れてくるようになってるチャンネルがあって、各位の神ムーブが可視化されています / “Slack の Reacji Channeler のすゝめ - <a href="https://twitter.com/hashtag/june29jp?src=hash&amp;ref_src=twsrc%5Etfw">#june29jp</a>” <a href="https://t.co/2u51seZCUo">https://t.co/2u51seZCUo</a></p>&mdash; . (@mactkg) <a href="https://twitter.com/mactkg/status/1029286849762578432?ref_src=twsrc%5Etfw">August 14, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">これめっちゃいいですよね。うちは :cool: で誰がCoolな発言や活動しているのか可視化されてて良い感じになっている。 / “Slack の Reacji Channeler のすゝめ - <a href="https://twitter.com/hashtag/june29jp?src=hash&amp;ref_src=twsrc%5Etfw">#june29jp</a>” <a href="https://t.co/Lu1kPvBqF0">https://t.co/Lu1kPvBqF0</a></p>&mdash; uenot (@braitom) <a href="https://twitter.com/braitom/status/1029394039181733888?ref_src=twsrc%5Etfw">August 14, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">うちは :kintai: 付けると <a href="https://twitter.com/hashtag/kintai?src=hash&amp;ref_src=twsrc%5Etfw">#kintai</a> channel に流れるようになってる。チームの channel に連絡して :kintai: 付ければ社内全体に伝わるので便利。 / “Slack の Reacji Chan…” <a href="https://t.co/wunPhgQzAn">https://t.co/wunPhgQzAn</a></p>&mdash; Takashi Masuda (@masutaka) <a href="https://twitter.com/masutaka/status/1029406616024625153?ref_src=twsrc%5Etfw">August 14, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/dev?src=hash&amp;ref_src=twsrc%5Etfw">#dev</a> に共有するための :dev: っていうよりは、 <a href="https://twitter.com/hashtag/dev?src=hash&amp;ref_src=twsrc%5Etfw">#dev</a> にgoodなengineeringを共有するための :good_engineering: っていう使い方のほうがコンテキスト濃くて好みな気がする</p>&mdash; 👶 (@negipo) <a href="https://twitter.com/negipo/status/1029267046947647488?ref_src=twsrc%5Etfw">August 14, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">reacji channeler、社内ブログに記事書いたらさっそくサポートの人たちがバグ報告を :ant: で集積し始めてて最高</p>&mdash; 👶 (@negipo) <a href="https://twitter.com/negipo/status/1029280275077816320?ref_src=twsrc%5Etfw">August 14, 2018</a></blockquote>
+
+  </div>
+  <div class="article__foot">
+    
+    <h4 class="for-pc">
+  おもしろかったら、シェアやブックマークや送金などぜひぜひお願いします。サイト運営の励みになります！
+</h4>
+<h4 class="for-mobile">
+  シェアや送金などお待ちしています！
+</h4>
+<p class="hatena-star-container">
+  <a href="https://b.hatena.ne.jp/entry/s/june29.jp/2018/08/14/reacji-channeler/">
+    <img src="https://b.hatena.ne.jp/entry/image/https://june29.jp/2018/08/14/reacji-channeler/">
+  </a>
+  <p class="display-none">
+    <a href="https://june29.jp/2018/08/14/reacji-channeler/" class="original-url">https://june29.jp/2018/08/14/reacji-channeler/</a>
+  </p>
+</p>
+<div class="kyash-me">
+  <div class="for-pc">
+    <img src="/img/kyash-me-pc.gif">
+  </div>
+  <div class="for-mobile">
+    <p>
+      <img src="/img/kyash-me-mobile.gif">
+    </p>
+    <p class="kyash-button-container">
+      <a href="kyash://request/u/3b34827c-cbf0-4ad3-839b-a18108ccb2ff">
+        <img src="/img/kyash-logo.png" height="28">
+        で 99 円を送金する
+      </a>
+    </p>
+  </div>
+</div>
+
+
+  </div>
+</article>
+
+
+<div id="other-entries">
+  <h3>前後の記事や他の記事もどうぞ</h3>
+  <ul>
+  
+    <li>
+      <a href="/2018/08/14/circleci-2.0/" title="CircleCI 2.0 に移行しました">2018-08-14 : CircleCI 2.0 に移行しました</a>
+    </li>
+  
+  
+    <li>
+      <a href="/2018/08/03/yes-anding/" title="有限の貴重な資源であるモチベーションを無駄にしない「Yes, And」のマインド">2018-08-03 : 有限の貴重な資源であるモチベーションを無駄にしない「Yes, And」のマインド</a>
+    </li>
+  
+  </ul>
+</div>
+
+      </div>
+    </div>
+    <footer>
+      <div class="footer__inner inner">
+        <h2>
+          最近の記事
+        </h2>
+        <ul>
+          
+          <li>
+            <a href="https://june29.jp/2021/08/10/tochigi-nasushiobara-3months/" title="栃木県那須塩原市で3ヶ月間ほど暮らしてみて">2021-08-10 : 栃木県那須塩原市で3ヶ月間ほど暮らしてみて</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/12/31/2020-in-my-house/" title="ふりかえり 2020">2020-12-31 : ふりかえり 2020</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/07/18/vlog/" title="Vlog を 1 ヶ月間やってみた記録">2020-07-18 : Vlog を 1 ヶ月間やってみた記録</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/07/06/nosh/" title="ヘルシーな冷凍弁当宅配サービス「nosh」を利用している話">2020-07-06 : ヘルシーな冷凍弁当宅配サービス「nosh」を利用している話</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/05/24/tell-me-remote-work/" title="教えてリモートワーク @june29 の場合">2020-05-24 : 教えてリモートワーク @june29 の場合</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2020/04/05/social-distancing-2020/" title="Social Distancing と 2020 年">2020-04-05 : Social Distancing と 2020 年</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2019/12/30/lovely-2019/" title="楽しかった 2019 年">2019-12-30 : 楽しかった 2019 年</a>
+          </li>
+          
+          <li>
+            <a href="https://june29.jp/2019/12/22/goldenbomber-and-me-in-reiwa-1st/" title="令和元年のゴールデンボンバーとわたし">2019-12-22 : 令和元年のゴールデンボンバーとわたし</a>
+          </li>
+          
+        </ul>
+        <h2>
+          書き手について
+        </h2>
+        <p>
+          大和田純。源氏名「june29」で活動中。北海道生まれ少年漫画育ち。渋谷区の大和田地方に勤めている。
+        </p>
+        <h2>
+          このサイトについて
+        </h2>
+        <p>
+          このサイトは大和田純によって運営されています。個人の見解や日常のことを書いています。ソースコードは
+          <a href="https://github.com/june29/june29.jp">GitHub</a>
+          にあります。
+        </p>
+      </div>
+    </footer>
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=392332164169856";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+    <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+
+    <script type="text/javascript" src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
+<script type="text/javascript">
+  Hatena.Star.SiteConfig = {
+    entryNodes: {
+      'article': {
+        uri: '.article__foot a.original-url',
+        title: '.article__head h2',
+        container: '.hatena-star-container'
+      }
+    }
+  };
+</script>
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1005149-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+  </body>
+</html>
+
